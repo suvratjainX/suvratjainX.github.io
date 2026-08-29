@@ -1,0 +1,8182 @@
+export const sidebarData = [
+  
+  
+  
+  
+  {
+    type: "header",
+    title: `
+BBBBBBBBBBBBBB    HHHH    HHHH      AAAAAAAAAA     JJJJJJJJJJJJJ      AAAAAAA    NNNN    NNNN
+BBBBB     BBBB    HHHH    HHHH      AAAA  AAAA          JJJJ         AAAA AAAA   NNNNN   NNNN
+BBBBBBBBBBBBBB    HHHHHHHHHHHH      AAAAAAAAAA          JJJJ        AAAA   AAAA  NNN NNN NNNN
+BBBBB     BBBB    HHHH    HHHH      AAAA  AAAA    JJJJ  JJJJ        AAAAAAAAAAA  NNN  NNNNNNN
+BBBBBBBBBBBBBB    HHHH    HHHH      AAAA  AAAA     JJJJJJJJ         AAAA   AAAA  NNNN    NNNN
+    `,
+
+  },
+  
+  
+  
+  
+  {
+    type: "category",
+    title: "भजन",
+    children: [
+      {
+    "title": "देव",
+    "children": [
+      {
+        "title": "अंतर में आनंद आयो",
+        "href": "./jainDataBase/bhajans/01_देव/html/अंतर-में-आनंद-आयो.html"
+      },
+      {
+        "title": "अंतर",
+        "href": "./jainDataBase/bhajans/01_देव/html/अंतर.html"
+      },
+      {
+        "title": "अपना ही रंग मोहे",
+        "href": "./jainDataBase/bhajans/01_देव/html/अपना-ही-रंग-मोहे.html"
+      },
+      {
+        "title": "अभिनंदन--जगदानंदन",
+        "href": "./jainDataBase/bhajans/01_देव/html/अभिनंदन--जगदानंदन.html"
+      },
+      {
+        "title": "अरिहंत देव स्वामी शरण",
+        "href": "./jainDataBase/bhajans/01_देव/html/अरिहंत-देव-स्वामी-शरण.html"
+      },
+      {
+        "title": "अशरण जग में चंद्रनाथ जी",
+        "href": "./jainDataBase/bhajans/01_देव/html/अशरण-जग-में-चंद्रनाथ-जी.html"
+      },
+      {
+        "title": "अशरीरी सिद्ध भगवान",
+        "href": "./jainDataBase/bhajans/01_देव/html/अशरीरी-सिद्ध-भगवान.html"
+      },
+      {
+        "title": "आओ जिनमंदिर में आओ",
+        "href": "./jainDataBase/bhajans/01_देव/html/आओ-जिनमंदिर-में-आओ.html"
+      },
+      {
+        "title": "आओ दिखायें हम शुभ नगरी",
+        "href": "./jainDataBase/bhajans/01_देव/html/आओ-दिखायें-हम-शुभ-नगरी.html"
+      },
+      {
+        "title": "आगया शरण तिहारी आगया",
+        "href": "./jainDataBase/bhajans/01_देव/html/आगया-शरण-तिहारी-आगया.html"
+      },
+      {
+        "title": "आज खुशी तेरे दर्शन की",
+        "href": "./jainDataBase/bhajans/01_देव/html/आज-खुशी-तेरे-दर्शन-की.html"
+      },
+      {
+        "title": "आज हम जिनराज",
+        "href": "./jainDataBase/bhajans/01_देव/html/आज-हम-जिनराज.html"
+      },
+      {
+        "title": "आदिनाथ--गाएँ जी गाएँ",
+        "href": "./jainDataBase/bhajans/01_देव/html/आदिनाथ--गाएँ-जी-गाएँ.html"
+      },
+      {
+        "title": "आदिनाथ--जपलो रे आदीश्वर",
+        "href": "./jainDataBase/bhajans/01_देव/html/आदिनाथ--जपलो-रे-आदीश्वर.html"
+      },
+      {
+        "title": "आदिनाथ--देखो जी आदिश्वर",
+        "href": "./jainDataBase/bhajans/01_देव/html/आदिनाथ--देखो-जी-आदिश्वर.html"
+      },
+      {
+        "title": "आदिनाथ--म्हारा आदीश्वर",
+        "href": "./jainDataBase/bhajans/01_देव/html/आदिनाथ--म्हारा-आदीश्वर.html"
+      },
+      {
+        "title": "आया तेरे दरबार में",
+        "href": "./jainDataBase/bhajans/01_देव/html/आया-तेरे-दरबार-में.html"
+      },
+      {
+        "title": "आये आये रे जिनंदा",
+        "href": "./jainDataBase/bhajans/01_देव/html/आये-आये-रे-जिनंदा.html"
+      },
+      {
+        "title": "आयो आयो रे हमारो",
+        "href": "./jainDataBase/bhajans/01_देव/html/आयो-आयो-रे-हमारो.html"
+      },
+      {
+        "title": "एक तुम्हीं आधार हो",
+        "href": "./jainDataBase/bhajans/01_देव/html/एक-तुम्हीं-आधार-हो.html"
+      },
+      {
+        "title": "ओ जगत के शांति दाता",
+        "href": "./jainDataBase/bhajans/01_देव/html/ओ-जगत-के-शांति-दाता.html"
+      },
+      {
+        "title": "कभी वीर बनके",
+        "href": "./jainDataBase/bhajans/01_देव/html/कभी-वीर-बनके.html"
+      },
+      {
+        "title": "कर लो जिनवर का गुणगान",
+        "href": "./jainDataBase/bhajans/01_देव/html/कर-लो-जिनवर-का-गुणगान.html"
+      },
+      {
+        "title": "करता रहूँ गुणगान",
+        "href": "./jainDataBase/bhajans/01_देव/html/करता-रहूँ-गुणगान.html"
+      },
+      {
+        "title": "करता हूं तुम्हारा सुमिरन",
+        "href": "./jainDataBase/bhajans/01_देव/html/करता-हूं-तुम्हारा-सुमिरन.html"
+      },
+      {
+        "title": "करुणा सागर भगवान",
+        "href": "./jainDataBase/bhajans/01_देव/html/करुणा-सागर-भगवान.html"
+      },
+      {
+        "title": "कुंथुनाथ--कुंथुन के प्रतिपाल",
+        "href": "./jainDataBase/bhajans/01_देव/html/कुंथुनाथ--कुंथुन-के-प्रतिपाल.html"
+      },
+      {
+        "title": "केसरिया केसरिया",
+        "href": "./jainDataBase/bhajans/01_देव/html/केसरिया-केसरिया.html"
+      },
+      {
+        "title": "कैसा अद्भुत शान्त स्वरूप",
+        "href": "./jainDataBase/bhajans/01_देव/html/कैसा-अद्भुत-शान्त-स्वरूप.html"
+      },
+      {
+        "title": "कैसी सुन्दर जिन प्रतिमा",
+        "href": "./jainDataBase/bhajans/01_देव/html/कैसी-सुन्दर-जिन-प्रतिमा.html"
+      },
+      {
+        "title": "कोई इत आओ जी",
+        "href": "./jainDataBase/bhajans/01_देव/html/कोई-इत-आओ-जी.html"
+      },
+      {
+        "title": "गंगा कल कल स्वर में",
+        "href": "./jainDataBase/bhajans/01_देव/html/गंगा-कल-कल-स्वर-में.html"
+      },
+      {
+        "title": "गा रे भैया",
+        "href": "./jainDataBase/bhajans/01_देव/html/गा-रे-भैया.html"
+      },
+      {
+        "title": "घड़ी जिनराज दर्शन की",
+        "href": "./jainDataBase/bhajans/01_देव/html/घड़ी-जिनराज-दर्शन-की.html"
+      },
+      {
+        "title": "चंद्रनाथ--चंद्रानन",
+        "href": "./jainDataBase/bhajans/01_देव/html/चंद्रनाथ--चंद्रानन.html"
+      },
+      {
+        "title": "चंद्रनाथ--निरखत जिन चंद्रवदन",
+        "href": "./jainDataBase/bhajans/01_देव/html/चंद्रनाथ--निरखत-जिन-चंद्रवदन.html"
+      },
+      {
+        "title": "चरणों में आया हूं",
+        "href": "./jainDataBase/bhajans/01_देव/html/चरणों-में-आया-हूं.html"
+      },
+      {
+        "title": "चाँदनी फीकी पड़ जाए",
+        "href": "./jainDataBase/bhajans/01_देव/html/चाँदनी-फीकी-पड़-जाए.html"
+      },
+      {
+        "title": "चाह मुझे है दर्शन की",
+        "href": "./jainDataBase/bhajans/01_देव/html/चाह-मुझे-है-दर्शन-की.html"
+      },
+      {
+        "title": "जपि माला जिनवर",
+        "href": "./jainDataBase/bhajans/01_देव/html/जपि-माला-जिनवर.html"
+      },
+      {
+        "title": "जब कोई नहीं आता",
+        "href": "./jainDataBase/bhajans/01_देव/html/जब-कोई-नहीं-आता.html"
+      },
+      {
+        "title": "जय जय जय जिनवर जी मेरी",
+        "href": "./jainDataBase/bhajans/01_देव/html/जय-जय-जय-जिनवर-जी-मेरी.html"
+      },
+      {
+        "title": "जयवंतो जिनबिम्ब",
+        "href": "./jainDataBase/bhajans/01_देव/html/जयवंतो-जिनबिम्ब.html"
+      },
+      {
+        "title": "जिन ध्याना गुण गाना",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिन-ध्याना-गुण-गाना.html"
+      },
+      {
+        "title": "जिन पूजन कर लो ये ही",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिन-पूजन-कर-लो-ये-ही.html"
+      },
+      {
+        "title": "जिन मंदिर में आके हम",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिन-मंदिर-में-आके-हम.html"
+      },
+      {
+        "title": "जिनजी के दरश मिले",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनजी-के-दरश-मिले.html"
+      },
+      {
+        "title": "जिनदेव से कीनी जाने प्रीत",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनदेव-से-कीनी-जाने-प्रीत.html"
+      },
+      {
+        "title": "जिनराज तेरी महिमा",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनराज-तेरी-महिमा.html"
+      },
+      {
+        "title": "जिनवर की भक्ति करेगा",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनवर-की-भक्ति-करेगा.html"
+      },
+      {
+        "title": "जिनवर की वाणी में म्‍हारो",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनवर-की-वाणी-में-म्‍हारो.html"
+      },
+      {
+        "title": "जिनवर की होवे जय जयकार",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनवर-की-होवे-जय-जयकार.html"
+      },
+      {
+        "title": "जिनवर तू है चंदा तो",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनवर-तू-है-चंदा-तो.html"
+      },
+      {
+        "title": "जिनवर दरबार तुम्हारा",
+        "href": "./jainDataBase/bhajans/01_देव/html/जिनवर-दरबार-तुम्हारा.html"
+      },
+      {
+        "title": "जो पूजा प्रभु की रचाता",
+        "href": "./jainDataBase/bhajans/01_देव/html/जो-पूजा-प्रभु-की-रचाता.html"
+      },
+      {
+        "title": "झीनी झीनी उडे रे",
+        "href": "./jainDataBase/bhajans/01_देव/html/झीनी-झीनी-उडे-रे.html"
+      },
+      {
+        "title": "तिहारे ध्यान की मूरत",
+        "href": "./jainDataBase/bhajans/01_देव/html/तिहारे-ध्यान-की-मूरत.html"
+      },
+      {
+        "title": "तुम जैसा मैं भी",
+        "href": "./jainDataBase/bhajans/01_देव/html/तुम-जैसा-मैं-भी.html"
+      },
+      {
+        "title": "तुम्हारे दर्श बिन स्वामी",
+        "href": "./jainDataBase/bhajans/01_देव/html/तुम्हारे-दर्श-बिन-स्वामी.html"
+      },
+      {
+        "title": "तुम्ही हो ज्ञाता",
+        "href": "./jainDataBase/bhajans/01_देव/html/तुम्ही-हो-ज्ञाता.html"
+      },
+      {
+        "title": "तू ज्ञान का सागर है",
+        "href": "./jainDataBase/bhajans/01_देव/html/तू-ज्ञान-का-सागर-है.html"
+      },
+      {
+        "title": "तेरी छत्रछाया भगवन् मेरे",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरी-छत्रछाया-भगवन्-मेरे.html"
+      },
+      {
+        "title": "तेरी परम दिगंबर मुद्रा को",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरी-परम-दिगंबर-मुद्रा-को.html"
+      },
+      {
+        "title": "तेरी शांत छवि",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरी-शांत-छवि.html"
+      },
+      {
+        "title": "तेरी शीतल शीतल मूरत",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरी-शीतल-शीतल-मूरत.html"
+      },
+      {
+        "title": "तेरी सुंदर मूरत",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरी-सुंदर-मूरत.html"
+      },
+      {
+        "title": "तेरे दर्शन को मन",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरे-दर्शन-को-मन.html"
+      },
+      {
+        "title": "तेरे दर्शन से मेरा",
+        "href": "./jainDataBase/bhajans/01_देव/html/तेरे-दर्शन-से-मेरा.html"
+      },
+      {
+        "title": "दया करो भगवन् मुझपर",
+        "href": "./jainDataBase/bhajans/01_देव/html/दया-करो-भगवन्-मुझपर.html"
+      },
+      {
+        "title": "दयालु प्रभु से दया",
+        "href": "./jainDataBase/bhajans/01_देव/html/दयालु-प्रभु-से-दया.html"
+      },
+      {
+        "title": "दरबार तुम्हारा मनहर है",
+        "href": "./jainDataBase/bhajans/01_देव/html/दरबार-तुम्हारा-मनहर-है.html"
+      },
+      {
+        "title": "दिन रात स्वामी तेरे गीत",
+        "href": "./jainDataBase/bhajans/01_देव/html/दिन-रात-स्वामी-तेरे-गीत.html"
+      },
+      {
+        "title": "धन्य धन्य आज घडी",
+        "href": "./jainDataBase/bhajans/01_देव/html/धन्य-धन्य-आज-घडी.html"
+      },
+      {
+        "title": "ध्यान धर ले प्रभू को",
+        "href": "./jainDataBase/bhajans/01_देव/html/ध्यान-धर-ले-प्रभू-को.html"
+      },
+      {
+        "title": "ना जिन द्वार आये ना",
+        "href": "./jainDataBase/bhajans/01_देव/html/ना-जिन-द्वार-आये-ना.html"
+      },
+      {
+        "title": "नाथ तुम्हारी पूजा",
+        "href": "./jainDataBase/bhajans/01_देव/html/नाथ-तुम्हारी-पूजा.html"
+      },
+      {
+        "title": "नाथ तुम्हारे दर्शन से",
+        "href": "./jainDataBase/bhajans/01_देव/html/नाथ-तुम्हारे-दर्शन-से.html"
+      },
+      {
+        "title": "नाम तुम्हारा तारणहारा",
+        "href": "./jainDataBase/bhajans/01_देव/html/नाम-तुम्हारा-तारणहारा.html"
+      },
+      {
+        "title": "निरखी निरखी मनहर",
+        "href": "./jainDataBase/bhajans/01_देव/html/निरखी-निरखी-मनहर.html"
+      },
+      {
+        "title": "निरखो अंग अंग जिनवर",
+        "href": "./jainDataBase/bhajans/01_देव/html/निरखो-अंग-अंग-जिनवर.html"
+      },
+      {
+        "title": "नेमि जिनेश्वर",
+        "href": "./jainDataBase/bhajans/01_देव/html/नेमि-जिनेश्वर.html"
+      },
+      {
+        "title": "नेमिनाथ--नेमिप्रभू की श्यामवरन",
+        "href": "./jainDataBase/bhajans/01_देव/html/नेमिनाथ--नेमिप्रभू-की-श्यामवरन.html"
+      },
+      {
+        "title": "नेमिनाथ--रोम रोम में नेमि",
+        "href": "./jainDataBase/bhajans/01_देव/html/नेमिनाथ--रोम-रोम-में-नेमि.html"
+      },
+      {
+        "title": "नेमिनाथ--शौरीपुर वाले",
+        "href": "./jainDataBase/bhajans/01_देव/html/नेमिनाथ--शौरीपुर-वाले.html"
+      },
+      {
+        "title": "पंचपरम परमेष्ठी",
+        "href": "./jainDataBase/bhajans/01_देव/html/पंचपरम-परमेष्ठी.html"
+      },
+      {
+        "title": "पद्मप्रभु--पद्मसद्म",
+        "href": "./jainDataBase/bhajans/01_देव/html/पद्मप्रभु--पद्मसद्म.html"
+      },
+      {
+        "title": "पारसनाथ--चवलेश्वर पारसनाथ",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--चवलेश्वर-पारसनाथ.html"
+      },
+      {
+        "title": "पारसनाथ--तुमसे लागी लगन",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--तुमसे-लागी-लगन.html"
+      },
+      {
+        "title": "पारसनाथ--पारस प्यारा लागो",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--पारस-प्यारा-लागो.html"
+      },
+      {
+        "title": "पारसनाथ--पारस प्रभु का",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--पारस-प्रभु-का.html"
+      },
+      {
+        "title": "पारसनाथ--पार्श्व प्रभुजी पार",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--पार्श्व-प्रभुजी-पार.html"
+      },
+      {
+        "title": "पारसनाथ--मंगल थाल सजाकर",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--मंगल-थाल-सजाकर.html"
+      },
+      {
+        "title": "पारसनाथ--मेरे प्रभु का पारस",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--मेरे-प्रभु-का-पारस.html"
+      },
+      {
+        "title": "पारसनाथ--मैं करूँ वंदना",
+        "href": "./jainDataBase/bhajans/01_देव/html/पारसनाथ--मैं-करूँ-वंदना.html"
+      },
+      {
+        "title": "प्रभु दर्शन कर जीवन की",
+        "href": "./jainDataBase/bhajans/01_देव/html/प्रभु-दर्शन-कर-जीवन-की.html"
+      },
+      {
+        "title": "प्रभु हम सब का एक",
+        "href": "./jainDataBase/bhajans/01_देव/html/प्रभु-हम-सब-का-एक.html"
+      },
+      {
+        "title": "प्रभुजी अब ना भटकेंगे",
+        "href": "./jainDataBase/bhajans/01_देव/html/प्रभुजी-अब-ना-भटकेंगे.html"
+      },
+      {
+        "title": "प्रभुजी मन मंदिर में आओ",
+        "href": "./jainDataBase/bhajans/01_देव/html/प्रभुजी-मन-मंदिर-में-आओ.html"
+      },
+      {
+        "title": "बाहुबली भगवान",
+        "href": "./jainDataBase/bhajans/01_देव/html/बाहुबली-भगवान.html"
+      },
+      {
+        "title": "भगवान मेरी नैया उस",
+        "href": "./jainDataBase/bhajans/01_देव/html/भगवान-मेरी-नैया-उस.html"
+      },
+      {
+        "title": "भटके हुए राही को",
+        "href": "./jainDataBase/bhajans/01_देव/html/भटके-हुए-राही-को.html"
+      },
+      {
+        "title": "भावना की चूनरी",
+        "href": "./jainDataBase/bhajans/01_देव/html/भावना-की-चूनरी.html"
+      },
+      {
+        "title": "मंगल अरिहंत मंगल",
+        "href": "./jainDataBase/bhajans/01_देव/html/मंगल-अरिहंत-मंगल.html"
+      },
+      {
+        "title": "मन ज्योत जला देना प्रभु",
+        "href": "./jainDataBase/bhajans/01_देव/html/मन-ज्योत-जला-देना-प्रभु.html"
+      },
+      {
+        "title": "मन तड़फत प्रभु दरशन",
+        "href": "./jainDataBase/bhajans/01_देव/html/मन-तड़फत-प्रभु-दरशन.html"
+      },
+      {
+        "title": "मन भाये चित हुलसाये",
+        "href": "./jainDataBase/bhajans/01_देव/html/मन-भाये-चित-हुलसाये.html"
+      },
+      {
+        "title": "मनहर तेरी मूरतियाँ",
+        "href": "./jainDataBase/bhajans/01_देव/html/मनहर-तेरी-मूरतियाँ.html"
+      },
+      {
+        "title": "मनहर मूरत जिनन्द निहार",
+        "href": "./jainDataBase/bhajans/01_देव/html/मनहर-मूरत-जिनन्द-निहार.html"
+      },
+      {
+        "title": "महाराजा स्वामी",
+        "href": "./jainDataBase/bhajans/01_देव/html/महाराजा-स्वामी.html"
+      },
+      {
+        "title": "महावीर--आज मैं महावीर",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--आज-मैं-महावीर.html"
+      },
+      {
+        "title": "महावीर--आये तेरे द्वार",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--आये-तेरे-द्वार.html"
+      },
+      {
+        "title": "महावीर--एक बार आओ जी",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--एक-बार-आओ-जी.html"
+      },
+      {
+        "title": "महावीर--जय बोलो त्रिशला",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--जय-बोलो-त्रिशला.html"
+      },
+      {
+        "title": "महावीर--तुझे प्रभु वीर कहते",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--तुझे-प्रभु-वीर-कहते.html"
+      },
+      {
+        "title": "महावीर--मस्तक झुका के",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--मस्तक-झुका-के.html"
+      },
+      {
+        "title": "महावीर--वर्तमान को वर्धमान",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--वर्तमान-को-वर्धमान.html"
+      },
+      {
+        "title": "महावीर--वर्धमान ललना से",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--वर्धमान-ललना-से.html"
+      },
+      {
+        "title": "महावीर--वीर प्रभु के ये बोल",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--वीर-प्रभु-के-ये-बोल.html"
+      },
+      {
+        "title": "महावीर--हरो पीर मेरी",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--हरो-पीर-मेरी.html"
+      },
+      {
+        "title": "महावीर--हे वीर तुम्हारे",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर--हे-वीर-तुम्हारे.html"
+      },
+      {
+        "title": "महावीर स्वामी",
+        "href": "./jainDataBase/bhajans/01_देव/html/महावीर-स्वामी.html"
+      },
+      {
+        "title": "मिलता है सच्चा सुख",
+        "href": "./jainDataBase/bhajans/01_देव/html/मिलता-है-सच्चा-सुख.html"
+      },
+      {
+        "title": "मूरत है बनी प्रभु की प्यारी",
+        "href": "./jainDataBase/bhajans/01_देव/html/मूरत-है-बनी-प्रभु-की-प्यारी.html"
+      },
+      {
+        "title": "मेरे मन मंदिर में आन",
+        "href": "./jainDataBase/bhajans/01_देव/html/मेरे-मन-मंदिर-में-आन.html"
+      },
+      {
+        "title": "मेरे सर पर रख दो",
+        "href": "./jainDataBase/bhajans/01_देव/html/मेरे-सर-पर-रख-दो.html"
+      },
+      {
+        "title": "मैं तेरे ढिंग आया रे",
+        "href": "./jainDataBase/bhajans/01_देव/html/मैं-तेरे-ढिंग-आया-रे.html"
+      },
+      {
+        "title": "मैं ये निर्ग्रंथ प्रतिमा",
+        "href": "./jainDataBase/bhajans/01_देव/html/मैं-ये-निर्ग्रंथ-प्रतिमा.html"
+      },
+      {
+        "title": "रंग दो जी रंग जिनराज",
+        "href": "./jainDataBase/bhajans/01_देव/html/रंग-दो-जी-रंग-जिनराज.html"
+      },
+      {
+        "title": "रंगमा रंगमा",
+        "href": "./jainDataBase/bhajans/01_देव/html/रंगमा-रंगमा.html"
+      },
+      {
+        "title": "रोम रोम पुलकित हो जाये",
+        "href": "./jainDataBase/bhajans/01_देव/html/रोम-रोम-पुलकित-हो-जाये.html"
+      },
+      {
+        "title": "रोम रोम से निकले",
+        "href": "./jainDataBase/bhajans/01_देव/html/रोम-रोम-से-निकले.html"
+      },
+      {
+        "title": "लिया प्रभू अवतार जयजयकार",
+        "href": "./jainDataBase/bhajans/01_देव/html/लिया-प्रभू-अवतार-जयजयकार.html"
+      },
+      {
+        "title": "वासुपूज्य--जय जिन वासुपूज्य",
+        "href": "./jainDataBase/bhajans/01_देव/html/वासुपूज्य--जय-जिन-वासुपूज्य.html"
+      },
+      {
+        "title": "वीतरागी देव",
+        "href": "./jainDataBase/bhajans/01_देव/html/वीतरागी-देव.html"
+      },
+      {
+        "title": "शुद्धातम की बात बता दो",
+        "href": "./jainDataBase/bhajans/01_देव/html/शुद्धातम-की-बात-बता-दो.html"
+      },
+      {
+        "title": "श्री अरहंत सदा मंगलमय",
+        "href": "./jainDataBase/bhajans/01_देव/html/श्री-अरहंत-सदा-मंगलमय.html"
+      },
+      {
+        "title": "श्री अरिहंत छवि लखिके",
+        "href": "./jainDataBase/bhajans/01_देव/html/श्री-अरिहंत-छवि-लखिके.html"
+      },
+      {
+        "title": "श्री जिनवर पद ध्यावें जे",
+        "href": "./jainDataBase/bhajans/01_देव/html/श्री-जिनवर-पद-ध्यावें-जे.html"
+      },
+      {
+        "title": "सच्चे जिनवर सच्चे सारे",
+        "href": "./jainDataBase/bhajans/01_देव/html/सच्चे-जिनवर-सच्चे-सारे.html"
+      },
+      {
+        "title": "सांची कहें तोहरे दर्शन से",
+        "href": "./jainDataBase/bhajans/01_देव/html/सांची-कहें-तोहरे-दर्शन-से.html"
+      },
+      {
+        "title": "सुरपति ले अपने शीश",
+        "href": "./jainDataBase/bhajans/01_देव/html/सुरपति-ले-अपने-शीश.html"
+      },
+      {
+        "title": "स्वर्ग से सुंदर अनुपम",
+        "href": "./jainDataBase/bhajans/01_देव/html/स्वर्ग-से-सुंदर-अनुपम.html"
+      },
+      {
+        "title": "हम यही कामना करते हैं",
+        "href": "./jainDataBase/bhajans/01_देव/html/हम-यही-कामना-करते-हैं.html"
+      },
+      {
+        "title": "हे जिन तेरे मैं शरणै",
+        "href": "./jainDataBase/bhajans/01_देव/html/हे-जिन-तेरे-मैं-शरणै.html"
+      },
+      {
+        "title": "हे जिन मेरी ऐसी बुधि",
+        "href": "./jainDataBase/bhajans/01_देव/html/हे-जिन-मेरी-ऐसी-बुधि.html"
+      },
+      {
+        "title": "हे ज्ञान सिन्‍धु भगवान",
+        "href": "./jainDataBase/bhajans/01_देव/html/हे-ज्ञान-सिन्‍धु-भगवान.html"
+      },
+      {
+        "title": "हे प्रभो चरणों में",
+        "href": "./jainDataBase/bhajans/01_देव/html/हे-प्रभो-चरणों-में.html"
+      },
+      {
+        "title": "है कितनी मनहार बहती",
+        "href": "./jainDataBase/bhajans/01_देव/html/है-कितनी-मनहार-बहती.html"
+      }
+    ]
+  },
+  {
+    "title": "शास्त्र",
+    "children": [
+      {
+        "title": "अमृतझर झुरि झुरि आवे",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/अमृतझर-झुरि-झुरि-आवे.html"
+      },
+      {
+        "title": "आत्मा_ही_समयसार",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/आत्मा_ही_समयसार.html"
+      },
+      {
+        "title": "इतनी शक्ति हमें देना माता",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/इतनी-शक्ति-हमें-देना-माता.html"
+      },
+      {
+        "title": "ओंकारमयी वाणी तेरी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/ओंकारमयी-वाणी-तेरी.html"
+      },
+      {
+        "title": "करता हूं मैं अभिनंदन",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/करता-हूं-मैं-अभिनंदन.html"
+      },
+      {
+        "title": "केवलिकन्ये",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/केवलिकन्ये.html"
+      },
+      {
+        "title": "चरणों में आ पडा हूं",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/चरणों-में-आ-पडा-हूं.html"
+      },
+      {
+        "title": "जब एक रत्न अनमोल",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जब-एक-रत्न-अनमोल.html"
+      },
+      {
+        "title": "जिन बैन सुनत मोरी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिन-बैन-सुनत-मोरी.html"
+      },
+      {
+        "title": "जिनवर की वाणी से",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवर-की-वाणी-से.html"
+      },
+      {
+        "title": "जिनवर चरण भक्ति वर गंगा",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवर-चरण-भक्ति-वर-गंगा.html"
+      },
+      {
+        "title": "जिनवाणी अमृत रसाल",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-अमृत-रसाल.html"
+      },
+      {
+        "title": "जिनवाणी को नमन करो",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-को-नमन-करो.html"
+      },
+      {
+        "title": "जिनवाणी जग मैया",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-जग-मैया.html"
+      },
+      {
+        "title": "जिनवाणी माँ आपका शुभ",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-माँ-आपका-शुभ.html"
+      },
+      {
+        "title": "जिनवाणी माँ जिनवाणी माँ",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-माँ-जिनवाणी-माँ.html"
+      },
+      {
+        "title": "जिनवाणी माँ तेरे चरण",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-माँ-तेरे-चरण.html"
+      },
+      {
+        "title": "जिनवाणी माता दर्शन की",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-माता-दर्शन-की.html"
+      },
+      {
+        "title": "जिनवाणी माता रत्नत्रय निधि",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-माता-रत्नत्रय-निधि.html"
+      },
+      {
+        "title": "जिनवाणी माता से बोले आतम नन्द लाला",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-माता-से-बोले-आतम-नन्द-लाला.html"
+      },
+      {
+        "title": "जिनवाणी मोक्ष नसैनी है",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-मोक्ष-नसैनी-है.html"
+      },
+      {
+        "title": "जिनवाणी सुन उपदेशी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवाणी-सुन-उपदेशी.html"
+      },
+      {
+        "title": "जिनवानी जान सुजान",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/जिनवानी-जान-सुजान.html"
+      },
+      {
+        "title": "तू कितनी मनहर है",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/तू-कितनी-मनहर-है.html"
+      },
+      {
+        "title": "धन्य धन्य जिनवाणी माता",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/धन्य-धन्य-जिनवाणी-माता.html"
+      },
+      {
+        "title": "धन्य धन्य वीतराग वाणी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/धन्य-धन्य-वीतराग-वाणी.html"
+      },
+      {
+        "title": "नित्य बोधिनी माँ जिनवाणी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/नित्य-बोधिनी-माँ-जिनवाणी.html"
+      },
+      {
+        "title": "परम उपकारी जिनवाणी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/परम-उपकारी-जिनवाणी.html"
+      },
+      {
+        "title": "प्राणां सूं भी प्यारी लागे",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/प्राणां-सूं-भी-प्यारी-लागे.html"
+      },
+      {
+        "title": "भवदधि तारक नवका जगमाहीं",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/भवदधि-तारक-नवका-जगमाहीं.html"
+      },
+      {
+        "title": "मंगल बेला आई आज श्री",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/मंगल-बेला-आई-आज-श्री.html"
+      },
+      {
+        "title": "मन भाया, तेरे दर आया",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/मन-भाया,-तेरे-दर-आया.html"
+      },
+      {
+        "title": "महिमा है अगम",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/महिमा-है-अगम.html"
+      },
+      {
+        "title": "माँ जिनवाणी ज्ञायक बताय",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/माँ-जिनवाणी-ज्ञायक-बताय.html"
+      },
+      {
+        "title": "माँ जिनवाणी तेरो नाम",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/माँ-जिनवाणी-तेरो-नाम.html"
+      },
+      {
+        "title": "माँ जिनवाणी बसो हृदय में",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/माँ-जिनवाणी-बसो-हृदय-में.html"
+      },
+      {
+        "title": "माता तू दया करके",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/माता-तू-दया-करके.html"
+      },
+      {
+        "title": "मीठे रस से भरी जिनवाणी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/मीठे-रस-से-भरी-जिनवाणी.html"
+      },
+      {
+        "title": "म्हारी माँ जिनवाणी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/म्हारी-माँ-जिनवाणी.html"
+      },
+      {
+        "title": "ये शाश्वत सुख का प्याला",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/ये-शाश्वत-सुख-का-प्याला.html"
+      },
+      {
+        "title": "वीर हिमाचल तें निकसी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/वीर-हिमाचल-तें-निकसी.html"
+      },
+      {
+        "title": "शरण कोई नहीं जग में",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/शरण-कोई-नहीं-जग-में.html"
+      },
+      {
+        "title": "शांती सुधा बरसाये",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/शांती-सुधा-बरसाये.html"
+      },
+      {
+        "title": "शास्त्रों की बातों को मन",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/शास्त्रों-की-बातों-को-मन.html"
+      },
+      {
+        "title": "सांची तो गंगा",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/सांची-तो-गंगा.html"
+      },
+      {
+        "title": "सारद तुम परसाद तैं",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/सारद-तुम-परसाद-तैं.html"
+      },
+      {
+        "title": "सीमंधर मुख से",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/सीमंधर-मुख-से.html"
+      },
+      {
+        "title": "सुन जिन बैन श्रवन सुख",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/सुन-जिन-बैन-श्रवन-सुख.html"
+      },
+      {
+        "title": "सुन सुन रे चेतन प्राणी",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/सुन-सुन-रे-चेतन-प्राणी.html"
+      },
+      {
+        "title": "हम लाए हैं विदह से",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/हम-लाए-हैं-विदह-से.html"
+      },
+      {
+        "title": "हमें निज धर्म पर चलना",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/हमें-निज-धर्म-पर-चलना.html"
+      },
+      {
+        "title": "हे जिनवाणी माता तुमको",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/हे-जिनवाणी-माता-तुमको.html"
+      },
+      {
+        "title": "हे शारदे माँ",
+        "href": "./jainDataBase/bhajans/02_शास्त्र/html/हे-शारदे-माँ.html"
+      }
+    ]
+  },
+  {
+    "title": "गुरु",
+    "children": [
+      {
+        "title": "उड़ चला पंछी रे",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/उड़-चला-पंछी-रे.html"
+      },
+      {
+        "title": "ऐसा योगी क्यों न अभयपद",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/ऐसा-योगी-क्यों-न-अभयपद.html"
+      },
+      {
+        "title": "ऐसे मुनिवर देखें",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/ऐसे-मुनिवर-देखें.html"
+      },
+      {
+        "title": "ऐसे साधु सुगुरु कब",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/ऐसे-साधु-सुगुरु-कब.html"
+      },
+      {
+        "title": "कबधौं मिलै मोहि श्रीगुरु",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/कबधौं-मिलै-मोहि-श्रीगुरु.html"
+      },
+      {
+        "title": "गुरु निर्ग्रन्थ परिग्रह त्यागी",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरु-निर्ग्रन्थ-परिग्रह-त्यागी.html"
+      },
+      {
+        "title": "गुरु बिन सूनो लगे संसार",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरु-बिन-सूनो-लगे-संसार.html"
+      },
+      {
+        "title": "गुरु रत्नत्रय के धारी",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरु-रत्नत्रय-के-धारी.html"
+      },
+      {
+        "title": "गुरु समान दाता नहिं",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरु-समान-दाता-नहिं.html"
+      },
+      {
+        "title": "गुरुदेव आये रे बड़े ही सौभाग्य से",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरुदेव-आये-रे-बड़े-ही-सौभाग्य-से.html"
+      },
+      {
+        "title": "गुरुवर तुम बिन कौन",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरुवर-तुम-बिन-कौन.html"
+      },
+      {
+        "title": "गुरुवर थारी परिणति अंतरमयी",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/गुरुवर-थारी-परिणति-अंतरमयी.html"
+      },
+      {
+        "title": "जंगल में मुनिराज अहो",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/जंगल-में-मुनिराज-अहो.html"
+      },
+      {
+        "title": "धनि हैं मुनि निज आतमहित",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/धनि-हैं-मुनि-निज-आतमहित.html"
+      },
+      {
+        "title": "धन्य धन्य हे गुरु गौतम",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/धन्य-धन्य-हे-गुरु-गौतम.html"
+      },
+      {
+        "title": "धन्य मुनिराज हमारे हैं",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/धन्य-मुनिराज-हमारे-हैं.html"
+      },
+      {
+        "title": "धन्य मुनीश्वर आतम हित में",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/धन्य-मुनीश्वर-आतम-हित-में.html"
+      },
+      {
+        "title": "नित उठ ध्याऊँ गुण गाऊँ",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/नित-उठ-ध्याऊँ-गुण-गाऊँ.html"
+      },
+      {
+        "title": "निर्ग्रंथों का मार्ग",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/निर्ग्रंथों-का-मार्ग.html"
+      },
+      {
+        "title": "परम गुरु बरसत ज्ञान झरी",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/परम-गुरु-बरसत-ज्ञान-झरी.html"
+      },
+      {
+        "title": "परम दिगम्बर मुनिवर देखे",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/परम-दिगम्बर-मुनिवर-देखे.html"
+      },
+      {
+        "title": "परम दिगम्बर यती",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/परम-दिगम्बर-यती.html"
+      },
+      {
+        "title": "मुनि दीक्षा लेके जंगल में",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/मुनि-दीक्षा-लेके-जंगल-में.html"
+      },
+      {
+        "title": "मुनिवर आज मेरी कुटिया में",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/मुनिवर-आज-मेरी-कुटिया-में.html"
+      },
+      {
+        "title": "मुनिवर को आहार",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/मुनिवर-को-आहार.html"
+      },
+      {
+        "title": "मैं परम दिगम्बर साधु",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/मैं-परम-दिगम्बर-साधु.html"
+      },
+      {
+        "title": "मोक्ष के प्रेमी हमने",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/मोक्ष-के-प्रेमी-हमने.html"
+      },
+      {
+        "title": "म्हारा परम दिगम्बर मुनिवर",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/म्हारा-परम-दिगम्बर-मुनिवर.html"
+      },
+      {
+        "title": "म्‍हारे आंगणे में आये मुनिराज",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/म्‍हारे-आंगणे-में-आये-मुनिराज.html"
+      },
+      {
+        "title": "वनवासी सन्तों को नित ही",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/वनवासी-सन्तों-को-नित-ही.html"
+      },
+      {
+        "title": "वे मुनिवर कब मिली हैं उपगारी",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/वे-मुनिवर-कब-मिली-हैं-उपगारी.html"
+      },
+      {
+        "title": "वेष दिगम्बर धार",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/वेष-दिगम्बर-धार.html"
+      },
+      {
+        "title": "शान्ति सुधा बरसा गये",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/शान्ति-सुधा-बरसा-गये.html"
+      },
+      {
+        "title": "शुद्धातम तत्व विलासी रे",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/शुद्धातम-तत्व-विलासी-रे.html"
+      },
+      {
+        "title": "श्री मुनि राजत समता संग",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/श्री-मुनि-राजत-समता-संग.html"
+      },
+      {
+        "title": "संत साधु बन के विचरूँ",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/संत-साधु-बन-के-विचरूँ.html"
+      },
+      {
+        "title": "सम आराम विहारी साधुजन",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/सम-आराम-विहारी-साधुजन.html"
+      },
+      {
+        "title": "सिद्धों की श्रेणी में आने वाला",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/सिद्धों-की-श्रेणी-में-आने-वाला.html"
+      },
+      {
+        "title": "हे परम दिगम्बर यति",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/हे-परम-दिगम्बर-यति.html"
+      },
+      {
+        "title": "है परम दिगम्बर मुद्रा जिनकी",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/है-परम-दिगम्बर-मुद्रा-जिनकी.html"
+      },
+      {
+        "title": "होली खेलें मुनिराज शिखर",
+        "href": "./jainDataBase/bhajans/03_गुरु/html/होली-खेलें-मुनिराज-शिखर.html"
+      }
+    ]
+  },
+  {
+    "title": "धर्म",
+    "children": [
+      {
+        "title": "आजा अपने धर्म की तू राह में",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/आजा-अपने-धर्म-की-तू-राह-में.html"
+      },
+      {
+        "title": "आप्त आगम गुरुवर",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/आप्त-आगम-गुरुवर.html"
+      },
+      {
+        "title": "जय जिनेन्द्र बोलिए सर्व",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/जय-जिनेन्द्र-बोलिए-सर्व.html"
+      },
+      {
+        "title": "जय जिनेन्द्र बोलिए",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/जय-जिनेन्द्र-बोलिए.html"
+      },
+      {
+        "title": "जिनको जिनधर्म सुहाया 2",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/जिनको-जिनधर्म-सुहाया-2.html"
+      },
+      {
+        "title": "जिनको जिनधर्म सुहाया",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/जिनको-जिनधर्म-सुहाया.html"
+      },
+      {
+        "title": "जिनशासन बड़ा निराला",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/जिनशासन-बड़ा-निराला.html"
+      },
+      {
+        "title": "जैन धर्म के हीरे मोती",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/जैन-धर्म-के-हीरे-मोती.html"
+      },
+      {
+        "title": "बडे भाग्य से हमको मिला जिन धर्म",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/बडे-भाग्य-से-हमको-मिला-जिन-धर्म.html"
+      },
+      {
+        "title": "भावों में सरलता रहती है",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/भावों-में-सरलता-रहती-है.html"
+      },
+      {
+        "title": "मैं महापुण्य उदय से जिनधर्म",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/मैं-महापुण्य-उदय-से-जिनधर्म.html"
+      },
+      {
+        "title": "ये धरम है आतम ज्ञानी का",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/ये-धरम-है-आतम-ज्ञानी-का.html"
+      },
+      {
+        "title": "ये धर्म हमारा है हमें",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/ये-धर्म-हमारा-है-हमें.html"
+      },
+      {
+        "title": "लहर लहर लहराये केसरिया झंडा",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/लहर-लहर-लहराये-केसरिया-झंडा.html"
+      },
+      {
+        "title": "लहराएगा लहराएगा झंडा",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/लहराएगा-लहराएगा-झंडा.html"
+      },
+      {
+        "title": "श्रीजिनधर्म सदा जयवन्त",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/श्रीजिनधर्म-सदा-जयवन्त.html"
+      },
+      {
+        "title": "सब जैन धर्म की जय बोलो",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/सब-जैन-धर्म-की-जय-बोलो.html"
+      },
+      {
+        "title": "हर पल हर क्षण हर दम",
+        "href": "./jainDataBase/bhajans/04_धर्म/html/हर-पल-हर-क्षण-हर-दम.html"
+      }
+    ]
+  },
+  {
+    "title": "तीर्थ",
+    "children": [
+      {
+        "title": "आज गिरिराज निहारा",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/आज-गिरिराज-निहारा.html"
+      },
+      {
+        "title": "ऊंचे ऊंचे शिखरों वाला 1",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/ऊंचे-ऊंचे-शिखरों-वाला-1.html"
+      },
+      {
+        "title": "ऊंचे ऊंचे शिखरों वाला 2",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/ऊंचे-ऊंचे-शिखरों-वाला-2.html"
+      },
+      {
+        "title": "ऊंचे शिखरों पे बसा है",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/ऊंचे-शिखरों-पे-बसा-है.html"
+      },
+      {
+        "title": "गगन मंडल में उड जाऊं",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/गगन-मंडल-में-उड-जाऊं.html"
+      },
+      {
+        "title": "चलो सब मिल सिधगिरी",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/चलो-सब-मिल-सिधगिरी.html"
+      },
+      {
+        "title": "चांदखेड़ी ले चालो जी सांवरिया",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/चांदखेड़ी-ले-चालो-जी-सांवरिया.html"
+      },
+      {
+        "title": "जीयरा...जीयरा...जीयरा",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/जीयरा...जीयरा...जीयरा.html"
+      },
+      {
+        "title": "नमो आदीश्वरम",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/नमो-आदीश्वरम.html"
+      },
+      {
+        "title": "नर तन रतन अमोल",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/नर-तन-रतन-अमोल.html"
+      },
+      {
+        "title": "नेमीनाथ--जहाँ नेमी के चरण",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/नेमीनाथ--जहाँ-नेमी-के-चरण.html"
+      },
+      {
+        "title": "पारसनाथ--मधुबन के मंदिरों",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/पारसनाथ--मधुबन-के-मंदिरों.html"
+      },
+      {
+        "title": "पारसनाथ--सांवरिया पारसनाथ",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/पारसनाथ--सांवरिया-पारसनाथ.html"
+      },
+      {
+        "title": "पूजा पाठ रचाऊँ मेरे बालम",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/पूजा-पाठ-रचाऊँ-मेरे-बालम.html"
+      },
+      {
+        "title": "रे मन भज ले प्रभु का नाम",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/रे-मन-भज-ले-प्रभु-का-नाम.html"
+      },
+      {
+        "title": "विश्व तीर्थ बडा प्यारा",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/विश्व-तीर्थ-बडा-प्यारा.html"
+      },
+      {
+        "title": "सम्मेद शिखर पर मैं जाऊंगा",
+        "href": "./jainDataBase/bhajans/05_तीर्थ/html/सम्मेद-शिखर-पर-मैं-जाऊंगा.html"
+      }
+    ]
+  },
+  {
+    "title": "कल्याणक",
+    "children": [
+      {
+        "title": "आदिनाथ--आज तो बधाई",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आदिनाथ--आज-तो-बधाई.html"
+      },
+      {
+        "title": "आदिनाथ--आज नगरी में जन्मे",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आदिनाथ--आज-नगरी-में-जन्मे.html"
+      },
+      {
+        "title": "आदिनाथ--ऋषभदेव जनम्यौ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आदिनाथ--ऋषभदेव-जनम्यौ.html"
+      },
+      {
+        "title": "आदिनाथ--लिया रिषभ देव",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आदिनाथ--लिया-रिषभ-देव.html"
+      },
+      {
+        "title": "आनंद अवसर आज सुरगण",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आनंद-अवसर-आज-सुरगण.html"
+      },
+      {
+        "title": "आया पंच कल्याणक महान 2",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आया-पंच-कल्याणक-महान-2.html"
+      },
+      {
+        "title": "आया पंच कल्याणक महान",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आया-पंच-कल्याणक-महान.html"
+      },
+      {
+        "title": "आयो आयो पंचकल्याणक भविजन",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/आयो-आयो-पंचकल्याणक-भविजन.html"
+      },
+      {
+        "title": "इन्द्र नाचे तेरी भक्ति में",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/इन्द्र-नाचे-तेरी-भक्ति-में.html"
+      },
+      {
+        "title": "उड़ उड़ रे म्हारी ज्ञान चुनरियाँ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/उड़-उड़-रे-म्हारी-ज्ञान-चुनरियाँ.html"
+      },
+      {
+        "title": "कल्पद्रुम यह समवसरण है",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/कल्पद्रुम-यह-समवसरण-है.html"
+      },
+      {
+        "title": "गर्भ कल्याणक आ गया",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/गर्भ-कल्याणक-आ-गया.html"
+      },
+      {
+        "title": "गावो री बधाईयां",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/गावो-री-बधाईयां.html"
+      },
+      {
+        "title": "घर घर आनंद छायो",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/घर-घर-आनंद-छायो.html"
+      },
+      {
+        "title": "चन्द्रोज्वल अविकार स्वामी जी",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/चन्द्रोज्वल-अविकार-स्वामी-जी.html"
+      },
+      {
+        "title": "जागो जी माता जागन घड़ियाँ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/जागो-जी-माता-जागन-घड़ियाँ.html"
+      },
+      {
+        "title": "झुलाय दइयो पलना",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/झुलाय-दइयो-पलना.html"
+      },
+      {
+        "title": "तेरे पांच हुये कल्याण प्रभु",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/तेरे-पांच-हुये-कल्याण-प्रभु.html"
+      },
+      {
+        "title": "दिन आयो दिन आयो",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/दिन-आयो-दिन-आयो.html"
+      },
+      {
+        "title": "नाचे रे इन्दर देव",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/नाचे-रे-इन्दर-देव.html"
+      },
+      {
+        "title": "नेमिनाथ--गिरनारी पर तप",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/नेमिनाथ--गिरनारी-पर-तप.html"
+      },
+      {
+        "title": "नेमिनाथ--जूनागढ़ में सज",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/नेमिनाथ--जूनागढ़-में-सज.html"
+      },
+      {
+        "title": "नेमिनाथ--पंखिडा रे उड के आओ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/नेमिनाथ--पंखिडा-रे-उड-के-आओ.html"
+      },
+      {
+        "title": "नेमिनाथ--रोम रोम में नेमि",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/नेमिनाथ--रोम-रोम-में-नेमि.html"
+      },
+      {
+        "title": "नेमिनाथ--विषयों की तृष्णा",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/नेमिनाथ--विषयों-की-तृष्णा.html"
+      },
+      {
+        "title": "पंखिड़ा तू उड़ के जाना स्वर्ग",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/पंखिड़ा-तू-उड़-के-जाना-स्वर्ग.html"
+      },
+      {
+        "title": "पंचकल्याण मनाओ मेरे साथी",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/पंचकल्याण-मनाओ-मेरे-साथी.html"
+      },
+      {
+        "title": "पारसनाथ--आज जन्मे हैं तीर्थंकर",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/पारसनाथ--आज-जन्मे-हैं-तीर्थंकर.html"
+      },
+      {
+        "title": "पारसनाथ--आनंद अंतर मा आज",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/पारसनाथ--आनंद-अंतर-मा-आज.html"
+      },
+      {
+        "title": "पारसनाथ--झूल रहा पलने में",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/पारसनाथ--झूल-रहा-पलने-में.html"
+      },
+      {
+        "title": "पालकी उठाने का हमें अधिकार है",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/पालकी-उठाने-का-हमें-अधिकार-है.html"
+      },
+      {
+        "title": "मंगल ये अवसर आंगण",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/मंगल-ये-अवसर-आंगण.html"
+      },
+      {
+        "title": "महावीर--कुण्डलपुर में वीर हैं",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--कुण्डलपुर-में-वीर-हैं.html"
+      },
+      {
+        "title": "महावीर--कुण्डलपुर वाले",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--कुण्डलपुर-वाले.html"
+      },
+      {
+        "title": "महावीर--छायो रे छायो आनंद",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--छायो-रे-छायो-आनंद.html"
+      },
+      {
+        "title": "महावीर--जनम लिया है महावीर",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--जनम-लिया-है-महावीर.html"
+      },
+      {
+        "title": "महावीर--जहाँ महावीर ने जन्म",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--जहाँ-महावीर-ने-जन्म.html"
+      },
+      {
+        "title": "महावीर--दिव्य ध्वनि वीरा",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--दिव्य-ध्वनि-वीरा.html"
+      },
+      {
+        "title": "महावीर--देखा मैंने त्रिशला का",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--देखा-मैंने-त्रिशला-का.html"
+      },
+      {
+        "title": "महावीर--पंखिडा रे उड के आओ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--पंखिडा-रे-उड-के-आओ.html"
+      },
+      {
+        "title": "महावीर--बधाई आज मिल गाओ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--बधाई-आज-मिल-गाओ.html"
+      },
+      {
+        "title": "महावीर--बाजे कुण्डलपुर में",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--बाजे-कुण्डलपुर-में.html"
+      },
+      {
+        "title": "महावीर--मणियों के पलने में",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--मणियों-के-पलने-में.html"
+      },
+      {
+        "title": "महावीर--मेरे महावीर झूले पलना",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीर--मेरे-महावीर-झूले-पलना.html"
+      },
+      {
+        "title": "महावीरा झूले पलना",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/महावीरा-झूले-पलना.html"
+      },
+      {
+        "title": "माता थारी परिणति तत्त्वमयी",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/माता-थारी-परिणति-तत्त्वमयी.html"
+      },
+      {
+        "title": "मेरा पलने में",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/मेरा-पलने-में.html"
+      },
+      {
+        "title": "मोरी आली आज बधाई गाईयाँ",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/मोरी-आली-आज-बधाई-गाईयाँ.html"
+      },
+      {
+        "title": "म्हारे आंगण आज आई",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/म्हारे-आंगण-आज-आई.html"
+      },
+      {
+        "title": "ये महामहोत्सव पंच कल्याणक",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/ये-महामहोत्सव-पंच-कल्याणक.html"
+      },
+      {
+        "title": "लिया प्रभू अवतार जयजयकार",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/लिया-प्रभू-अवतार-जयजयकार.html"
+      },
+      {
+        "title": "सुरपति ले अपने शीश",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/सुरपति-ले-अपने-शीश.html"
+      },
+      {
+        "title": "स्‍वागत करते आज तुम्‍हारा",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/स्‍वागत-करते-आज-तुम्‍हारा.html"
+      },
+      {
+        "title": "हो संसार लगने लगा अब",
+        "href": "./jainDataBase/bhajans/06_कल्याणक/html/हो-संसार-लगने-लगा-अब.html"
+      }
+    ]
+  },
+  {
+    "title": "अध्यात्म",
+    "children": [
+      {
+        "title": "अध्‍यात्‍म के शिखर पर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अध्‍यात्‍म-के-शिखर-पर.html"
+      },
+      {
+        "title": "अपना करना हो कल्याण",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अपना-करना-हो-कल्याण.html"
+      },
+      {
+        "title": "अपनी सुधि पाय आप",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अपनी-सुधि-पाय-आप.html"
+      },
+      {
+        "title": "अपने घर को देख बावरे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अपने-घर-को-देख-बावरे.html"
+      },
+      {
+        "title": "अपने में अपना परमातम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अपने-में-अपना-परमातम.html"
+      },
+      {
+        "title": "अब गतियों में नाहीं रुलेंगे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अब-गतियों-में-नाहीं-रुलेंगे.html"
+      },
+      {
+        "title": "अब प्रभु चरण छोड़ कित जाऊँ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अब-प्रभु-चरण-छोड़-कित-जाऊँ.html"
+      },
+      {
+        "title": "अब मेरे समकित सावन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अब-मेरे-समकित-सावन.html"
+      },
+      {
+        "title": "अब हम अमर भये",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अब-हम-अमर-भये.html"
+      },
+      {
+        "title": "अरे मोह में अब ना",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/अरे-मोह-में-अब-ना.html"
+      },
+      {
+        "title": "आ तुझे अंतर में शांति मिलेगी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आ-तुझे-अंतर-में-शांति-मिलेगी.html"
+      },
+      {
+        "title": "आओ झूलें मेरे चेतन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आओ-झूलें-मेरे-चेतन.html"
+      },
+      {
+        "title": "आओ रे आओ रे ज्ञानानंद की",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आओ-रे-आओ-रे-ज्ञानानंद-की.html"
+      },
+      {
+        "title": "आज अद्भुत छवि निज निहारी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आज-अद्भुत-छवि-निज-निहारी.html"
+      },
+      {
+        "title": "आज खुशी है आज खुशी है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आज-खुशी-है-आज-खुशी-है.html"
+      },
+      {
+        "title": "आज सी सुहानी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आज-सी-सुहानी.html"
+      },
+      {
+        "title": "आतम अनुभव आवै",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतम-अनुभव-आवै.html"
+      },
+      {
+        "title": "आतम अनुभव करना रे भाई",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतम-अनुभव-करना-रे-भाई.html"
+      },
+      {
+        "title": "आतम अनुभव कीजै हो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतम-अनुभव-कीजै-हो.html"
+      },
+      {
+        "title": "आतम जानो रे भाई",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतम-जानो-रे-भाई.html"
+      },
+      {
+        "title": "आतम महबूब यार",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतम-महबूब-यार.html"
+      },
+      {
+        "title": "आतमरूप अनूपम है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतमरूप-अनूपम-है.html"
+      },
+      {
+        "title": "आतमरूप सुहावना",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आतमरूप-सुहावना.html"
+      },
+      {
+        "title": "आत्म चिंतन का ये समय",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आत्म-चिंतन-का-ये-समय.html"
+      },
+      {
+        "title": "आत्मा अनंत गुणों का धनी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आत्मा-अनंत-गुणों-का-धनी.html"
+      },
+      {
+        "title": "आत्मा हमारा हुआ है क्यों काला",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आत्मा-हमारा-हुआ-है-क्यों-काला.html"
+      },
+      {
+        "title": "आत्मा हूँ आत्मा हूँ आत्मा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आत्मा-हूँ-आत्मा-हूँ-आत्मा.html"
+      },
+      {
+        "title": "आनंद स्रोत बह रहा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आनंद-स्रोत-बह-रहा.html"
+      },
+      {
+        "title": "आया कहां से",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आया-कहां-से.html"
+      },
+      {
+        "title": "आर्जव--काहे पाप करे काहे छल",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/आर्जव--काहे-पाप-करे-काहे-छल.html"
+      },
+      {
+        "title": "इस नगरी में किस विधि",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/इस-नगरी-में-किस-विधि.html"
+      },
+      {
+        "title": "उड़ उड़ रे म्हारी ज्ञान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/उड़-उड़-रे-म्हारी-ज्ञान.html"
+      },
+      {
+        "title": "ऐ आतम है तुझको नमन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ऐ-आतम-है-तुझको-नमन.html"
+      },
+      {
+        "title": "ऐसे जैनी मुनिमहाराज",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ऐसे-जैनी-मुनिमहाराज.html"
+      },
+      {
+        "title": "ऐसो नरभव पाय गंवायो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ऐसो-नरभव-पाय-गंवायो.html"
+      },
+      {
+        "title": "ओ जाग रे चेतन जाग",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ओ-जाग-रे-चेतन-जाग.html"
+      },
+      {
+        "title": "ओ जाननहारे जान जगत है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ओ-जाननहारे-जान-जगत-है.html"
+      },
+      {
+        "title": "ओ जीवड़ा तू थारी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ओ-जीवड़ा-तू-थारी.html"
+      },
+      {
+        "title": "ओ प्यारे परदेशी पन्छी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ओ-प्यारे-परदेशी-पन्छी.html"
+      },
+      {
+        "title": "कंकड़ पत्थर गले लगाए",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कंकड़-पत्थर-गले-लगाए.html"
+      },
+      {
+        "title": "कबधौं सर पर धर डोलेगा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कबधौं-सर-पर-धर-डोलेगा.html"
+      },
+      {
+        "title": "कबै निरग्रंथ स्वरूप धरूंगा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कबै-निरग्रंथ-स्वरूप-धरूंगा.html"
+      },
+      {
+        "title": "कर कर आतमहित रे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कर-कर-आतमहित-रे.html"
+      },
+      {
+        "title": "करलो आतम ज्ञान परमातम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/करलो-आतम-ज्ञान-परमातम.html"
+      },
+      {
+        "title": "कहा मान ले ओ मेरे भैया",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कहा-मान-ले-ओ-मेरे-भैया.html"
+      },
+      {
+        "title": "कहा मानले ओ मेरे भैया",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कहा-मानले-ओ-मेरे-भैया.html"
+      },
+      {
+        "title": "कहाँ तक ये मोह के अंधेरे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कहाँ-तक-ये-मोह-के-अंधेरे.html"
+      },
+      {
+        "title": "कितना सुन्दर कितना सुखमय",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कितना-सुन्दर-कितना-सुखमय.html"
+      },
+      {
+        "title": "किसको विपद सुनाऊँ हे नाथ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/किसको-विपद-सुनाऊँ-हे-नाथ.html"
+      },
+      {
+        "title": "कृत पूरब कर्म मिटे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कृत-पूरब-कर्म-मिटे.html"
+      },
+      {
+        "title": "केवलिकन्ये वाङ्गमय",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/केवलिकन्ये-वाङ्गमय.html"
+      },
+      {
+        "title": "कैसो सुंदर अवसर आयो है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कैसो-सुंदर-अवसर-आयो-है.html"
+      },
+      {
+        "title": "कोई राज महल में रोए",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कोई-राज-महल-में-रोए.html"
+      },
+      {
+        "title": "कोई लाख करे चतुराई",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कोई-लाख-करे-चतुराई.html"
+      },
+      {
+        "title": "कौलो कहूँ स्वामी बतियाँ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/कौलो-कहूँ-स्वामी-बतियाँ.html"
+      },
+      {
+        "title": "क्या तन मांझना रे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/क्या-तन-मांझना-रे.html"
+      },
+      {
+        "title": "क्यूं करे अभिमान जीवन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/क्यूं-करे-अभिमान-जीवन.html"
+      },
+      {
+        "title": "क्षणभंगुर जीवन है पगले",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/क्षणभंगुर-जीवन-है-पगले.html"
+      },
+      {
+        "title": "गाडी खडी रे खडी रे तैयार",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/गाडी-खडी-रे-खडी-रे-तैयार.html"
+      },
+      {
+        "title": "गुरुवर जो आपने बताया",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/गुरुवर-जो-आपने-बताया.html"
+      },
+      {
+        "title": "घटमें परमातम ध्याइये",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/घटमें-परमातम-ध्याइये.html"
+      },
+      {
+        "title": "चंद दिनों का जीना रे जिवड़ा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चंद-दिनों-का-जीना-रे-जिवड़ा.html"
+      },
+      {
+        "title": "चतुर नर चेत करो भाई",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चतुर-नर-चेत-करो-भाई.html"
+      },
+      {
+        "title": "चन्द क्षण जीवन के तेरे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चन्द-क्षण-जीवन-के-तेरे.html"
+      },
+      {
+        "title": "चन्द्रगुप्त राजा के सोलह स्वप्न",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चन्द्रगुप्त-राजा-के-सोलह-स्वप्न.html"
+      },
+      {
+        "title": "चलता चल भाई मोक्षमार्ग",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चलता-चल-भाई-मोक्षमार्ग.html"
+      },
+      {
+        "title": "चलो रे भाई अपने वतन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चलो-रे-भाई-अपने-वतन.html"
+      },
+      {
+        "title": "चेतन अपनो रूप निहारो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-अपनो-रूप-निहारो.html"
+      },
+      {
+        "title": "चेतन को मिला जब नर तन तो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-को-मिला-जब-नर-तन-तो.html"
+      },
+      {
+        "title": "चेतन चेत बुढ़ापो आयो रे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-चेत-बुढ़ापो-आयो-रे.html"
+      },
+      {
+        "title": "चेतन जाग रे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-जाग-रे.html"
+      },
+      {
+        "title": "चेतन तूँ तिहुँ काल अकेला",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-तूँ-तिहुँ-काल-अकेला.html"
+      },
+      {
+        "title": "चेतन नरभव ने तू पाकर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-नरभव-ने-तू-पाकर.html"
+      },
+      {
+        "title": "चेतन है तू ध्रुव",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतन-है-तू-ध्रुव.html"
+      },
+      {
+        "title": "चेतना लक्षणम् आनंद",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतना-लक्षणम्-आनंद.html"
+      },
+      {
+        "title": "चेतो चेतन निज में आओ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चेतो-चेतन-निज-में-आओ.html"
+      },
+      {
+        "title": "चैतन्य के दर्पण में",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चैतन्य-के-दर्पण-में.html"
+      },
+      {
+        "title": "चैतन्य मेरे निज ओर चलो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/चैतन्य-मेरे-निज-ओर-चलो.html"
+      },
+      {
+        "title": "जगत में सम्यक उत्तम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जगत-में-सम्यक-उत्तम.html"
+      },
+      {
+        "title": "जन्म जन्म तन धरने",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जन्म-जन्म-तन-धरने.html"
+      },
+      {
+        "title": "जब चले आत्माराम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जब-चले-आत्माराम.html"
+      },
+      {
+        "title": "जहां सत्संग होता है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जहां-सत्संग-होता-है.html"
+      },
+      {
+        "title": "जानत क्यों नहिं रे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जानत-क्यों-नहिं-रे.html"
+      },
+      {
+        "title": "जाना नहीं निज आत्मा ज्ञानी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जाना-नहीं-निज-आत्मा-ज्ञानी.html"
+      },
+      {
+        "title": "जायें तो जायें कहाँ ढूंढ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जायें-तो-जायें-कहाँ-ढूंढ.html"
+      },
+      {
+        "title": "जिंदगी में घड़ी यह सुहानी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जिंदगी-में-घड़ी-यह-सुहानी.html"
+      },
+      {
+        "title": "जिंदगी रत्न अनमोल है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जिंदगी-रत्न-अनमोल-है.html"
+      },
+      {
+        "title": "जिया कब तक उलझेगा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जिया-कब-तक-उलझेगा.html"
+      },
+      {
+        "title": "जीव! तू भ्रमत सदैव",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जीव!-तू-भ्रमत-सदैव.html"
+      },
+      {
+        "title": "जीव तू समझ ले आतम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जीव-तू-समझ-ले-आतम.html"
+      },
+      {
+        "title": "जीवन के किसी भी पल में",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जीवन-के-किसी-भी-पल-में.html"
+      },
+      {
+        "title": "जीवन के परिनामनि की",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जीवन-के-परिनामनि-की.html"
+      },
+      {
+        "title": "जीवड़ा सुनत सुणावत इतरा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जीवड़ा-सुनत-सुणावत-इतरा.html"
+      },
+      {
+        "title": "जैन धरम के हीरे मोती",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जैन-धरम-के-हीरे-मोती.html"
+      },
+      {
+        "title": "जो अपना नहीं उसके अपनेपन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जो-अपना-नहीं-उसके-अपनेपन.html"
+      },
+      {
+        "title": "जो आज दिन है वो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जो-आज-दिन-है-वो.html"
+      },
+      {
+        "title": "जो इच्छा का दमन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जो-इच्छा-का-दमन.html"
+      },
+      {
+        "title": "जो जो देखी वीतराग",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/जो-जो-देखी-वीतराग.html"
+      },
+      {
+        "title": "ज्ञानमय ओ चेतन तुझे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ज्ञानमय-ओ-चेतन-तुझे.html"
+      },
+      {
+        "title": "ज्ञानी का धन ज्ञान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ज्ञानी-का-धन-ज्ञान.html"
+      },
+      {
+        "title": "ज्ञानी की ज्ञान गुफा में",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ज्ञानी-की-ज्ञान-गुफा-में.html"
+      },
+      {
+        "title": "तन पिंजरे के अन्दर बैठा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तन-पिंजरे-के-अन्दर-बैठा.html"
+      },
+      {
+        "title": "तू जाग रे चेतन देव",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तू-जाग-रे-चेतन-देव.html"
+      },
+      {
+        "title": "तू जाग रे चेतन प्राणी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तू-जाग-रे-चेतन-प्राणी.html"
+      },
+      {
+        "title": "तू निश्चय से भगवान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तू-निश्चय-से-भगवान.html"
+      },
+      {
+        "title": "तू ही शुद्ध है तू ही",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तू-ही-शुद्ध-है-तू-ही.html"
+      },
+      {
+        "title": "तेरे अंतर में भगवान है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तेरे-अंतर-में-भगवान-है.html"
+      },
+      {
+        "title": "तोड़ विषयों से मन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तोड़-विषयों-से-मन.html"
+      },
+      {
+        "title": "तोरी पल पल",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तोरी-पल-पल.html"
+      },
+      {
+        "title": "तोड़ दे सारे बंधन सदा के लिए",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/तोड़-दे-सारे-बंधन-सदा-के-लिए.html"
+      },
+      {
+        "title": "थाने सतगुरु दे समुझाय",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/थाने-सतगुरु-दे-समुझाय.html"
+      },
+      {
+        "title": "थोड़ा सा उपकार कर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/थोड़ा-सा-उपकार-कर.html"
+      },
+      {
+        "title": "दिवाली--अबके ऐसी दीवाली",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/दिवाली--अबके-ऐसी-दीवाली.html"
+      },
+      {
+        "title": "देख तेरी पर्याय की हालत",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/देख-तेरी-पर्याय-की-हालत.html"
+      },
+      {
+        "title": "देखा जब अपने अंतर को",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/देखा-जब-अपने-अंतर-को.html"
+      },
+      {
+        "title": "देखो भाई आतमराम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/देखो-भाई-आतमराम.html"
+      },
+      {
+        "title": "देखोजी प्रभु करमन की",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/देखोजी-प्रभु-करमन-की.html"
+      },
+      {
+        "title": "धन धन जैनी साधु",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/धन-धन-जैनी-साधु.html"
+      },
+      {
+        "title": "धनि ते प्रानि जिनके",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/धनि-ते-प्रानि-जिनके.html"
+      },
+      {
+        "title": "धन्य धन्य है घड़ी आज",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/धन्य-धन्य-है-घड़ी-आज.html"
+      },
+      {
+        "title": "धरम बिना बावरे तूने",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/धरम-बिना-बावरे-तूने.html"
+      },
+      {
+        "title": "धिक धिक जीवन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/धिक-धिक-जीवन.html"
+      },
+      {
+        "title": "धोली हो गई रे काली कामली",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/धोली-हो-गई-रे-काली-कामली.html"
+      },
+      {
+        "title": "नर तन को पाकर के",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/नर-तन-को-पाकर-के.html"
+      },
+      {
+        "title": "निजरूप सजो भवकूप तजो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/निजरूप-सजो-भवकूप-तजो.html"
+      },
+      {
+        "title": "नेमिनाथ--नेमि पिया राजुल",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/नेमिनाथ--नेमि-पिया-राजुल.html"
+      },
+      {
+        "title": "परणति सब जीवन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/परणति-सब-जीवन.html"
+      },
+      {
+        "title": "परम गुरु बरसत ज्ञान झरी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/परम-गुरु-बरसत-ज्ञान-झरी.html"
+      },
+      {
+        "title": "परिग्रह डोरी से झूठ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/परिग्रह-डोरी-से-झूठ.html"
+      },
+      {
+        "title": "परिणामों से मोक्ष प्राप्त हो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/परिणामों-से-मोक्ष-प्राप्त-हो.html"
+      },
+      {
+        "title": "पल पल बीते उमरिया",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/पल-पल-बीते-उमरिया.html"
+      },
+      {
+        "title": "पाना नहीं जीवन को",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/पाना-नहीं-जीवन-को.html"
+      },
+      {
+        "title": "पाप मिटाता चल ओ बंधू",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/पाप-मिटाता-चल-ओ-बंधू.html"
+      },
+      {
+        "title": "पावन हो गई आज ये धरती",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/पावन-हो-गई-आज-ये-धरती.html"
+      },
+      {
+        "title": "पीजे पीजे रे चेतनवा पानी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/पीजे-पीजे-रे-चेतनवा-पानी.html"
+      },
+      {
+        "title": "पुद्गल का क्या विश्वासा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/पुद्गल-का-क्या-विश्वासा.html"
+      },
+      {
+        "title": "प्यारे काहे कूं ललचाय",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/प्यारे-काहे-कूं-ललचाय.html"
+      },
+      {
+        "title": "प्रभु पै यह वरदान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/प्रभु-पै-यह-वरदान.html"
+      },
+      {
+        "title": "प्रभु शांत छवि तेरी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/प्रभु-शांत-छवि-तेरी.html"
+      },
+      {
+        "title": "बेला अमृत गया आलसी सो रहा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/बेला-अमृत-गया-आलसी-सो-रहा.html"
+      },
+      {
+        "title": "भगवंत भजन क्यों",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भगवंत-भजन-क्यों.html"
+      },
+      {
+        "title": "भरतजी घर में ही वैरागी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भरतजी-घर-में-ही-वैरागी.html"
+      },
+      {
+        "title": "भला कोई या विध मन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भला-कोई-या-विध-मन.html"
+      },
+      {
+        "title": "भले रूठ जाये  ये सारा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भले-रूठ-जाये--ये-सारा.html"
+      },
+      {
+        "title": "भले रूठ जाये ये सारा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भले-रूठ-जाये-ये-सारा.html"
+      },
+      {
+        "title": "भव भव के दुखड़े हजार",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भव-भव-के-दुखड़े-हजार.html"
+      },
+      {
+        "title": "भूल के अपना घर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/भूल-के-अपना-घर.html"
+      },
+      {
+        "title": "मतवाले प्रभु गुण गाले",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मतवाले-प्रभु-गुण-गाले.html"
+      },
+      {
+        "title": "मन महल में दो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मन-महल-में-दो.html"
+      },
+      {
+        "title": "ममता की पतवार ना तोडी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ममता-की-पतवार-ना-तोडी.html"
+      },
+      {
+        "title": "ममता तू न गई मोरे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ममता-तू-न-गई-मोरे.html"
+      },
+      {
+        "title": "महावीर--वीर भज ले रे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/महावीर--वीर-भज-ले-रे.html"
+      },
+      {
+        "title": "माया में फ़ंसे इंसान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/माया-में-फ़ंसे-इंसान.html"
+      },
+      {
+        "title": "मार्दव--मान न कीजिये हो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मार्दव--मान-न-कीजिये-हो.html"
+      },
+      {
+        "title": "मितवा रे सुवरण अवसर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मितवा-रे-सुवरण-अवसर.html"
+      },
+      {
+        "title": "मुझे है स्वामी उस बल",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मुझे-है-स्वामी-उस-बल.html"
+      },
+      {
+        "title": "मुसाफिर क्यों पड़ा सोता",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मुसाफिर-क्यों-पड़ा-सोता.html"
+      },
+      {
+        "title": "मेरा आज तलक प्रभु",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मेरा-आज-तलक-प्रभु.html"
+      },
+      {
+        "title": "मेरे शाश्वत शरण",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मेरे-शाश्वत-शरण.html"
+      },
+      {
+        "title": "मैं ऐसा देहरा बनाऊं",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-ऐसा-देहरा-बनाऊं.html"
+      },
+      {
+        "title": "मैं क्या माँगू भगवान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-क्या-माँगू-भगवान.html"
+      },
+      {
+        "title": "मैं ज्ञान मात्र बस ज्ञायक हूँ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-ज्ञान-मात्र-बस-ज्ञायक-हूँ.html"
+      },
+      {
+        "title": "मैं ज्ञानानंद स्वभावी हूं",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-ज्ञानानंद-स्वभावी-हूं.html"
+      },
+      {
+        "title": "मैं दर्शन ज्ञान स्वरूपी हूं",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-दर्शन-ज्ञान-स्वरूपी-हूं.html"
+      },
+      {
+        "title": "मैं निज आतम कब",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-निज-आतम-कब.html"
+      },
+      {
+        "title": "मैं राजा तिहुं लोक का",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-राजा-तिहुं-लोक-का.html"
+      },
+      {
+        "title": "मैं हूँ आतमराम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैं-हूँ-आतमराम.html"
+      },
+      {
+        "title": "मैनासुंदरी कहे पिता से",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मैनासुंदरी-कहे-पिता-से.html"
+      },
+      {
+        "title": "मोको कहाँ ढूंढें बन्दे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मोको-कहाँ-ढूंढें-बन्दे.html"
+      },
+      {
+        "title": "मोक्ष पद मिलता है धीरे धीरे",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मोक्ष-पद-मिलता-है-धीरे-धीरे.html"
+      },
+      {
+        "title": "मोह की महिमा देखो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मोह-की-महिमा-देखो.html"
+      },
+      {
+        "title": "मोहे भावे न भैया थारो देश",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/मोहे-भावे-न-भैया-थारो-देश.html"
+      },
+      {
+        "title": "म्हारा चेतन ज्ञानी घणो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/म्हारा-चेतन-ज्ञानी-घणो.html"
+      },
+      {
+        "title": "यह स्वारथ का संसार दुःख भण्डार",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/यह-स्वारथ-का-संसार-दुःख-भण्डार.html"
+      },
+      {
+        "title": "यही इक धर्ममूल है",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/यही-इक-धर्ममूल-है.html"
+      },
+      {
+        "title": "या संसार में कोई सुखी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/या-संसार-में-कोई-सुखी.html"
+      },
+      {
+        "title": "ये प्रण है हमारा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ये-प्रण-है-हमारा.html"
+      },
+      {
+        "title": "ये शाश्वत सुख का प्याला",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ये-शाश्वत-सुख-का-प्याला.html"
+      },
+      {
+        "title": "ये सर्वसृष्टि है नाट्यशाला",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/ये-सर्वसृष्टि-है-नाट्यशाला.html"
+      },
+      {
+        "title": "रे जीव तू अपना स्वरूप  देख तो अहा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/रे-जीव-तू-अपना-स्वरूप--देख-तो-अहा.html"
+      },
+      {
+        "title": "लुटेरे बहुत देखे हैं",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/लुटेरे-बहुत-देखे-हैं.html"
+      },
+      {
+        "title": "वन्दे जिनवरम्",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/वन्दे-जिनवरम्.html"
+      },
+      {
+        "title": "विराजै रामायण घटमाहिं",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/विराजै-रामायण-घटमाहिं.html"
+      },
+      {
+        "title": "वीर जिनेश्‍वर अब तो मुझको",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/वीर-जिनेश्‍वर-अब-तो-मुझको.html"
+      },
+      {
+        "title": "शुद्धात्मा का श्रद्धान",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/शुद्धात्मा-का-श्रद्धान.html"
+      },
+      {
+        "title": "शौच--मूंजी धरी रहेली",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/शौच--मूंजी-धरी-रहेली.html"
+      },
+      {
+        "title": "संसार महा अघसागर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/संसार-महा-अघसागर.html"
+      },
+      {
+        "title": "संसार में सुख सर्वदा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/संसार-में-सुख-सर्वदा.html"
+      },
+      {
+        "title": "सजधज के जिस दिन",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सजधज-के-जिस-दिन.html"
+      },
+      {
+        "title": "सन्त निरन्तर चिन्तत",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सन्त-निरन्तर-चिन्तत.html"
+      },
+      {
+        "title": "सब जग को प्यारा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सब-जग-को-प्यारा.html"
+      },
+      {
+        "title": "समकित सुंदर शांति अपार",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/समकित-सुंदर-शांति-अपार.html"
+      },
+      {
+        "title": "समझ आत्मा के स्वरूप को",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/समझ-आत्मा-के-स्वरूप-को.html"
+      },
+      {
+        "title": "समझ मन स्वारथ का संसार",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/समझ-मन-स्वारथ-का-संसार.html"
+      },
+      {
+        "title": "सहजानन्दी शुद्ध स्वभावी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सहजानन्दी-शुद्ध-स्वभावी.html"
+      },
+      {
+        "title": "साधना के रास्ते आत्मा के",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/साधना-के-रास्ते-आत्मा-के.html"
+      },
+      {
+        "title": "सिद्धों से मिलने का मार्ग",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सिद्धों-से-मिलने-का-मार्ग.html"
+      },
+      {
+        "title": "सुन चेतन ज्ञानी क्यों",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सुन-चेतन-ज्ञानी-क्यों.html"
+      },
+      {
+        "title": "सुन रे जिया चिरकाल गया",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सुन-रे-जिया-चिरकाल-गया.html"
+      },
+      {
+        "title": "सुन ले ओ भोले प्राणी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सुन-ले-ओ-भोले-प्राणी.html"
+      },
+      {
+        "title": "सुन सतगुरु की सीख",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सुन-सतगुरु-की-सीख.html"
+      },
+      {
+        "title": "सुमर सदा मन आतमराम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सुमर-सदा-मन-आतमराम.html"
+      },
+      {
+        "title": "सोते सोते ही निकल",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/सोते-सोते-ही-निकल.html"
+      },
+      {
+        "title": "स्वारथ का व्यवहार जग",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/स्वारथ-का-व्यवहार-जग.html"
+      },
+      {
+        "title": "हठ तजो रे बेटा हठ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हठ-तजो-रे-बेटा-हठ.html"
+      },
+      {
+        "title": "हम अगर वीर वाणी",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हम-अगर-वीर-वाणी.html"
+      },
+      {
+        "title": "हम आतम ज्ञानी हम भेद",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हम-आतम-ज्ञानी-हम-भेद.html"
+      },
+      {
+        "title": "हम तो विषयों की लहर में बह गये",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हम-तो-विषयों-की-लहर-में-बह-गये.html"
+      },
+      {
+        "title": "हम न किसीके कोई न हमारा",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हम-न-किसीके-कोई-न-हमारा.html"
+      },
+      {
+        "title": "हमने तो घूमीं चार गतियाँ",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हमने-तो-घूमीं-चार-गतियाँ.html"
+      },
+      {
+        "title": "हूँ स्वतंत्र निश्चल",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हूँ-स्वतंत्र-निश्चल.html"
+      },
+      {
+        "title": "हे चेतन चेत जा अब तो",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हे-चेतन-चेत-जा-अब-तो.html"
+      },
+      {
+        "title": "हे परमात्‍मन तुझको पाकर",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हे-परमात्‍मन-तुझको-पाकर.html"
+      },
+      {
+        "title": "हे भविजन ध्याओ आतमराम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हे-भविजन-ध्याओ-आतमराम.html"
+      },
+      {
+        "title": "हे मन तेरी को कुटेव यह",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हे-मन-तेरी-को-कुटेव-यह.html"
+      },
+      {
+        "title": "हे सीमंधर भगवान शरण",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/हे-सीमंधर-भगवान-शरण.html"
+      },
+      {
+        "title": "होता विश्व स्वयं परिणाम",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/होता-विश्व-स्वयं-परिणाम.html"
+      },
+      {
+        "title": "होली--जे सहज होरी के",
+        "href": "./jainDataBase/bhajans/08_अध्यात्म/html/होली--जे-सहज-होरी-के.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-दौलतराम-कृत",
+    "children": [
+      {
+        "title": "अपनी सुधि भूल आप",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/अपनी-सुधि-भूल-आप.html"
+      },
+      {
+        "title": "अब मोहि जानि परी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/अब-मोहि-जानि-परी.html"
+      },
+      {
+        "title": "अभिनंदन--जगदानंदन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/अभिनंदन--जगदानंदन.html"
+      },
+      {
+        "title": "अरिरजरहस हनन प्रभु",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/अरिरजरहस-हनन-प्रभु.html"
+      },
+      {
+        "title": "अरे जिया जग धोखे",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/अरे-जिया-जग-धोखे.html"
+      },
+      {
+        "title": "आज गिरिराज निहारा",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आज-गिरिराज-निहारा.html"
+      },
+      {
+        "title": "आज मैं परम पदारथ",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आज-मैं-परम-पदारथ.html"
+      },
+      {
+        "title": "आतम रूप अनूपम अद्भुत",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आतम-रूप-अनूपम-अद्भुत.html"
+      },
+      {
+        "title": "आदिनाथ--चलि सखि देखन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आदिनाथ--चलि-सखि-देखन.html"
+      },
+      {
+        "title": "आदिनाथ--जय श्री ऋषभ",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आदिनाथ--जय-श्री-ऋषभ.html"
+      },
+      {
+        "title": "आदिनाथ--देखो जी आदिश्वर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आदिनाथ--देखो-जी-आदिश्वर.html"
+      },
+      {
+        "title": "आदिनाथ--निरख सखी ऋषिन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आदिनाथ--निरख-सखी-ऋषिन.html"
+      },
+      {
+        "title": "आदिनाथ--भज ऋषिपति",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आदिनाथ--भज-ऋषिपति.html"
+      },
+      {
+        "title": "आदिनाथ--मेरी सुध लीजै",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आदिनाथ--मेरी-सुध-लीजै.html"
+      },
+      {
+        "title": "आप भ्रमविनाश आप",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आप-भ्रमविनाश-आप.html"
+      },
+      {
+        "title": "आपा नहिं जाना तूने",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/आपा-नहिं-जाना-तूने.html"
+      },
+      {
+        "title": "उरग सुरग नरईश शीस",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/उरग-सुरग-नरईश-शीस.html"
+      },
+      {
+        "title": "ऐसा मोही क्यों न अधोगति",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/ऐसा-मोही-क्यों-न-अधोगति.html"
+      },
+      {
+        "title": "ऐसा योगी क्यों न अभयपद",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/ऐसा-योगी-क्यों-न-अभयपद.html"
+      },
+      {
+        "title": "और अबै न कुदेव सुहावै",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/और-अबै-न-कुदेव-सुहावै.html"
+      },
+      {
+        "title": "और सबै जगद्वन्द",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/और-सबै-जगद्वन्द.html"
+      },
+      {
+        "title": "कबधौं मिलै मोहि श्रीगुरु",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/कबधौं-मिलै-मोहि-श्रीगुरु.html"
+      },
+      {
+        "title": "कुंथुनाथ--कुंथुन के प्रतिपाल",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/कुंथुनाथ--कुंथुन-के-प्रतिपाल.html"
+      },
+      {
+        "title": "कुमति कुनारि नहीं है भली",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/कुमति-कुनारि-नहीं-है-भली.html"
+      },
+      {
+        "title": "गुरु कहत सीख इमि",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/गुरु-कहत-सीख-इमि.html"
+      },
+      {
+        "title": "घड़ि घड़ि पल पल",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/घड़ि-घड़ि-पल-पल.html"
+      },
+      {
+        "title": "चंद्रनाथ--चंद्रानन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चंद्रनाथ--चंद्रानन.html"
+      },
+      {
+        "title": "चंद्रनाथ--निरखत जिन चंद्रवदन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चंद्रनाथ--निरखत-जिन-चंद्रवदन.html"
+      },
+      {
+        "title": "चंद्रनाथ--निरखि जिनचन्द री",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चंद्रनाथ--निरखि-जिनचन्द-री.html"
+      },
+      {
+        "title": "चित चिंतकैं चिदेश",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चित-चिंतकैं-चिदेश.html"
+      },
+      {
+        "title": "चिदराय गुण मुनो सुनो",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चिदराय-गुण-मुनो-सुनो.html"
+      },
+      {
+        "title": "चिन्मूरत दृग्धारी की",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चिन्मूरत-दृग्धारी-की.html"
+      },
+      {
+        "title": "चेतन अब धरि सहज",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चेतन-अब-धरि-सहज.html"
+      },
+      {
+        "title": "चेतन कौन अनीति गही",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चेतन-कौन-अनीति-गही.html"
+      },
+      {
+        "title": "चेतन तैं यौं ही भ्रम",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चेतन-तैं-यौं-ही-भ्रम.html"
+      },
+      {
+        "title": "चेतन यह बुधि कौन सयानी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/चेतन-यह-बुधि-कौन-सयानी.html"
+      },
+      {
+        "title": "छाँडत क्‍यों नहिं रे नर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/छाँडत-क्‍यों-नहिं-रे-नर.html"
+      },
+      {
+        "title": "छांडत क्यौं नहिं रे",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/छांडत-क्यौं-नहिं-रे.html"
+      },
+      {
+        "title": "छांडि दे या बुधि भोरी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/छांडि-दे-या-बुधि-भोरी.html"
+      },
+      {
+        "title": "जबतैं आनंदजननि दृष्टि",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जबतैं-आनंदजननि-दृष्टि.html"
+      },
+      {
+        "title": "जम आन अचानक दाबेगा",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जम-आन-अचानक-दाबेगा.html"
+      },
+      {
+        "title": "जय जग भरम तिमिर हरन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जय-जग-भरम-तिमिर-हरन.html"
+      },
+      {
+        "title": "जाऊँ कहाँ तज शरन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जाऊँ-कहाँ-तज-शरन.html"
+      },
+      {
+        "title": "जिन बैन सुनत मोरी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जिन-बैन-सुनत-मोरी.html"
+      },
+      {
+        "title": "जिन राग द्वेष त्यागा",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जिन-राग-द्वेष-त्यागा.html"
+      },
+      {
+        "title": "जिनवर आनन भान",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जिनवर-आनन-भान.html"
+      },
+      {
+        "title": "जिनवानी जान सुजान",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जिनवानी-जान-सुजान.html"
+      },
+      {
+        "title": "जिया तुम चालो अपने",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जिया-तुम-चालो-अपने.html"
+      },
+      {
+        "title": "जीव तू अनादिहीतैं भूल्यौ",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/जीव-तू-अनादिहीतैं-भूल्यौ.html"
+      },
+      {
+        "title": "ज्ञानी जीव निवार भरमतम",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/ज्ञानी-जीव-निवार-भरमतम.html"
+      },
+      {
+        "title": "तुम सुनियो श्रीजिननाथ",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/तुम-सुनियो-श्रीजिननाथ.html"
+      },
+      {
+        "title": "तोहि समझायो सौ सौ",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/तोहि-समझायो-सौ-सौ.html"
+      },
+      {
+        "title": "त्रिभुवन आनंदकारी जिन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/त्रिभुवन-आनंदकारी-जिन.html"
+      },
+      {
+        "title": "थारा तो बैनामें सरधान",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/थारा-तो-बैनामें-सरधान.html"
+      },
+      {
+        "title": "धन धन साधर्मीजन मिलन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/धन-धन-साधर्मीजन-मिलन.html"
+      },
+      {
+        "title": "धनि मुनि जिन यह",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/धनि-मुनि-जिन-यह.html"
+      },
+      {
+        "title": "धनि मुनि जिनकी लगी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/धनि-मुनि-जिनकी-लगी.html"
+      },
+      {
+        "title": "धनि हैं मुनि निज आतमहित",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/धनि-हैं-मुनि-निज-आतमहित.html"
+      },
+      {
+        "title": "ध्यानकृपान पानि गहि नासी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/ध्यानकृपान-पानि-गहि-नासी.html"
+      },
+      {
+        "title": "न मानत यह जिय निपट",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/न-मानत-यह-जिय-निपट.html"
+      },
+      {
+        "title": "नमिनाथ--अहो नमि जिनप",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/नमिनाथ--अहो-नमि-जिनप.html"
+      },
+      {
+        "title": "नाथ मोहि तारत क्यों ना",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/नाथ-मोहि-तारत-क्यों-ना.html"
+      },
+      {
+        "title": "निजहितकारज करना",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/निजहितकारज-करना.html"
+      },
+      {
+        "title": "नित पीज्यौ धी धारी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/नित-पीज्यौ-धी-धारी.html"
+      },
+      {
+        "title": "निरख सुख पायो जिनमुख",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/निरख-सुख-पायो-जिनमुख.html"
+      },
+      {
+        "title": "नेमिनाथ--नेमिप्रभू की श्यामवरन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/नेमिनाथ--नेमिप्रभू-की-श्यामवरन.html"
+      },
+      {
+        "title": "नेमिनाथ--लाल कैसे जावोगे",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/नेमिनाथ--लाल-कैसे-जावोगे.html"
+      },
+      {
+        "title": "पद्मप्रभु--पद्मसद्म",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/पद्मप्रभु--पद्मसद्म.html"
+      },
+      {
+        "title": "पारसनाथ--पारस जिन चरन निरख",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/पारसनाथ--पारस-जिन-चरन-निरख.html"
+      },
+      {
+        "title": "पारसनाथ--पास अनादि अविद्या",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/पारसनाथ--पास-अनादि-अविद्या.html"
+      },
+      {
+        "title": "पारसनाथ--वामा घर बजत बधाई",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/पारसनाथ--वामा-घर-बजत-बधाई.html"
+      },
+      {
+        "title": "पारसनाथ--सांवरिया के नाम",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/पारसनाथ--सांवरिया-के-नाम.html"
+      },
+      {
+        "title": "प्यारी लागै म्हाने जिन छवि",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/प्यारी-लागै-म्हाने-जिन-छवि.html"
+      },
+      {
+        "title": "प्रभु थारी आज महिमा जानी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/प्रभु-थारी-आज-महिमा-जानी.html"
+      },
+      {
+        "title": "भविन सरोरूहसूर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/भविन-सरोरूहसूर.html"
+      },
+      {
+        "title": "मत कीजो जी यारी यह",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मत-कीजो-जी-यारी-यह.html"
+      },
+      {
+        "title": "मत कीज्यो जी यारी घिन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मत-कीज्यो-जी-यारी-घिन.html"
+      },
+      {
+        "title": "मत राचो धीधारी भव रंभ",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मत-राचो-धीधारी-भव-रंभ.html"
+      },
+      {
+        "title": "मनवचतन करि शुद्ध",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मनवचतन-करि-शुद्ध.html"
+      },
+      {
+        "title": "महावीर--जय शिव कामिनि",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/महावीर--जय-शिव-कामिनि.html"
+      },
+      {
+        "title": "महावीर--जय श्री वीर जिन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/महावीर--जय-श्री-वीर-जिन.html"
+      },
+      {
+        "title": "महावीर--जय श्री वीर जिनेन्द्र",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/महावीर--जय-श्री-वीर-जिनेन्द्र.html"
+      },
+      {
+        "title": "महावीर--वंदों अद्भुत चन्द्र वीर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/महावीर--वंदों-अद्भुत-चन्द्र-वीर.html"
+      },
+      {
+        "title": "महावीर--सब मिल देखो हेली",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/महावीर--सब-मिल-देखो-हेली.html"
+      },
+      {
+        "title": "महावीर--हमारी वीर हरो भवपीर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/महावीर--हमारी-वीर-हरो-भवपीर.html"
+      },
+      {
+        "title": "मान ले या सिख मोरी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मान-ले-या-सिख-मोरी.html"
+      },
+      {
+        "title": "मानत क्यों नहिं रे हे नर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मानत-क्यों-नहिं-रे-हे-नर.html"
+      },
+      {
+        "title": "मेरे कब ह्वै वा",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मेरे-कब-ह्वै-वा.html"
+      },
+      {
+        "title": "मैं आयौ जिन शरन तिहारी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मैं-आयौ-जिन-शरन-तिहारी.html"
+      },
+      {
+        "title": "मैं भाखूं हित तेरा सुनि हो",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मैं-भाखूं-हित-तेरा-सुनि-हो.html"
+      },
+      {
+        "title": "मोहि तारो जी क्यों ना",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मोहि-तारो-जी-क्यों-ना.html"
+      },
+      {
+        "title": "मोहिड़ा रे जिय हितकारी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मोहिड़ा-रे-जिय-हितकारी.html"
+      },
+      {
+        "title": "मोही जीव भरमतम ते नहि",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/मोही-जीव-भरमतम-ते-नहि.html"
+      },
+      {
+        "title": "राचि रह्यो परमाहिं",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/राचि-रह्यो-परमाहिं.html"
+      },
+      {
+        "title": "लखो जी या जिय भोरे",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/लखो-जी-या-जिय-भोरे.html"
+      },
+      {
+        "title": "वासुपूज्य--जय जिन वासुपूज्य",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/वासुपूज्य--जय-जिन-वासुपूज्य.html"
+      },
+      {
+        "title": "विषयोंदा मद भानै ऐसा",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/विषयोंदा-मद-भानै-ऐसा.html"
+      },
+      {
+        "title": "शांतिनाथ--वारी हो बधाई या",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/शांतिनाथ--वारी-हो-बधाई-या.html"
+      },
+      {
+        "title": "शिवपुर की डगर समरस",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/शिवपुर-की-डगर-समरस.html"
+      },
+      {
+        "title": "सुधि लीज्यो जी म्हारी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/सुधि-लीज्यो-जी-म्हारी.html"
+      },
+      {
+        "title": "सुनि जिन बैन श्रवन सुख",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/सुनि-जिन-बैन-श्रवन-सुख.html"
+      },
+      {
+        "title": "सुनो जिया ये सतगुरु",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/सुनो-जिया-ये-सतगुरु.html"
+      },
+      {
+        "title": "सौ सौ बार हटक नहिं",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/सौ-सौ-बार-हटक-नहिं.html"
+      },
+      {
+        "title": "हम तो कबहुँ न निज गुन",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हम-तो-कबहुँ-न-निज-गुन.html"
+      },
+      {
+        "title": "हम तो कबहुँ न निज घर",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हम-तो-कबहुँ-न-निज-घर.html"
+      },
+      {
+        "title": "हम तो कबहूँ न हित उपजाये",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हम-तो-कबहूँ-न-हित-उपजाये.html"
+      },
+      {
+        "title": "हे जिन तेरे मैं शरणै",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हे-जिन-तेरे-मैं-शरणै.html"
+      },
+      {
+        "title": "हे जिन तेरो सुजस",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हे-जिन-तेरो-सुजस.html"
+      },
+      {
+        "title": "हे जिन मेरी ऐसी बुधि",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हे-जिन-मेरी-ऐसी-बुधि.html"
+      },
+      {
+        "title": "हे नर भ्रम नींद क्यों न",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हे-नर-भ्रम-नींद-क्यों-न.html"
+      },
+      {
+        "title": "हे मन तेरी को कुटेव यह",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हे-मन-तेरी-को-कुटेव-यह.html"
+      },
+      {
+        "title": "हे हितवांछक प्रानी रे",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हे-हितवांछक-प्रानी-रे.html"
+      },
+      {
+        "title": "हो तुम त्रिभुवन तारी",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हो-तुम-त्रिभुवन-तारी.html"
+      },
+      {
+        "title": "हो तुम शठ अविचारी जियरा",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/हो-तुम-शठ-अविचारी-जियरा.html"
+      },
+      {
+        "title": "होली--ज्ञानी ऐसे होली मचाई",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/होली--ज्ञानी-ऐसे-होली-मचाई.html"
+      },
+      {
+        "title": "होली--मेरो मन ऐसी खेलत",
+        "href": "./jainDataBase/bhajans/09_पं-दौलतराम-कृत/html/होली--मेरो-मन-ऐसी-खेलत.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-भागचंद-कृत",
+    "children": [
+      {
+        "title": "अतिसंक्लेश विशुद्ध शुद्ध पुनि",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/अतिसंक्लेश-विशुद्ध-शुद्ध-पुनि.html"
+      },
+      {
+        "title": "अहो यह उपदेश माहीं",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/अहो-यह-उपदेश-माहीं.html"
+      },
+      {
+        "title": "आकुल रहित होय इमि",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/आकुल-रहित-होय-इमि.html"
+      },
+      {
+        "title": "आतम अनुभव आवै",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/आतम-अनुभव-आवै.html"
+      },
+      {
+        "title": "आवै न भोगन में तोहि",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/आवै-न-भोगन-में-तोहि.html"
+      },
+      {
+        "title": "ऐसे जैनी मुनिमहाराज",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/ऐसे-जैनी-मुनिमहाराज.html"
+      },
+      {
+        "title": "ऐसे विमल भाव जब पावै",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/ऐसे-विमल-भाव-जब-पावै.html"
+      },
+      {
+        "title": "ऐसे साधु सुगुरु कब",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/ऐसे-साधु-सुगुरु-कब.html"
+      },
+      {
+        "title": "करो रे भाई तत्त्वारथ",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/करो-रे-भाई-तत्त्वारथ.html"
+      },
+      {
+        "title": "चन्द्रोज्वल अविकार स्वामी जी",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/चन्द्रोज्वल-अविकार-स्वामी-जी.html"
+      },
+      {
+        "title": "जिन स्व पर हिताहित चीना",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/जिन-स्व-पर-हिताहित-चीना.html"
+      },
+      {
+        "title": "जीव! तू भ्रमत सदैव",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/जीव!-तू-भ्रमत-सदैव.html"
+      },
+      {
+        "title": "जीवन के परिनामनि की",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/जीवन-के-परिनामनि-की.html"
+      },
+      {
+        "title": "जे दिन तुम विवेक बिन",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/जे-दिन-तुम-विवेक-बिन.html"
+      },
+      {
+        "title": "ज्ञानी जीवनि के भय होय",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/ज्ञानी-जीवनि-के-भय-होय.html"
+      },
+      {
+        "title": "तुम परम पावन देख जिन",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/तुम-परम-पावन-देख-जिन.html"
+      },
+      {
+        "title": "धन धन जैनी साधु",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/धन-धन-जैनी-साधु.html"
+      },
+      {
+        "title": "धनि ते प्रानि जिनके",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/धनि-ते-प्रानि-जिनके.html"
+      },
+      {
+        "title": "धन्य धन्य है घड़ी आज",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/धन्य-धन्य-है-घड़ी-आज.html"
+      },
+      {
+        "title": "परणति सब जीवन",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/परणति-सब-जीवन.html"
+      },
+      {
+        "title": "प्रभु पै यह वरदान",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/प्रभु-पै-यह-वरदान.html"
+      },
+      {
+        "title": "महिमा है अगम",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/महिमा-है-अगम.html"
+      },
+      {
+        "title": "मार्दव--मान न कीजिये हो",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/मार्दव--मान-न-कीजिये-हो.html"
+      },
+      {
+        "title": "यह मोह उदय दुख पावै",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/यह-मोह-उदय-दुख-पावै.html"
+      },
+      {
+        "title": "यही इक धर्ममूल है",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/यही-इक-धर्ममूल-है.html"
+      },
+      {
+        "title": "श्री मुनि राजत समता संग",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/श्री-मुनि-राजत-समता-संग.html"
+      },
+      {
+        "title": "सन्त निरन्तर चिन्तत",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/सन्त-निरन्तर-चिन्तत.html"
+      },
+      {
+        "title": "सफल है धन्य धन्य वा",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/सफल-है-धन्य-धन्य-वा.html"
+      },
+      {
+        "title": "सम आराम विहारी साधुजन",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/सम-आराम-विहारी-साधुजन.html"
+      },
+      {
+        "title": "सुमर सदा मन आतमराम",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/सुमर-सदा-मन-आतमराम.html"
+      },
+      {
+        "title": "होली--जे सहज होरी के",
+        "href": "./jainDataBase/bhajans/10_पं-भागचंद-कृत/html/होली--जे-सहज-होरी-के.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-द्यानतराय-कृत",
+    "children": [
+      {
+        "title": "अजितनाथ सों मन लावो रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/अजितनाथ-सों-मन-लावो-रे.html"
+      },
+      {
+        "title": "अब मोहे तार लेहु महावीर",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/अब-मोहे-तार-लेहु-महावीर.html"
+      },
+      {
+        "title": "अब हम अमर भये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/अब-हम-अमर-भये.html"
+      },
+      {
+        "title": "अब हम आतम को पहिचान्यौ",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/अब-हम-आतम-को-पहिचान्यौ.html"
+      },
+      {
+        "title": "अरहंत सुमर मन बावरे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/अरहंत-सुमर-मन-बावरे.html"
+      },
+      {
+        "title": "अहो भवि प्रानी चेतिये हो",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/अहो-भवि-प्रानी-चेतिये-हो.html"
+      },
+      {
+        "title": "आतम अनुभव करना रे भाई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-अनुभव-करना-रे-भाई.html"
+      },
+      {
+        "title": "आतम अनुभव कीजिये यह",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-अनुभव-कीजिये-यह.html"
+      },
+      {
+        "title": "आतम अनुभव कीजै हो",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-अनुभव-कीजै-हो.html"
+      },
+      {
+        "title": "आतम अनुभव सार हो",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-अनुभव-सार-हो.html"
+      },
+      {
+        "title": "आतम काज सँवारिये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-काज-सँवारिये.html"
+      },
+      {
+        "title": "आतम जान रे जान रे जान",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-जान-रे-जान-रे-जान.html"
+      },
+      {
+        "title": "आतम जानो रे भाई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतम-जानो-रे-भाई.html"
+      },
+      {
+        "title": "आतमज्ञान लखैं सुख होई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतमज्ञान-लखैं-सुख-होई.html"
+      },
+      {
+        "title": "आतमरूप अनूपम है",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतमरूप-अनूपम-है.html"
+      },
+      {
+        "title": "आतमरूप सुहावना",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आतमरूप-सुहावना.html"
+      },
+      {
+        "title": "आदिनाथ--ऋषभदेव जनम्यौ",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--ऋषभदेव-जनम्यौ.html"
+      },
+      {
+        "title": "आदिनाथ--जाकौं इंद",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--जाकौं-इंद.html"
+      },
+      {
+        "title": "आदिनाथ--तेरैं मोह नहीं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--तेरैं-मोह-नहीं.html"
+      },
+      {
+        "title": "आदिनाथ--देखो नाभिनंदन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--देखो-नाभिनंदन.html"
+      },
+      {
+        "title": "आदिनाथ--फूली बसन्त जहँ",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--फूली-बसन्त-जहँ.html"
+      },
+      {
+        "title": "आदिनाथ--भज रे मन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--भज-रे-मन.html"
+      },
+      {
+        "title": "आदिनाथ--भज श्रीआदिचरन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--भज-श्रीआदिचरन.html"
+      },
+      {
+        "title": "आदिनाथ--रुल्यो चिरकाल",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ--रुल्यो-चिरकाल.html"
+      },
+      {
+        "title": "आदिनाथ तारन तरनं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आदिनाथ-तारन-तरनं.html"
+      },
+      {
+        "title": "आपा प्रभु जाना मैं जाना",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आपा-प्रभु-जाना-मैं-जाना.html"
+      },
+      {
+        "title": "आरति कीजै श्रीमुनिराज की",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आरति-कीजै-श्रीमुनिराज-की.html"
+      },
+      {
+        "title": "आरती--करौं आरती वर्द्धमान",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आरती--करौं-आरती-वर्द्धमान.html"
+      },
+      {
+        "title": "आरती--मंगल आरती आतमराम",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आरती--मंगल-आरती-आतमराम.html"
+      },
+      {
+        "title": "आरती--मंगल आरती कीजे भोर",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आरती--मंगल-आरती-कीजे-भोर.html"
+      },
+      {
+        "title": "आरती श्रीजिनराज तिहारी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/आरती-श्रीजिनराज-तिहारी.html"
+      },
+      {
+        "title": "एक ब्रह्म तिहुँलोकमँझार",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/एक-ब्रह्म-तिहुँलोकमँझार.html"
+      },
+      {
+        "title": "ऐसो सुमिरन कर मेरे भाई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ऐसो-सुमिरन-कर-मेरे-भाई.html"
+      },
+      {
+        "title": "कर कर आतमहित रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कर-कर-आतमहित-रे.html"
+      },
+      {
+        "title": "कर मन निज आतम चिंतौन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कर-मन-निज-आतम-चिंतौन.html"
+      },
+      {
+        "title": "कर मन वीतराग को ध्यान",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कर-मन-वीतराग-को-ध्यान.html"
+      },
+      {
+        "title": "कर रे तू आतम हित",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कर-रे-तू-आतम-हित.html"
+      },
+      {
+        "title": "कलि में ग्रन्थ बड़े उपगारी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कलि-में-ग्रन्थ-बड़े-उपगारी.html"
+      },
+      {
+        "title": "कहत सुगुरु करि सुहित",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कहत-सुगुरु-करि-सुहित.html"
+      },
+      {
+        "title": "कहिवे को मन सूरमा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कहिवे-को-मन-सूरमा.html"
+      },
+      {
+        "title": "काया तेरी दुख की ढेरी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/काया-तेरी-दुख-की-ढेरी.html"
+      },
+      {
+        "title": "कारज एक ब्रह्महीसेती",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/कारज-एक-ब्रह्महीसेती.html"
+      },
+      {
+        "title": "काहे को सोचत अति भारी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/काहे-को-सोचत-अति-भारी.html"
+      },
+      {
+        "title": "किसकी भगति किये हित",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/किसकी-भगति-किये-हित.html"
+      },
+      {
+        "title": "क्षमा--काहे क्रोध करे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/क्षमा--काहे-क्रोध-करे.html"
+      },
+      {
+        "title": "क्षमा--क्रोध कषाय न मैं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/क्षमा--क्रोध-कषाय-न-मैं.html"
+      },
+      {
+        "title": "क्षमा--सबसों छिमा छिमा कर",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/क्षमा--सबसों-छिमा-छिमा-कर.html"
+      },
+      {
+        "title": "गलता नमता कब आवैगा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/गलता-नमता-कब-आवैगा.html"
+      },
+      {
+        "title": "गहु सन्तोष सदा मन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/गहु-सन्तोष-सदा-मन.html"
+      },
+      {
+        "title": "गुरु समान दाता नहिं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/गुरु-समान-दाता-नहिं.html"
+      },
+      {
+        "title": "घटमें परमातम ध्याइये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/घटमें-परमातम-ध्याइये.html"
+      },
+      {
+        "title": "चेतन नागर हो तुम चेतो",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/चेतन-नागर-हो-तुम-चेतो.html"
+      },
+      {
+        "title": "चेतन प्राणी चेतिये हो",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/चेतन-प्राणी-चेतिये-हो.html"
+      },
+      {
+        "title": "जग में प्रभु पूजा सुखदाई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जग-में-प्रभु-पूजा-सुखदाई.html"
+      },
+      {
+        "title": "जगत में सम्यक उत्तम",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जगत-में-सम्यक-उत्तम.html"
+      },
+      {
+        "title": "जानत क्यों नहिं रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जानत-क्यों-नहिं-रे.html"
+      },
+      {
+        "title": "जानो धन्य सो धन्य सो धीर",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जानो-धन्य-सो-धन्य-सो-धीर.html"
+      },
+      {
+        "title": "जानौं पूरा ज्ञाता सोई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जानौं-पूरा-ज्ञाता-सोई.html"
+      },
+      {
+        "title": "जिन नाम सुमर मन बावरे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जिन-नाम-सुमर-मन-बावरे.html"
+      },
+      {
+        "title": "जिनके हिरदै प्रभुनाम नहीं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जिनके-हिरदै-प्रभुनाम-नहीं.html"
+      },
+      {
+        "title": "जिनवरमूरत तेरी शोभा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जिनवरमूरत-तेरी-शोभा.html"
+      },
+      {
+        "title": "जीव तैं मूढ़पना कित पायो",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जीव-तैं-मूढ़पना-कित-पायो.html"
+      },
+      {
+        "title": "जो तैं आतमहित नहिं कीना",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/जो-तैं-आतमहित-नहिं-कीना.html"
+      },
+      {
+        "title": "ज्ञान का राह दुहेला रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञान-का-राह-दुहेला-रे.html"
+      },
+      {
+        "title": "ज्ञान का राह सुहेला रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञान-का-राह-सुहेला-रे.html"
+      },
+      {
+        "title": "ज्ञान को पंथ कठिन है",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञान-को-पंथ-कठिन-है.html"
+      },
+      {
+        "title": "ज्ञान ज्ञेयमाहिं नाहि ज्ञेय",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञान-ज्ञेयमाहिं-नाहि-ज्ञेय.html"
+      },
+      {
+        "title": "ज्ञान बिना दुख पाया रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञान-बिना-दुख-पाया-रे.html"
+      },
+      {
+        "title": "ज्ञानी ऐसो ज्ञान विचारै",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञानी-ऐसो-ज्ञान-विचारै.html"
+      },
+      {
+        "title": "ज्ञानी जीव दया नित पालैं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/ज्ञानी-जीव-दया-नित-पालैं.html"
+      },
+      {
+        "title": "तुम प्रभु कहियत दीनदयाल",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/तुम-प्रभु-कहियत-दीनदयाल.html"
+      },
+      {
+        "title": "तुमको कैसे सुख ह्वै मीत",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/तुमको-कैसे-सुख-ह्वै-मीत.html"
+      },
+      {
+        "title": "तू जिनवर स्वामी मेरा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/तू-जिनवर-स्वामी-मेरा.html"
+      },
+      {
+        "title": "तू तो समझ समझ रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/तू-तो-समझ-समझ-रे.html"
+      },
+      {
+        "title": "दरसन तेरा मन भाये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/दरसन-तेरा-मन-भाये.html"
+      },
+      {
+        "title": "देखे जिनराज आज राजऋद्धि",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/देखे-जिनराज-आज-राजऋद्धि.html"
+      },
+      {
+        "title": "देखे सुखी सम्यकवान",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/देखे-सुखी-सम्यकवान.html"
+      },
+      {
+        "title": "देखो भाई आतमराम",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/देखो-भाई-आतमराम.html"
+      },
+      {
+        "title": "देखो भाई श्रीजिनराज विराजैं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/देखो-भाई-श्रीजिनराज-विराजैं.html"
+      },
+      {
+        "title": "धनि ते साधु रहत वनमाहीं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/धनि-ते-साधु-रहत-वनमाहीं.html"
+      },
+      {
+        "title": "धनि धनि ते मुनि गिरी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/धनि-धनि-ते-मुनि-गिरी.html"
+      },
+      {
+        "title": "धिक धिक जीवन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/धिक-धिक-जीवन.html"
+      },
+      {
+        "title": "नेमिनाथ--अब हम नेमिजी की",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/नेमिनाथ--अब-हम-नेमिजी-की.html"
+      },
+      {
+        "title": "नेमिनाथ--देख्या मैंने नेमिजी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/नेमिनाथ--देख्या-मैंने-नेमिजी.html"
+      },
+      {
+        "title": "नेमिनाथ--भजि मन प्रभु",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/नेमिनाथ--भजि-मन-प्रभु.html"
+      },
+      {
+        "title": "परम गुरु बरसत ज्ञान झरी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/परम-गुरु-बरसत-ज्ञान-झरी.html"
+      },
+      {
+        "title": "प्रभु तेरी महिमा किहि",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/प्रभु-तेरी-महिमा-किहि.html"
+      },
+      {
+        "title": "प्राणी आतमरूप अनूप है",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/प्राणी-आतमरूप-अनूप-है.html"
+      },
+      {
+        "title": "प्राणी लाल छांडो मन चपलाई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/प्राणी-लाल-छांडो-मन-चपलाई.html"
+      },
+      {
+        "title": "प्रानी ये संसार असार है",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/प्रानी-ये-संसार-असार-है.html"
+      },
+      {
+        "title": "भाई अब मैं ऐसा जाना",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-अब-मैं-ऐसा-जाना.html"
+      },
+      {
+        "title": "भाई कहा देख गरवाना रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-कहा-देख-गरवाना-रे.html"
+      },
+      {
+        "title": "भाई कौन कहै घर मेरा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-कौन-कहै-घर-मेरा.html"
+      },
+      {
+        "title": "भाई कौन धरम हम पालें",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-कौन-धरम-हम-पालें.html"
+      },
+      {
+        "title": "भाई जानो पुद्गल न्यारा रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-जानो-पुद्गल-न्यारा-रे.html"
+      },
+      {
+        "title": "भाई ज्ञान बिना दुख पाया रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-ज्ञान-बिना-दुख-पाया-रे.html"
+      },
+      {
+        "title": "भाई ज्ञानी सोई कहिये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-ज्ञानी-सोई-कहिये.html"
+      },
+      {
+        "title": "भाई ब्रह्म विराजै कैसा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-ब्रह्म-विराजै-कैसा.html"
+      },
+      {
+        "title": "भाई ब्रह्मज्ञान नहिं जाना रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भाई-ब्रह्मज्ञान-नहिं-जाना-रे.html"
+      },
+      {
+        "title": "भैया सो आतम जानो रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भैया-सो-आतम-जानो-रे.html"
+      },
+      {
+        "title": "भोर भयो भज श्रीजिनराज",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भोर-भयो-भज-श्रीजिनराज.html"
+      },
+      {
+        "title": "भ्रम्यो जी भ्रम्यो संसार महावन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/भ्रम्यो-जी-भ्रम्यो-संसार-महावन.html"
+      },
+      {
+        "title": "मगन रहु रे शुद्धातम में",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मगन-रहु-रे-शुद्धातम-में.html"
+      },
+      {
+        "title": "मन मेरे राग भाव निवार",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मन-मेरे-राग-भाव-निवार.html"
+      },
+      {
+        "title": "महावीर जीवाजीव छीर नीर",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/महावीर-जीवाजीव-छीर-नीर.html"
+      },
+      {
+        "title": "मानुषभव पानी दियो जिन",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मानुषभव-पानी-दियो-जिन.html"
+      },
+      {
+        "title": "मेरे घट ज्ञान घनागम",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मेरे-घट-ज्ञान-घनागम.html"
+      },
+      {
+        "title": "मेरे मन कब ह्वै है बैराग",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मेरे-मन-कब-ह्वै-है-बैराग.html"
+      },
+      {
+        "title": "मैं निज आतम कब",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मैं-निज-आतम-कब.html"
+      },
+      {
+        "title": "मोहि कब ऐसा दिन आय",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/मोहि-कब-ऐसा-दिन-आय.html"
+      },
+      {
+        "title": "राम भरतसों कहैं सुभाइ",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/राम-भरतसों-कहैं-सुभाइ.html"
+      },
+      {
+        "title": "राम सीता संवाद",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/राम-सीता-संवाद.html"
+      },
+      {
+        "title": "रे जिय क्रोध काहे करै",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/रे-जिय-क्रोध-काहे-करै.html"
+      },
+      {
+        "title": "रे जिय जनम लाहो लेह",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/रे-जिय-जनम-लाहो-लेह.html"
+      },
+      {
+        "title": "रे जिय भजो आतमदेव",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/रे-जिय-भजो-आतमदेव.html"
+      },
+      {
+        "title": "रे भाई करुना जान रे",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/रे-भाई-करुना-जान-रे.html"
+      },
+      {
+        "title": "रे भाई मोह महा दुखदाता",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/रे-भाई-मोह-महा-दुखदाता.html"
+      },
+      {
+        "title": "रे मन भज भज दीन दयाल",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/रे-मन-भज-भज-दीन-दयाल.html"
+      },
+      {
+        "title": "लागा आतमराम सों नेहरा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/लागा-आतमराम-सों-नेहरा.html"
+      },
+      {
+        "title": "वीरशासन जयंती--जब बानी खिरी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/वीरशासन-जयंती--जब-बानी-खिरी.html"
+      },
+      {
+        "title": "वे कोई निपट अनारी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/वे-कोई-निपट-अनारी.html"
+      },
+      {
+        "title": "शौच--जियको लोभ महा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/शौच--जियको-लोभ-महा.html"
+      },
+      {
+        "title": "श्रीजिनधर्म सदा जयवन्त",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/श्रीजिनधर्म-सदा-जयवन्त.html"
+      },
+      {
+        "title": "सँभाल जगजाल में काल दरहाल",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सँभाल-जगजाल-में-काल-दरहाल.html"
+      },
+      {
+        "title": "सब जग को प्यारा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सब-जग-को-प्यारा.html"
+      },
+      {
+        "title": "सबको एक ही धरम सहाय",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सबको-एक-ही-धरम-सहाय.html"
+      },
+      {
+        "title": "सबमें हम हममें सब ज्ञान",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सबमें-हम-हममें-सब-ज्ञान.html"
+      },
+      {
+        "title": "समझत क्यों नहिं वानी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/समझत-क्यों-नहिं-वानी.html"
+      },
+      {
+        "title": "साधो छांडो विषय विकारी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/साधो-छांडो-विषय-विकारी.html"
+      },
+      {
+        "title": "सील सदा दिढ़ राखि हिये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सील-सदा-दिढ़-राखि-हिये.html"
+      },
+      {
+        "title": "सुन चेतन इक बात हमारी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सुन-चेतन-इक-बात-हमारी.html"
+      },
+      {
+        "title": "सुन चेतन लाड़ले यह चतुराई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सुन-चेतन-लाड़ले-यह-चतुराई.html"
+      },
+      {
+        "title": "सुपार्श्वनाथ--प्रभुजी प्रभ सुपास",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सुपार्श्वनाथ--प्रभुजी-प्रभ-सुपास.html"
+      },
+      {
+        "title": "सोई ज्ञान सुधारस पीवै",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सोई-ज्ञान-सुधारस-पीवै.html"
+      },
+      {
+        "title": "सोग न कीजे बावरे मरें",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/सोग-न-कीजे-बावरे-मरें.html"
+      },
+      {
+        "title": "हम न किसीके कोई न हमारा",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हम-न-किसीके-कोई-न-हमारा.html"
+      },
+      {
+        "title": "हम लागे आतमराम सों",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हम-लागे-आतमराम-सों.html"
+      },
+      {
+        "title": "हमको कैसैं शिवसुख होई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हमको-कैसैं-शिवसुख-होई.html"
+      },
+      {
+        "title": "हमारो कारज ऐसे होय",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हमारो-कारज-ऐसे-होय.html"
+      },
+      {
+        "title": "हमारो कारज कैसें होय",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हमारो-कारज-कैसें-होय.html"
+      },
+      {
+        "title": "हो भविजन ज्ञान सरोवर सोई",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हो-भविजन-ज्ञान-सरोवर-सोई.html"
+      },
+      {
+        "title": "हो भैया मोरे कहु कैसे सुख",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/हो-भैया-मोरे-कहु-कैसे-सुख.html"
+      },
+      {
+        "title": "होली--आयो सहज बसन्त खेलैं",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/होली--आयो-सहज-बसन्त-खेलैं.html"
+      },
+      {
+        "title": "होली--खेलौंगी होरी आये",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/होली--खेलौंगी-होरी-आये.html"
+      },
+      {
+        "title": "होली--चेतन खेलै होरी",
+        "href": "./jainDataBase/bhajans/11_पं-द्यानतराय-कृत/html/होली--चेतन-खेलै-होरी.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-सौभाग्यमल-कृत",
+    "children": [
+      {
+        "title": "अध्यात्म के शिखर पर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/अध्यात्म-के-शिखर-पर.html"
+      },
+      {
+        "title": "अय नाथ ना बिसराना आये",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/अय-नाथ-ना-बिसराना-आये.html"
+      },
+      {
+        "title": "अष्ठाह्निका पर्व--आयो आयो पर्व अठाई",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/अष्ठाह्निका-पर्व--आयो-आयो-पर्व-अठाई.html"
+      },
+      {
+        "title": "आज सी सुहानी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/आज-सी-सुहानी.html"
+      },
+      {
+        "title": "आर्जव--काहे पाप करे काहे छल",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/आर्जव--काहे-पाप-करे-काहे-छल.html"
+      },
+      {
+        "title": "आर्जव--चार दिनां को जीवन मेलो",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/आर्जव--चार-दिनां-को-जीवन-मेलो.html"
+      },
+      {
+        "title": "ओ वीर जिन जी तुम्हें हम",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/ओ-वीर-जिन-जी-तुम्हें-हम.html"
+      },
+      {
+        "title": "कबधौं सर पर धर डोलेगा",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/कबधौं-सर-पर-धर-डोलेगा.html"
+      },
+      {
+        "title": "कलश देखने आया जी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/कलश-देखने-आया-जी.html"
+      },
+      {
+        "title": "कहा मानले ओ मेरे भैया",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/कहा-मानले-ओ-मेरे-भैया.html"
+      },
+      {
+        "title": "किये भव भव भव में फेरे",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/किये-भव-भव-भव-में-फेरे.html"
+      },
+      {
+        "title": "कोई जब साथ न आये",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/कोई-जब-साथ-न-आये.html"
+      },
+      {
+        "title": "क्षमा--करल्यो क्षमा धरम न धारण",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/क्षमा--करल्यो-क्षमा-धरम-न-धारण.html"
+      },
+      {
+        "title": "जहाँ रागद्वेष से रहित",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/जहाँ-रागद्वेष-से-रहित.html"
+      },
+      {
+        "title": "जो आज दिन है वो",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/जो-आज-दिन-है-वो.html"
+      },
+      {
+        "title": "ज्यों सरवर में रमै माछली",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/ज्यों-सरवर-में-रमै-माछली.html"
+      },
+      {
+        "title": "तप--तप बिन नीर न बरसे",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/तप--तप-बिन-नीर-न-बरसे.html"
+      },
+      {
+        "title": "तेरी कहाँ गई मतिमारी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/तेरी-कहाँ-गई-मतिमारी.html"
+      },
+      {
+        "title": "तेरे दर्शन को मन",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/तेरे-दर्शन-को-मन.html"
+      },
+      {
+        "title": "तेरे दर्शन से मेरा",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/तेरे-दर्शन-से-मेरा.html"
+      },
+      {
+        "title": "तोड़ विषयों से मन",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/तोड़-विषयों-से-मन.html"
+      },
+      {
+        "title": "तोरी पल पल",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/तोरी-पल-पल.html"
+      },
+      {
+        "title": "त्याग बिना जीवन की गाड़ी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/त्याग-बिना-जीवन-की-गाड़ी.html"
+      },
+      {
+        "title": "दया कर दो मेरे स्वामी तेरे",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/दया-कर-दो-मेरे-स्वामी-तेरे.html"
+      },
+      {
+        "title": "धन्य धन्य आज घडी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/धन्य-धन्य-आज-घडी.html"
+      },
+      {
+        "title": "धोली हो गई रे काली कामली",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/धोली-हो-गई-रे-काली-कामली.html"
+      },
+      {
+        "title": "ध्यान धर ले प्रभू को",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/ध्यान-धर-ले-प्रभू-को.html"
+      },
+      {
+        "title": "नचा मन मोर ठौर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/नचा-मन-मोर-ठौर.html"
+      },
+      {
+        "title": "नमन तुमको करते हैं महावीर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/नमन-तुमको-करते-हैं-महावीर.html"
+      },
+      {
+        "title": "नमेँ मात वामा के पारस",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/नमेँ-मात-वामा-के-पारस.html"
+      },
+      {
+        "title": "नित उठ ध्याऊँ गुण गाऊँ",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/नित-उठ-ध्याऊँ-गुण-गाऊँ.html"
+      },
+      {
+        "title": "निरखी निरखी मनहर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/निरखी-निरखी-मनहर.html"
+      },
+      {
+        "title": "नेमी जिनेश्वरजी काहे कसूर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/नेमी-जिनेश्वरजी-काहे-कसूर.html"
+      },
+      {
+        "title": "पर्युषण--पर्वराज पर्युषण आया",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/पर्युषण--पर्वराज-पर्युषण-आया.html"
+      },
+      {
+        "title": "पल पल बीते उमरिया",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/पल-पल-बीते-उमरिया.html"
+      },
+      {
+        "title": "बधाई आज मिल गाओ",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/बधाई-आज-मिल-गाओ.html"
+      },
+      {
+        "title": "बिन ज्ञान जिया तो जीना",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/बिन-ज्ञान-जिया-तो-जीना.html"
+      },
+      {
+        "title": "ब्रह्मचर्य--क्षमाशील सो धर्म",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/ब्रह्मचर्य--क्षमाशील-सो-धर्म.html"
+      },
+      {
+        "title": "भव भव रुले हैं",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/भव-भव-रुले-हैं.html"
+      },
+      {
+        "title": "भाया थारी बावली जवानी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/भाया-थारी-बावली-जवानी.html"
+      },
+      {
+        "title": "मन महल में दो",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/मन-महल-में-दो.html"
+      },
+      {
+        "title": "महावीर--त्रिशला के नन्द",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/महावीर--त्रिशला-के-नन्द.html"
+      },
+      {
+        "title": "महावीर--दुःख मेटो वीर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/महावीर--दुःख-मेटो-वीर.html"
+      },
+      {
+        "title": "मार्दव--मानी थारा मान",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/मार्दव--मानी-थारा-मान.html"
+      },
+      {
+        "title": "मार्दव--मानी मनुआ मद",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/मार्दव--मानी-मनुआ-मद.html"
+      },
+      {
+        "title": "मेरे भगवन यह क्या हो गया",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/मेरे-भगवन-यह-क्या-हो-गया.html"
+      },
+      {
+        "title": "मेरे मन मन्दिर में आन",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/मेरे-मन-मन्दिर-में-आन.html"
+      },
+      {
+        "title": "मैं हूँ आतमराम",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/मैं-हूँ-आतमराम.html"
+      },
+      {
+        "title": "म्हानै पतो बताद्यो थाँसू",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/म्हानै-पतो-बताद्यो-थाँसू.html"
+      },
+      {
+        "title": "म्हारा परम दिगम्बर मुनिवर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/म्हारा-परम-दिगम्बर-मुनिवर.html"
+      },
+      {
+        "title": "लहराएगा लहराएगा झंडा",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/लहराएगा-लहराएगा-झंडा.html"
+      },
+      {
+        "title": "लिया प्रभू अवतार जयजयकार",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/लिया-प्रभू-अवतार-जयजयकार.html"
+      },
+      {
+        "title": "वीरशासन जयंती--प्राणां सूं भी प्यारी",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/वीरशासन-जयंती--प्राणां-सूं-भी-प्यारी.html"
+      },
+      {
+        "title": "शौच--मूंजी धरी रहेली",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/शौच--मूंजी-धरी-रहेली.html"
+      },
+      {
+        "title": "संसार महा अघसागर",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/संसार-महा-अघसागर.html"
+      },
+      {
+        "title": "सत्य--आओ सत्य धरम",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/सत्य--आओ-सत्य-धरम.html"
+      },
+      {
+        "title": "सत्य--लागे सत्य सुमन",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/सत्य--लागे-सत्य-सुमन.html"
+      },
+      {
+        "title": "साँवरे बनवासी काहे छोड",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/साँवरे-बनवासी-काहे-छोड.html"
+      },
+      {
+        "title": "स्वामी तेरा मुखडा",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/स्वामी-तेरा-मुखडा.html"
+      },
+      {
+        "title": "हे परम दिगम्बर यति",
+        "href": "./jainDataBase/bhajans/12_पं-सौभाग्यमल-कृत/html/हे-परम-दिगम्बर-यति.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-भूधरदास-कृत",
+    "children": [
+      {
+        "title": "अजितनाथ--अजित जिन विनती",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अजितनाथ--अजित-जिन-विनती.html"
+      },
+      {
+        "title": "अजितनाथ--अजित जिनेश्वर",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अजितनाथ--अजित-जिनेश्वर.html"
+      },
+      {
+        "title": "अज्ञानी पाप धतूरा",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अज्ञानी-पाप-धतूरा.html"
+      },
+      {
+        "title": "अन्तर उज्जल करना रे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अन्तर-उज्जल-करना-रे.html"
+      },
+      {
+        "title": "अब नित नेमि नाम भजौ",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अब-नित-नेमि-नाम-भजौ.html"
+      },
+      {
+        "title": "अब पूरी कर नींदड़ी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अब-पूरी-कर-नींदड़ी.html"
+      },
+      {
+        "title": "अब मेरे समकित सावन",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अब-मेरे-समकित-सावन.html"
+      },
+      {
+        "title": "अरे हाँ चेतो रे भाई",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/अरे-हाँ-चेतो-रे-भाई.html"
+      },
+      {
+        "title": "आदिनाथ--आज गिरिराज के",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/आदिनाथ--आज-गिरिराज-के.html"
+      },
+      {
+        "title": "आदिनाथ--आदिपुरुष मेरी आस",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/आदिनाथ--आदिपुरुष-मेरी-आस.html"
+      },
+      {
+        "title": "आदिनाथ--मेरी जीभ आठौं",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/आदिनाथ--मेरी-जीभ-आठौं.html"
+      },
+      {
+        "title": "आदिनाथ--रटि रसना मेरी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/आदिनाथ--रटि-रसना-मेरी.html"
+      },
+      {
+        "title": "आदिनाथ--लगी लौ नाभिनंदन",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/आदिनाथ--लगी-लौ-नाभिनंदन.html"
+      },
+      {
+        "title": "आयो रे बुढ़ापो मानी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/आयो-रे-बुढ़ापो-मानी.html"
+      },
+      {
+        "title": "ऐसी समझ के सिर धूल",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/ऐसी-समझ-के-सिर-धूल.html"
+      },
+      {
+        "title": "ऐसो श्रावक कुल तुम",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/ऐसो-श्रावक-कुल-तुम.html"
+      },
+      {
+        "title": "और सब थोथी बातैं भज",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/और-सब-थोथी-बातैं-भज.html"
+      },
+      {
+        "title": "करम गति टारी नाहिं टरे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/करम-गति-टारी-नाहिं-टरे.html"
+      },
+      {
+        "title": "करुणाष्टक",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/करुणाष्टक.html"
+      },
+      {
+        "title": "काया गागरि जोजरी तुम",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/काया-गागरि-जोजरी-तुम.html"
+      },
+      {
+        "title": "गरव नहिं कीजै रे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/गरव-नहिं-कीजै-रे.html"
+      },
+      {
+        "title": "गाफिल हुवा कहाँ तू डोले",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/गाफिल-हुवा-कहाँ-तू-डोले.html"
+      },
+      {
+        "title": "चरखा चलता नाहीं रे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/चरखा-चलता-नाहीं-रे.html"
+      },
+      {
+        "title": "चादर हो गई बहुत",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/चादर-हो-गई-बहुत.html"
+      },
+      {
+        "title": "चित्त चेतन की यह विरियां",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/चित्त-चेतन-की-यह-विरियां.html"
+      },
+      {
+        "title": "जग में जीवन थोरा रे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जग-में-जीवन-थोरा-रे.html"
+      },
+      {
+        "title": "जग में श्रद्धानी जीव",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जग-में-श्रद्धानी-जीव.html"
+      },
+      {
+        "title": "जगत जन जूवा हारि चले",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जगत-जन-जूवा-हारि-चले.html"
+      },
+      {
+        "title": "जपि माला जिनवर",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जपि-माला-जिनवर.html"
+      },
+      {
+        "title": "जिनराज चरन मन मति बिसरै",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जिनराज-चरन-मन-मति-बिसरै.html"
+      },
+      {
+        "title": "जिनराज ना विसारो मति",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जिनराज-ना-विसारो-मति.html"
+      },
+      {
+        "title": "जीवदया व्रत तरु बड़ो",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जीवदया-व्रत-तरु-बड़ो.html"
+      },
+      {
+        "title": "जै जगपूज परमगुरु नामी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/जै-जगपूज-परमगुरु-नामी.html"
+      },
+      {
+        "title": "तुम जिनवर का गुण गावो",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/तुम-जिनवर-का-गुण-गावो.html"
+      },
+      {
+        "title": "तुम तरनतारन भवनिवारन",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/तुम-तरनतारन-भवनिवारन.html"
+      },
+      {
+        "title": "तुम सुनियो साधो मनुवा",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/तुम-सुनियो-साधो-मनुवा.html"
+      },
+      {
+        "title": "ते गुरु मेरे मन बसो",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/ते-गुरु-मेरे-मन-बसो.html"
+      },
+      {
+        "title": "थांकी कथनी म्हानै प्यारी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/थांकी-कथनी-म्हानै-प्यारी.html"
+      },
+      {
+        "title": "देखे देखे जगत के देव",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/देखे-देखे-जगत-के-देव.html"
+      },
+      {
+        "title": "देखो भाई आतमदेव",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/देखो-भाई-आतमदेव.html"
+      },
+      {
+        "title": "नेमिनाथ--अहो बनवासी पिया",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/नेमिनाथ--अहो-बनवासी-पिया.html"
+      },
+      {
+        "title": "नेमिनाथ--त्रिभुवनगुरु स्वामी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/नेमिनाथ--त्रिभुवनगुरु-स्वामी.html"
+      },
+      {
+        "title": "नेमिनाथ--देखो गरब गहेली",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/नेमिनाथ--देखो-गरब-गहेली.html"
+      },
+      {
+        "title": "नैननि को वान परी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/नैननि-को-वान-परी.html"
+      },
+      {
+        "title": "पारसनाथ--पारस प्रभु को नाऊँ",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/पारसनाथ--पारस-प्रभु-को-नाऊँ.html"
+      },
+      {
+        "title": "पुलकन्त नयन चकोर पक्षी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/पुलकन्त-नयन-चकोर-पक्षी.html"
+      },
+      {
+        "title": "प्रभु गुन गाय रै यह",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/प्रभु-गुन-गाय-रै-यह.html"
+      },
+      {
+        "title": "भगवंत भजन क्यों",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/भगवंत-भजन-क्यों.html"
+      },
+      {
+        "title": "भलो चेत्यो वीर नर",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/भलो-चेत्यो-वीर-नर.html"
+      },
+      {
+        "title": "भवि देखि छबी भगवान",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/भवि-देखि-छबी-भगवान.html"
+      },
+      {
+        "title": "मन मूरख पंथी उस मारग",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/मन-मूरख-पंथी-उस-मारग.html"
+      },
+      {
+        "title": "मन हंस हमारी लै शिक्षा",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/मन-हंस-हमारी-लै-शिक्षा.html"
+      },
+      {
+        "title": "महावीर--बीरा थारी बान परी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/महावीर--बीरा-थारी-बान-परी.html"
+      },
+      {
+        "title": "महावीर--वीर हिमाचल तें",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/महावीर--वीर-हिमाचल-तें.html"
+      },
+      {
+        "title": "मेरे चारौं शरन सहाई",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/मेरे-चारौं-शरन-सहाई.html"
+      },
+      {
+        "title": "मेरे मन सूवा जिनपद",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/मेरे-मन-सूवा-जिनपद.html"
+      },
+      {
+        "title": "म्हें तो थांकी आज महिमा",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/म्हें-तो-थांकी-आज-महिमा.html"
+      },
+      {
+        "title": "यह तन जंगम रूखड़ा",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/यह-तन-जंगम-रूखड़ा.html"
+      },
+      {
+        "title": "रत्नत्रय निधि उर धरैं",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/रत्नत्रय-निधि-उर-धरैं.html"
+      },
+      {
+        "title": "वे कोई अजब तमासा",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/वे-कोई-अजब-तमासा.html"
+      },
+      {
+        "title": "वे मुनिवर कब मिली हैं उपगारी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/वे-मुनिवर-कब-मिली-हैं-उपगारी.html"
+      },
+      {
+        "title": "सब विधि करन उतावला",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सब-विधि-करन-उतावला.html"
+      },
+      {
+        "title": "सीमंधर--वा पुर के वारौँ",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सीमंधर--वा-पुर-के-वारौँ.html"
+      },
+      {
+        "title": "सीमंधर स्वामी",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सीमंधर-स्वामी.html"
+      },
+      {
+        "title": "सुन ज्ञानी प्राणी श्रीगुरु",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सुन-ज्ञानी-प्राणी-श्रीगुरु.html"
+      },
+      {
+        "title": "सुनि सुजान पांचों रिपु",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सुनि-सुजान-पांचों-रिपु.html"
+      },
+      {
+        "title": "सुनी ठगनी माया तैं सब",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सुनी-ठगनी-माया-तैं-सब.html"
+      },
+      {
+        "title": "सो गुरुदेव हमारा है",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सो-गुरुदेव-हमारा-है.html"
+      },
+      {
+        "title": "सो मत सांचो है मन मेरे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/सो-मत-सांचो-है-मन-मेरे.html"
+      },
+      {
+        "title": "स्वामीजी सांची सरन",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/स्वामीजी-सांची-सरन.html"
+      },
+      {
+        "title": "होरी खेलूंगी घर आए",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/होरी-खेलूंगी-घर-आए.html"
+      },
+      {
+        "title": "होली--अहो दोऊ रंग भरे",
+        "href": "./jainDataBase/bhajans/13_पं-भूधरदास-कृत/html/होली--अहो-दोऊ-रंग-भरे.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-बुधजन-कृत",
+    "children": [
+      {
+        "title": "अब तू जान रे चेतन जान",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/अब-तू-जान-रे-चेतन-जान.html"
+      },
+      {
+        "title": "अब थे क्यों दुख पावो",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/अब-थे-क्यों-दुख-पावो.html"
+      },
+      {
+        "title": "आगैं कहा करसी भैया",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/आगैं-कहा-करसी-भैया.html"
+      },
+      {
+        "title": "आज मनरी बनी छै जिनराज",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/आज-मनरी-बनी-छै-जिनराज.html"
+      },
+      {
+        "title": "उत्तम नरभव पायकै",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/उत्तम-नरभव-पायकै.html"
+      },
+      {
+        "title": "और ठौर क्‍यों हेरत प्यारा",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/और-ठौर-क्‍यों-हेरत-प्यारा.html"
+      },
+      {
+        "title": "काल अचानक ही ले",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/काल-अचानक-ही-ले.html"
+      },
+      {
+        "title": "किंकर अरज करत जिन",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/किंकर-अरज-करत-जिन.html"
+      },
+      {
+        "title": "गुरु दयाल तेरा दुःख",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/गुरु-दयाल-तेरा-दुःख.html"
+      },
+      {
+        "title": "चंद्रनाथ--थे म्हारे मन भायाजी",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/चंद्रनाथ--थे-म्हारे-मन-भायाजी.html"
+      },
+      {
+        "title": "जगत में होनहार सो होवै",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/जगत-में-होनहार-सो-होवै.html"
+      },
+      {
+        "title": "जिनवाणी की सुनै सो",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/जिनवाणी-की-सुनै-सो.html"
+      },
+      {
+        "title": "ज्ञानी थारी रीति रौ अचंभौ",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/ज्ञानी-थारी-रीति-रौ-अचंभौ.html"
+      },
+      {
+        "title": "तेरो करिलै काज बखत",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/तेरो-करिलै-काज-बखत.html"
+      },
+      {
+        "title": "तैं क्‍या किया नादान तैं",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/तैं-क्‍या-किया-नादान-तैं.html"
+      },
+      {
+        "title": "देखा मैंने आतमरामा",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/देखा-मैंने-आतमरामा.html"
+      },
+      {
+        "title": "धनि सरधानी जग में",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/धनि-सरधानी-जग-में.html"
+      },
+      {
+        "title": "धरम बिन कोई नहीं",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/धरम-बिन-कोई-नहीं.html"
+      },
+      {
+        "title": "नरभव पाय फेरि दुख",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/नरभव-पाय-फेरि-दुख.html"
+      },
+      {
+        "title": "पतितउधारक पतित",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/पतितउधारक-पतित.html"
+      },
+      {
+        "title": "परम जननी धरम कथनी",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/परम-जननी-धरम-कथनी.html"
+      },
+      {
+        "title": "प्रात भयो सब भविजन",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/प्रात-भयो-सब-भविजन.html"
+      },
+      {
+        "title": "बाबा मैं न काहू का",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/बाबा-मैं-न-काहू-का.html"
+      },
+      {
+        "title": "भज जिन चतुर्विंशति नाम",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/भज-जिन-चतुर्विंशति-नाम.html"
+      },
+      {
+        "title": "भजन बिन योंही जनम गमायो",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/भजन-बिन-योंही-जनम-गमायो.html"
+      },
+      {
+        "title": "भवदधि तारक नवका जगमाहीं",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/भवदधि-तारक-नवका-जगमाहीं.html"
+      },
+      {
+        "title": "मति भोगन राचौ जी",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/मति-भोगन-राचौ-जी.html"
+      },
+      {
+        "title": "मुनि बन आये जी बना",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/मुनि-बन-आये-जी-बना.html"
+      },
+      {
+        "title": "मेरा सांई तौ मोमैं नाहीं",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/मेरा-सांई-तौ-मोमैं-नाहीं.html"
+      },
+      {
+        "title": "मेरी अरज कहानी सुनीए",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/मेरी-अरज-कहानी-सुनीए.html"
+      },
+      {
+        "title": "मेरो मनवा अति हर्षाय",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/मेरो-मनवा-अति-हर्षाय.html"
+      },
+      {
+        "title": "या नित चितवो उठिकै",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/या-नित-चितवो-उठिकै.html"
+      },
+      {
+        "title": "सम्यग्ज्ञान बिना तेरो जनम",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/सम्यग्ज्ञान-बिना-तेरो-जनम.html"
+      },
+      {
+        "title": "सारद तुम परसाद तैं",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/सारद-तुम-परसाद-तैं.html"
+      },
+      {
+        "title": "सुणिल्यो जीव सुजान",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/सुणिल्यो-जीव-सुजान.html"
+      },
+      {
+        "title": "सुनकर वाणी जिनवर",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/सुनकर-वाणी-जिनवर.html"
+      },
+      {
+        "title": "हम शरन गह्यो जिन चरन",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/हम-शरन-गह्यो-जिन-चरन.html"
+      },
+      {
+        "title": "हमकौ कछू भय ना",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/हमकौ-कछू-भय-ना.html"
+      },
+      {
+        "title": "हे आतमा देखी दुति तोरी",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/हे-आतमा-देखी-दुति-तोरी.html"
+      },
+      {
+        "title": "हो जिनवाणी जू तुम",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/हो-जिनवाणी-जू-तुम.html"
+      },
+      {
+        "title": "होली--अब घर आये चेतनराज",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/होली--अब-घर-आये-चेतनराज.html"
+      },
+      {
+        "title": "होली--और सब मिलि होरि",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/होली--और-सब-मिलि-होरि.html"
+      },
+      {
+        "title": "होली--खेलूंगी होरी श्रीजिनवर",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/होली--खेलूंगी-होरी-श्रीजिनवर.html"
+      },
+      {
+        "title": "होली--चेतन खेल सुमति संग",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/होली--चेतन-खेल-सुमति-संग.html"
+      },
+      {
+        "title": "होली--चेतन तोसौं आज होरी",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/होली--चेतन-तोसौं-आज-होरी.html"
+      },
+      {
+        "title": "होली--निजपुर में आज मची",
+        "href": "./jainDataBase/bhajans/14_पं-बुधजन-कृत/html/होली--निजपुर-में-आज-मची.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-मंगतराय-कृत",
+    "children": [
+      {
+        "title": "अरे उड़ चला हंस सैलानी",
+        "href": "./jainDataBase/bhajans/15_पं-मंगतराय-कृत/html/अरे-उड़-चला-हंस-सैलानी.html"
+      },
+      {
+        "title": "पर्युषण--धर्म के दशलक्षण",
+        "href": "./jainDataBase/bhajans/15_पं-मंगतराय-कृत/html/पर्युषण--धर्म-के-दशलक्षण.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-न्यामतराय-कृत",
+    "children": [
+      {
+        "title": "अपने निजपद को मत खोय",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/अपने-निजपद-को-मत-खोय.html"
+      },
+      {
+        "title": "अमोलक मनुष जनम प्यारे",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/अमोलक-मनुष-जनम-प्यारे.html"
+      },
+      {
+        "title": "अरे यह क्या किया नादान",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/अरे-यह-क्या-किया-नादान.html"
+      },
+      {
+        "title": "आदिनाथ--भगवन मरुदेवी के",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/आदिनाथ--भगवन-मरुदेवी-के.html"
+      },
+      {
+        "title": "कर सकल विभाव अभाव",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/कर-सकल-विभाव-अभाव.html"
+      },
+      {
+        "title": "क्यों परमादी रे चेतनवा",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/क्यों-परमादी-रे-चेतनवा.html"
+      },
+      {
+        "title": "घर आवो सुमति वरनार",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/घर-आवो-सुमति-वरनार.html"
+      },
+      {
+        "title": "चेतो चेतोरे चेतनवा",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/चेतो-चेतोरे-चेतनवा.html"
+      },
+      {
+        "title": "तन मन सारो जी सांवरिया",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/तन-मन-सारो-जी-सांवरिया.html"
+      },
+      {
+        "title": "तुम्हारे दर्श बिन स्वामी",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/तुम्हारे-दर्श-बिन-स्वामी.html"
+      },
+      {
+        "title": "दया दिल में धारो प्यारे",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/दया-दिल-में-धारो-प्यारे.html"
+      },
+      {
+        "title": "परदेसिया में कौन चलेगो",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/परदेसिया-में-कौन-चलेगो.html"
+      },
+      {
+        "title": "मत तोरे मेरे शील का सिंगार",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/मत-तोरे-मेरे-शील-का-सिंगार.html"
+      },
+      {
+        "title": "विषय भोग में तूने ऐ जिया",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/विषय-भोग-में-तूने-ऐ-जिया.html"
+      },
+      {
+        "title": "विषय सेवन में कोई",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/विषय-सेवन-में-कोई.html"
+      },
+      {
+        "title": "होली--भ्रात ऐसी खेलिये",
+        "href": "./jainDataBase/bhajans/16_पं-न्यामतराय-कृत/html/होली--भ्रात-ऐसी-खेलिये.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-बनारसीदास-कृत",
+    "children": [
+      {
+        "title": "ऐसैं क्यों प्रभु पाइये",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/ऐसैं-क्यों-प्रभु-पाइये.html"
+      },
+      {
+        "title": "ऐसैं यों प्रभु पाइये",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/ऐसैं-यों-प्रभु-पाइये.html"
+      },
+      {
+        "title": "कित गये पंच किसान",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/कित-गये-पंच-किसान.html"
+      },
+      {
+        "title": "चेतन उलटी चाल चले",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/चेतन-उलटी-चाल-चले.html"
+      },
+      {
+        "title": "चेतन तूँ तिहुँ काल अकेला",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/चेतन-तूँ-तिहुँ-काल-अकेला.html"
+      },
+      {
+        "title": "चेतन तोहि न नेक संभार",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/चेतन-तोहि-न-नेक-संभार.html"
+      },
+      {
+        "title": "चेतन रूप अनुप अमूरत",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/चेतन-रूप-अनुप-अमूरत.html"
+      },
+      {
+        "title": "जगत में सो देवन",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/जगत-में-सो-देवन.html"
+      },
+      {
+        "title": "दुविधा कब जैहै या",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/दुविधा-कब-जैहै-या.html"
+      },
+      {
+        "title": "देखो भाई महाविकल",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/देखो-भाई-महाविकल.html"
+      },
+      {
+        "title": "भेदविज्ञान जग्यौ जिन्हके",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/भेदविज्ञान-जग्यौ-जिन्हके.html"
+      },
+      {
+        "title": "भोंदू भाई ते हिरदे की आँखें",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/भोंदू-भाई-ते-हिरदे-की-आँखें.html"
+      },
+      {
+        "title": "भोंदू भाई समुझ सबद",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/भोंदू-भाई-समुझ-सबद.html"
+      },
+      {
+        "title": "मगन ह्वै आराधो साधो",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/मगन-ह्वै-आराधो-साधो.html"
+      },
+      {
+        "title": "मूलन बेटा जायो रे",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/मूलन-बेटा-जायो-रे.html"
+      },
+      {
+        "title": "मेरा मन का प्यारा जो",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/मेरा-मन-का-प्यारा-जो.html"
+      },
+      {
+        "title": "या चेतन की सब सुधि",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/या-चेतन-की-सब-सुधि.html"
+      },
+      {
+        "title": "रे मन कर सदा संतोष",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/रे-मन-कर-सदा-संतोष.html"
+      },
+      {
+        "title": "वा दिन को कर सोच",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/वा-दिन-को-कर-सोच.html"
+      },
+      {
+        "title": "विराजै रामायण घट माँहिं",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/विराजै-रामायण-घट-माँहिं.html"
+      },
+      {
+        "title": "सुण ज्ञानी भाई खेती",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/सुण-ज्ञानी-भाई-खेती.html"
+      },
+      {
+        "title": "हम बैठे अपनी मौन सौं",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/हम-बैठे-अपनी-मौन-सौं.html"
+      },
+      {
+        "title": "होली--चलो सखी खेलन होरी",
+        "href": "./jainDataBase/bhajans/17_पं-बनारसीदास-कृत/html/होली--चलो-सखी-खेलन-होरी.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-ज्ञानानन्द-कृत",
+    "children": [
+      {
+        "title": "अवधू सूतां क्या इस मठ",
+        "href": "./jainDataBase/bhajans/18_पं-ज्ञानानन्द-कृत/html/अवधू-सूतां-क्या-इस-मठ.html"
+      },
+      {
+        "title": "क्योंकर महल बनावै पियारे",
+        "href": "./jainDataBase/bhajans/18_पं-ज्ञानानन्द-कृत/html/क्योंकर-महल-बनावै-पियारे.html"
+      },
+      {
+        "title": "भोर भयो उठ जागो मनुवा",
+        "href": "./jainDataBase/bhajans/18_पं-ज्ञानानन्द-कृत/html/भोर-भयो-उठ-जागो-मनुवा.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-नयनानन्द-कृत",
+    "children": [
+      {
+        "title": "अरे मन पापनसों नित डरिये",
+        "href": "./jainDataBase/bhajans/19_पं-नयनानन्द-कृत/html/अरे-मन-पापनसों-नित-डरिये.html"
+      },
+      {
+        "title": "इक योगी असन बनावे",
+        "href": "./jainDataBase/bhajans/19_पं-नयनानन्द-कृत/html/इक-योगी-असन-बनावे.html"
+      },
+      {
+        "title": "ऐसो नरभव पाय गंवायो",
+        "href": "./jainDataBase/bhajans/19_पं-नयनानन्द-कृत/html/ऐसो-नरभव-पाय-गंवायो.html"
+      },
+      {
+        "title": "जड़ता बिन आप लखें",
+        "href": "./jainDataBase/bhajans/19_पं-नयनानन्द-कृत/html/जड़ता-बिन-आप-लखें.html"
+      },
+      {
+        "title": "लिया आज प्रभु जी ने",
+        "href": "./jainDataBase/bhajans/19_पं-नयनानन्द-कृत/html/लिया-आज-प्रभु-जी-ने.html"
+      },
+      {
+        "title": "हिंसा झूठ वचन अरु",
+        "href": "./jainDataBase/bhajans/19_पं-नयनानन्द-कृत/html/हिंसा-झूठ-वचन-अरु.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-मख्खनलाल-कृत",
+    "children": [
+      {
+        "title": "अष्ठाह्निका--जय सिद्धचक्र देवा",
+        "href": "./jainDataBase/bhajans/20_पं-मख्खनलाल-कृत/html/अष्ठाह्निका--जय-सिद्धचक्र-देवा.html"
+      },
+      {
+        "title": "क्षमा--मेरी उत्तम क्षमा न जाय",
+        "href": "./jainDataBase/bhajans/20_पं-मख्खनलाल-कृत/html/क्षमा--मेरी-उत्तम-क्षमा-न-जाय.html"
+      },
+      {
+        "title": "तुम सुनो सुहागन नार",
+        "href": "./jainDataBase/bhajans/20_पं-मख्खनलाल-कृत/html/तुम-सुनो-सुहागन-नार.html"
+      },
+      {
+        "title": "भाग्य बिना कछु हाथ न आवे",
+        "href": "./jainDataBase/bhajans/20_पं-मख्खनलाल-कृत/html/भाग्य-बिना-कछु-हाथ-न-आवे.html"
+      },
+      {
+        "title": "मोहि सुन सुन आवे हाँसी",
+        "href": "./jainDataBase/bhajans/20_पं-मख्खनलाल-कृत/html/मोहि-सुन-सुन-आवे-हाँसी.html"
+      },
+      {
+        "title": "ये आत्मा क्‍या रंग दिखाता",
+        "href": "./jainDataBase/bhajans/20_पं-मख्खनलाल-कृत/html/ये-आत्मा-क्‍या-रंग-दिखाता.html"
+      }
+    ]
+  },
+  {
+    "title": "पं-बुध-महाचन्द्र",
+    "children": [
+      {
+        "title": "अमृतझर झुरि झुरि आवे",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/अमृतझर-झुरि-झुरि-आवे.html"
+      },
+      {
+        "title": "कुमति को छाड़ो भाई",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/कुमति-को-छाड़ो-भाई.html"
+      },
+      {
+        "title": "चिदानंद भूलि रह्यो सुधि",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/चिदानंद-भूलि-रह्यो-सुधि.html"
+      },
+      {
+        "title": "जीव तू भ्रमत भ्रमत",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/जीव-तू-भ्रमत-भ्रमत.html"
+      },
+      {
+        "title": "जीव निज रस राचन खोयो",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/जीव-निज-रस-राचन-खोयो.html"
+      },
+      {
+        "title": "देखो पुद्गल का परिवारा",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/देखो-पुद्गल-का-परिवारा.html"
+      },
+      {
+        "title": "देखो भूल हमारी हम",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/देखो-भूल-हमारी-हम.html"
+      },
+      {
+        "title": "निज घर नाय पिछान्या",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/निज-घर-नाय-पिछान्या.html"
+      },
+      {
+        "title": "महावीर--सिद्धारथ राजा दरबारे",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/महावीर--सिद्धारथ-राजा-दरबारे.html"
+      },
+      {
+        "title": "विषय रस खारे इन्हैं छाड़त",
+        "href": "./jainDataBase/bhajans/21_पं-बुध-महाचन्द्र/html/विषय-रस-खारे-इन्हैं-छाड़त.html"
+      }
+    ]
+  },
+  {
+    "title": "सहजानन्द-वर्णी",
+    "children": [
+      {
+        "title": "चिद्रूप हमारा इसका",
+        "href": "./jainDataBase/bhajans/22_सहजानन्द-वर्णी/html/चिद्रूप-हमारा-इसका.html"
+      },
+      {
+        "title": "भैया मेरे नरभव विषयों",
+        "href": "./jainDataBase/bhajans/22_सहजानन्द-वर्णी/html/भैया-मेरे-नरभव-विषयों.html"
+      }
+    ]
+  },
+  {
+    "title": "पर्व",
+    "children": [
+      {
+        "title": "अष्ठाह्निका पर्व--आयो आयो पर्व अठाई",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/अष्ठाह्निका-पर्व--आयो-आयो-पर्व-अठाई.html"
+      },
+      {
+        "title": "अष्ठाह्निका पर्व--आयो पर्व अठाई",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/अष्ठाह्निका-पर्व--आयो-पर्व-अठाई.html"
+      },
+      {
+        "title": "जिनमंदिर का शिलान्यास",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/जिनमंदिर-का-शिलान्यास.html"
+      },
+      {
+        "title": "दिवाली--अबके ऐसी दीवाली",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/दिवाली--अबके-ऐसी-दीवाली.html"
+      },
+      {
+        "title": "पर्युषण--दश धर्मों को धार सोलह",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--दश-धर्मों-को-धार-सोलह.html"
+      },
+      {
+        "title": "पर्युषण--दशलक्षण के दश धर्मों",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--दशलक्षण-के-दश-धर्मों.html"
+      },
+      {
+        "title": "पर्युषण--दस लक्षणों को ध्याके",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--दस-लक्षणों-को-ध्याके.html"
+      },
+      {
+        "title": "पर्युषण--दसलक्षण पर्व का समा",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--दसलक्षण-पर्व-का-समा.html"
+      },
+      {
+        "title": "पर्युषण--धर्म के दशलक्षण",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--धर्म-के-दशलक्षण.html"
+      },
+      {
+        "title": "पर्युषण--पर्व दशलक्षण मंगलकार",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--पर्व-दशलक्षण-मंगलकार.html"
+      },
+      {
+        "title": "पर्युषण--पर्व दस लक्षण खुशी से",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--पर्व-दस-लक्षण-खुशी-से.html"
+      },
+      {
+        "title": "पर्युषण--पर्व पर्युषण आया आनंद",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--पर्व-पर्युषण-आया-आनंद.html"
+      },
+      {
+        "title": "पर्युषण--पर्व पर्युषण आया है",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--पर्व-पर्युषण-आया-है.html"
+      },
+      {
+        "title": "पर्युषण--पर्वराज पर्युषण आया",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--पर्वराज-पर्युषण-आया.html"
+      },
+      {
+        "title": "पर्युषण--पर्वराज पर्यूषण आया",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--पर्वराज-पर्यूषण-आया.html"
+      },
+      {
+        "title": "पर्युषण--ये पर्व पर्युषण प्‍यारा है",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्युषण--ये-पर्व-पर्युषण-प्‍यारा-है.html"
+      },
+      {
+        "title": "पर्व अठाई जब जब आवे",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/पर्व-अठाई-जब-जब-आवे.html"
+      },
+      {
+        "title": "महावीर--दिव्य ध्वनि वीरा",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/महावीर--दिव्य-ध्वनि-वीरा.html"
+      },
+      {
+        "title": "महावीर जयंती आई",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/महावीर-जयंती-आई.html"
+      },
+      {
+        "title": "मोक्ष सप्तमी--मंगल गाओ",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/मोक्ष-सप्तमी--मंगल-गाओ.html"
+      },
+      {
+        "title": "रक्षाबंधन--जय मुनिवर विष्णुकुमार",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/रक्षाबंधन--जय-मुनिवर-विष्णुकुमार.html"
+      },
+      {
+        "title": "वीर शासन जयंती--वीर की वाणी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/वीर-शासन-जयंती--वीर-की-वाणी.html"
+      },
+      {
+        "title": "वीर शासन जयंती--वैशाख शुक्ल",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/वीर-शासन-जयंती--वैशाख-शुक्ल.html"
+      },
+      {
+        "title": "वीरशासन जयंती--जब बानी खिरी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/वीरशासन-जयंती--जब-बानी-खिरी.html"
+      },
+      {
+        "title": "वीरशासन जयंती--प्राणां सूं भी प्यारी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/वीरशासन-जयंती--प्राणां-सूं-भी-प्यारी.html"
+      },
+      {
+        "title": "वीरशासनजयंती--वैशाख शुक्ल",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/वीरशासनजयंती--वैशाख-शुक्ल.html"
+      },
+      {
+        "title": "श्री सिद्धचक्र का पाठ फल पायो आतम ध्यानी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/श्री-सिद्धचक्र-का-पाठ-फल-पायो-आतम-ध्यानी.html"
+      },
+      {
+        "title": "श्रुत पंचमी--आचार्य श्री धरसेन जो",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/श्रुत-पंचमी--आचार्य-श्री-धरसेन-जो.html"
+      },
+      {
+        "title": "श्रुत पंचमी--भूतबली श्री पुष्पदन्त",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/श्रुत-पंचमी--भूतबली-श्री-पुष्पदन्त.html"
+      },
+      {
+        "title": "सिद्ध चक्र--मंगल महोत्‍सव भला आ गया",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/सिद्ध-चक्र--मंगल-महोत्‍सव-भला-आ-गया.html"
+      },
+      {
+        "title": "होरी खेलूंगी घर आए",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होरी-खेलूंगी-घर-आए.html"
+      },
+      {
+        "title": "होली--अब घर आये चेतनराज",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--अब-घर-आये-चेतनराज.html"
+      },
+      {
+        "title": "होली--अरे मन कैसी होली",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--अरे-मन-कैसी-होली.html"
+      },
+      {
+        "title": "होली--अहो दोऊ रंग भरे",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--अहो-दोऊ-रंग-भरे.html"
+      },
+      {
+        "title": "होली--आयो सहज बसन्त खेलैं",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--आयो-सहज-बसन्त-खेलैं.html"
+      },
+      {
+        "title": "होली--और सब मिलि होरि",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--और-सब-मिलि-होरि.html"
+      },
+      {
+        "title": "होली--कहा बानि परी पिय",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--कहा-बानि-परी-पिय.html"
+      },
+      {
+        "title": "होली--कैसे होरी खेलूँ होरी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--कैसे-होरी-खेलूँ-होरी.html"
+      },
+      {
+        "title": "होली--खेलूंगी होरी श्रीजिनवर",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--खेलूंगी-होरी-श्रीजिनवर.html"
+      },
+      {
+        "title": "होली--खेलौंगी होरी आये",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--खेलौंगी-होरी-आये.html"
+      },
+      {
+        "title": "होली--चलो सखी खेलन होरी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--चलो-सखी-खेलन-होरी.html"
+      },
+      {
+        "title": "होली--चेतन खेल सुमति संग",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--चेतन-खेल-सुमति-संग.html"
+      },
+      {
+        "title": "होली--चेतन खेलै होरी",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--चेतन-खेलै-होरी.html"
+      },
+      {
+        "title": "होली--जे सहज होरी के",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--जे-सहज-होरी-के.html"
+      },
+      {
+        "title": "होली--ज्ञानी ऐसे होली मचाई",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--ज्ञानी-ऐसे-होली-मचाई.html"
+      },
+      {
+        "title": "होली--निजपुर में आज मची",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--निजपुर-में-आज-मची.html"
+      },
+      {
+        "title": "होली--भ्रात ऐसी खेलिये",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--भ्रात-ऐसी-खेलिये.html"
+      },
+      {
+        "title": "होली--मेरो मन ऐसी खेलत",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली--मेरो-मन-ऐसी-खेलत.html"
+      },
+      {
+        "title": "होली खेलें मुनिराज शिखर",
+        "href": "./jainDataBase/bhajans/24_पर्व/html/होली-खेलें-मुनिराज-शिखर.html"
+      }
+    ]
+  },
+  {
+    "title": "चौबीस-तीर्थंकर",
+    "children": [
+      {
+        "title": "अजितनाथ--अजित जिन विनती",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/अजितनाथ--अजित-जिन-विनती.html"
+      },
+      {
+        "title": "अजितनाथ--अजित जिनेश्वर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/अजितनाथ--अजित-जिनेश्वर.html"
+      },
+      {
+        "title": "अजितनाथ सों मन लावो रे",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/अजितनाथ-सों-मन-लावो-रे.html"
+      },
+      {
+        "title": "अभिनंदन--जगदानंदन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/अभिनंदन--जगदानंदन.html"
+      },
+      {
+        "title": "आदिनाथ--आज गिरिराज के",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--आज-गिरिराज-के.html"
+      },
+      {
+        "title": "आदिनाथ--आज तो बधाई",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--आज-तो-बधाई.html"
+      },
+      {
+        "title": "आदिनाथ--आज नगरी में जन्मे",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--आज-नगरी-में-जन्मे.html"
+      },
+      {
+        "title": "आदिनाथ--आदिपुरुष मेरी आस",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--आदिपुरुष-मेरी-आस.html"
+      },
+      {
+        "title": "आदिनाथ--ऋषभदेव जनम्यौ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--ऋषभदेव-जनम्यौ.html"
+      },
+      {
+        "title": "आदिनाथ--गाएँ जी गाएँ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--गाएँ-जी-गाएँ.html"
+      },
+      {
+        "title": "आदिनाथ--चलि सखि देखन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--चलि-सखि-देखन.html"
+      },
+      {
+        "title": "आदिनाथ--जपलो रे आदीश्वर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--जपलो-रे-आदीश्वर.html"
+      },
+      {
+        "title": "आदिनाथ--जय श्री ऋषभ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--जय-श्री-ऋषभ.html"
+      },
+      {
+        "title": "आदिनाथ--जाकौं इंद",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--जाकौं-इंद.html"
+      },
+      {
+        "title": "आदिनाथ--तेरैं मोह नहीं",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--तेरैं-मोह-नहीं.html"
+      },
+      {
+        "title": "आदिनाथ--देखो जी आदिश्वर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--देखो-जी-आदिश्वर.html"
+      },
+      {
+        "title": "आदिनाथ--देखो नाभिनंदन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--देखो-नाभिनंदन.html"
+      },
+      {
+        "title": "आदिनाथ--निरख सखी ऋषिन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--निरख-सखी-ऋषिन.html"
+      },
+      {
+        "title": "आदिनाथ--फूली बसन्त जहँ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--फूली-बसन्त-जहँ.html"
+      },
+      {
+        "title": "आदिनाथ--भगवन मरुदेवी के",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--भगवन-मरुदेवी-के.html"
+      },
+      {
+        "title": "आदिनाथ--भज ऋषिपति",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--भज-ऋषिपति.html"
+      },
+      {
+        "title": "आदिनाथ--भज रे मन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--भज-रे-मन.html"
+      },
+      {
+        "title": "आदिनाथ--भज श्रीआदिचरन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--भज-श्रीआदिचरन.html"
+      },
+      {
+        "title": "आदिनाथ--मेरी जीभ आठौं",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--मेरी-जीभ-आठौं.html"
+      },
+      {
+        "title": "आदिनाथ--मेरी सुध लीजै",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--मेरी-सुध-लीजै.html"
+      },
+      {
+        "title": "आदिनाथ--म्हारा आदीश्वर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--म्हारा-आदीश्वर.html"
+      },
+      {
+        "title": "आदिनाथ--रटि रसना मेरी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--रटि-रसना-मेरी.html"
+      },
+      {
+        "title": "आदिनाथ--रुल्यो चिरकाल",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--रुल्यो-चिरकाल.html"
+      },
+      {
+        "title": "आदिनाथ--लगी लौ नाभिनंदन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--लगी-लौ-नाभिनंदन.html"
+      },
+      {
+        "title": "आदिनाथ--लिया रिषभ देव",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/आदिनाथ--लिया-रिषभ-देव.html"
+      },
+      {
+        "title": "चंद्रनाथ--चंद्रानन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/चंद्रनाथ--चंद्रानन.html"
+      },
+      {
+        "title": "चंद्रनाथ--थे म्हारे मन भायाजी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/चंद्रनाथ--थे-म्हारे-मन-भायाजी.html"
+      },
+      {
+        "title": "चंद्रनाथ--निरखत जिन चंद्रवदन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/चंद्रनाथ--निरखत-जिन-चंद्रवदन.html"
+      },
+      {
+        "title": "चंद्रनाथ--निरखि जिनचन्द री",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/चंद्रनाथ--निरखि-जिनचन्द-री.html"
+      },
+      {
+        "title": "नमिनाथ--अहो नमि जिनप",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नमिनाथ--अहो-नमि-जिनप.html"
+      },
+      {
+        "title": "नेमजी की जान बणी भारी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमजी-की-जान-बणी-भारी.html"
+      },
+      {
+        "title": "नेमि जिनेश्वर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमि-जिनेश्वर.html"
+      },
+      {
+        "title": "नेमिनाथ--अब हम नेमिजी की",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--अब-हम-नेमिजी-की.html"
+      },
+      {
+        "title": "नेमिनाथ--अहो बनवासी पिया",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--अहो-बनवासी-पिया.html"
+      },
+      {
+        "title": "नेमिनाथ--त्रिभुवनगुरु स्वामी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--त्रिभुवनगुरु-स्वामी.html"
+      },
+      {
+        "title": "नेमिनाथ--देखो गरब गहेली",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--देखो-गरब-गहेली.html"
+      },
+      {
+        "title": "नेमिनाथ--देख्या मैंने नेमिजी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--देख्या-मैंने-नेमिजी.html"
+      },
+      {
+        "title": "नेमिनाथ--निर्मोही नेमी जाओ ना",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--निर्मोही-नेमी-जाओ-ना.html"
+      },
+      {
+        "title": "नेमिनाथ--नेमि पिया राजुल",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--नेमि-पिया-राजुल.html"
+      },
+      {
+        "title": "नेमिनाथ--नेमिप्रभू की श्यामवरन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--नेमिप्रभू-की-श्यामवरन.html"
+      },
+      {
+        "title": "नेमिनाथ--भजि मन प्रभु",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--भजि-मन-प्रभु.html"
+      },
+      {
+        "title": "नेमिनाथ--लाल कैसे जावोगे",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमिनाथ--लाल-कैसे-जावोगे.html"
+      },
+      {
+        "title": "नेमी जिनेश्वरजी काहे कसूर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/नेमी-जिनेश्वरजी-काहे-कसूर.html"
+      },
+      {
+        "title": "पद्मप्रभु--पद्मसद्म",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पद्मप्रभु--पद्मसद्म.html"
+      },
+      {
+        "title": "पारसनाथ--आज जन्मे हैं तीर्थंकर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--आज-जन्मे-हैं-तीर्थंकर.html"
+      },
+      {
+        "title": "पारसनाथ--आनंद अंतर मा आज",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--आनंद-अंतर-मा-आज.html"
+      },
+      {
+        "title": "पारसनाथ--चवलेश्वर पारसनाथ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--चवलेश्वर-पारसनाथ.html"
+      },
+      {
+        "title": "पारसनाथ--झूल रहा पलने में",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--झूल-रहा-पलने-में.html"
+      },
+      {
+        "title": "पारसनाथ--तुमसे लागी लगन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--तुमसे-लागी-लगन.html"
+      },
+      {
+        "title": "पारसनाथ--पारस जिन चरन निरख",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--पारस-जिन-चरन-निरख.html"
+      },
+      {
+        "title": "पारसनाथ--पारस प्यारा लागो",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--पारस-प्यारा-लागो.html"
+      },
+      {
+        "title": "पारसनाथ--पारस प्रभु का",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--पारस-प्रभु-का.html"
+      },
+      {
+        "title": "पारसनाथ--पारस प्रभु को नाऊँ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--पारस-प्रभु-को-नाऊँ.html"
+      },
+      {
+        "title": "पारसनाथ--पार्श्व प्रभुजी पार",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--पार्श्व-प्रभुजी-पार.html"
+      },
+      {
+        "title": "पारसनाथ--पास अनादि अविद्या",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--पास-अनादि-अविद्या.html"
+      },
+      {
+        "title": "पारसनाथ--मंगल थाल सजाकर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--मंगल-थाल-सजाकर.html"
+      },
+      {
+        "title": "पारसनाथ--मधुबन के मंदिरों",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--मधुबन-के-मंदिरों.html"
+      },
+      {
+        "title": "पारसनाथ--मेरे प्रभु का पारस",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--मेरे-प्रभु-का-पारस.html"
+      },
+      {
+        "title": "पारसनाथ--मैं करूँ वंदना",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--मैं-करूँ-वंदना.html"
+      },
+      {
+        "title": "पारसनाथ--वामा घर बजत बधाई",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--वामा-घर-बजत-बधाई.html"
+      },
+      {
+        "title": "पारसनाथ--सांवरिया के नाम",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--सांवरिया-के-नाम.html"
+      },
+      {
+        "title": "पारसनाथ--सांवरिया पारसनाथ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/पारसनाथ--सांवरिया-पारसनाथ.html"
+      },
+      {
+        "title": "महावीर--आज मैं महावीर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--आज-मैं-महावीर.html"
+      },
+      {
+        "title": "महावीर--आये तेरे द्वार",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--आये-तेरे-द्वार.html"
+      },
+      {
+        "title": "महावीर--एक बार आओ जी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--एक-बार-आओ-जी.html"
+      },
+      {
+        "title": "महावीर--कुण्डलपुर में वीर हैं",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--कुण्डलपुर-में-वीर-हैं.html"
+      },
+      {
+        "title": "महावीर--कुण्डलपुर वाले",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--कुण्डलपुर-वाले.html"
+      },
+      {
+        "title": "महावीर--छायो रे छायो आनंद",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--छायो-रे-छायो-आनंद.html"
+      },
+      {
+        "title": "महावीर--जनम लिया है महावीर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--जनम-लिया-है-महावीर.html"
+      },
+      {
+        "title": "महावीर--जय बोलो त्रिशला",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--जय-बोलो-त्रिशला.html"
+      },
+      {
+        "title": "महावीर--जय शिव कामिनि",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--जय-शिव-कामिनि.html"
+      },
+      {
+        "title": "महावीर--जय श्री वीर जिन",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--जय-श्री-वीर-जिन.html"
+      },
+      {
+        "title": "महावीर--जय श्री वीर जिनेन्द्र",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--जय-श्री-वीर-जिनेन्द्र.html"
+      },
+      {
+        "title": "महावीर--जहाँ महावीर ने जन्म",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--जहाँ-महावीर-ने-जन्म.html"
+      },
+      {
+        "title": "महावीर--तुझे प्रभु वीर कहते",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--तुझे-प्रभु-वीर-कहते.html"
+      },
+      {
+        "title": "महावीर--त्रिशला के नन्द",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--त्रिशला-के-नन्द.html"
+      },
+      {
+        "title": "महावीर--दिव्य ध्वनि वीरा",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--दिव्य-ध्वनि-वीरा.html"
+      },
+      {
+        "title": "महावीर--दुःख मेटो वीर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--दुःख-मेटो-वीर.html"
+      },
+      {
+        "title": "महावीर--देखा मैंने त्रिशला का",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--देखा-मैंने-त्रिशला-का.html"
+      },
+      {
+        "title": "महावीर--पंखिडा रे उड के आओ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--पंखिडा-रे-उड-के-आओ.html"
+      },
+      {
+        "title": "महावीर--बधाई आज मिल गाओ",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--बधाई-आज-मिल-गाओ.html"
+      },
+      {
+        "title": "महावीर--बाजे कुण्डलपुर में",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--बाजे-कुण्डलपुर-में.html"
+      },
+      {
+        "title": "महावीर--बीरा थारी बान परी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--बीरा-थारी-बान-परी.html"
+      },
+      {
+        "title": "महावीर--मणियों के पलने में",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--मणियों-के-पलने-में.html"
+      },
+      {
+        "title": "महावीर--मस्तक झुका के",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--मस्तक-झुका-के.html"
+      },
+      {
+        "title": "महावीर--मेरे महावीर झूले पलना",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--मेरे-महावीर-झूले-पलना.html"
+      },
+      {
+        "title": "महावीर--वंदों अद्भुत चन्द्र वीर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--वंदों-अद्भुत-चन्द्र-वीर.html"
+      },
+      {
+        "title": "महावीर--वर्तमान को वर्धमान",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--वर्तमान-को-वर्धमान.html"
+      },
+      {
+        "title": "महावीर--वर्धमान ललना से",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--वर्धमान-ललना-से.html"
+      },
+      {
+        "title": "महावीर--वीर प्रभु के ये बोल",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--वीर-प्रभु-के-ये-बोल.html"
+      },
+      {
+        "title": "महावीर--वीर हिमाचल तें",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--वीर-हिमाचल-तें.html"
+      },
+      {
+        "title": "महावीर--सब मिल देखो हेली",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--सब-मिल-देखो-हेली.html"
+      },
+      {
+        "title": "महावीर--हमारी वीर हरो भवपीर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--हमारी-वीर-हरो-भवपीर.html"
+      },
+      {
+        "title": "महावीर--हरो पीर मेरी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--हरो-पीर-मेरी.html"
+      },
+      {
+        "title": "महावीर--हे वीर तुम्हारे",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर--हे-वीर-तुम्हारे.html"
+      },
+      {
+        "title": "महावीर जीवाजीव छीर नीर",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर-जीवाजीव-छीर-नीर.html"
+      },
+      {
+        "title": "महावीर मन के विकार नासो",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर-मन-के-विकार-नासो.html"
+      },
+      {
+        "title": "महावीर स्वामी",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीर-स्वामी.html"
+      },
+      {
+        "title": "महावीरा झूले पलना",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/महावीरा-झूले-पलना.html"
+      },
+      {
+        "title": "वासुपूज्य--जय जिन वासुपूज्य",
+        "href": "./jainDataBase/bhajans/25_चौबीस-तीर्थंकर/html/वासुपूज्य--जय-जिन-वासुपूज्य.html"
+      }
+    ]
+  },
+  {
+    "title": "बाहुबली-भगवान",
+    "children": [
+      {
+        "title": "आरती--बाहुबली भगवान",
+        "href": "./jainDataBase/bhajans/29_बाहुबली-भगवान/html/आरती--बाहुबली-भगवान.html"
+      },
+      {
+        "title": "बाहुबली भगवान",
+        "href": "./jainDataBase/bhajans/29_बाहुबली-भगवान/html/बाहुबली-भगवान.html"
+      },
+      {
+        "title": "हम यही कामना करते हैं",
+        "href": "./jainDataBase/bhajans/29_बाहुबली-भगवान/html/हम-यही-कामना-करते-हैं.html"
+      }
+    ]
+  },
+  {
+    "title": "दस-धर्म",
+    "children": [
+      {
+        "title": "आर्जव--कपटी नर कोई साँच न बोले",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/आर्जव--कपटी-नर-कोई-साँच-न-बोले.html"
+      },
+      {
+        "title": "आर्जव--काहे पाप करे काहे छल",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/आर्जव--काहे-पाप-करे-काहे-छल.html"
+      },
+      {
+        "title": "आर्जव--चार दिनां को जीवन मेलो",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/आर्जव--चार-दिनां-को-जीवन-मेलो.html"
+      },
+      {
+        "title": "आर्जव--तज कपट महा दुखकारी",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/आर्जव--तज-कपट-महा-दुखकारी.html"
+      },
+      {
+        "title": "क्षमा--करल्यो क्षमा धरम न धारण",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--करल्यो-क्षमा-धरम-न-धारण.html"
+      },
+      {
+        "title": "क्षमा--काहे क्रोध करे",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--काहे-क्रोध-करे.html"
+      },
+      {
+        "title": "क्षमा--क्रोध कषाय न मैं",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--क्रोध-कषाय-न-मैं.html"
+      },
+      {
+        "title": "क्षमा--जिया तूं चेतत क्यों नहिं ज्ञानी",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--जिया-तूं-चेतत-क्यों-नहिं-ज्ञानी.html"
+      },
+      {
+        "title": "क्षमा--थाँकी उत्तम क्षमा पै",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--थाँकी-उत्तम-क्षमा-पै.html"
+      },
+      {
+        "title": "क्षमा--दस धरम में बस क्षमा",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--दस-धरम-में-बस-क्षमा.html"
+      },
+      {
+        "title": "क्षमा--मेरी उत्तम क्षमा न जाय",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--मेरी-उत्तम-क्षमा-न-जाय.html"
+      },
+      {
+        "title": "क्षमा--सबसों छिमा छिमा कर",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/क्षमा--सबसों-छिमा-छिमा-कर.html"
+      },
+      {
+        "title": "तप--तप बिन नीर न बरसे",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/तप--तप-बिन-नीर-न-बरसे.html"
+      },
+      {
+        "title": "त्याग--तैने दियो नहीं है दान",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/त्याग--तैने-दियो-नहीं-है-दान.html"
+      },
+      {
+        "title": "ब्रह्मचर्य--क्षमाशील सो धर्म",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/ब्रह्मचर्य--क्षमाशील-सो-धर्म.html"
+      },
+      {
+        "title": "ब्रह्मचर्य--परनारी विष बेल",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/ब्रह्मचर्य--परनारी-विष-बेल.html"
+      },
+      {
+        "title": "ब्रह्मचर्य--शील शिरोमणी रतन",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/ब्रह्मचर्य--शील-शिरोमणी-रतन.html"
+      },
+      {
+        "title": "मार्दव--त्यागो रे भाई यह मान बडा",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/मार्दव--त्यागो-रे-भाई-यह-मान-बडा.html"
+      },
+      {
+        "title": "मार्दव--धर्म मार्दव को सब मिल",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/मार्दव--धर्म-मार्दव-को-सब-मिल.html"
+      },
+      {
+        "title": "मार्दव--मत कर तू",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/मार्दव--मत-कर-तू.html"
+      },
+      {
+        "title": "मार्दव--मान न कीजिये हो",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/मार्दव--मान-न-कीजिये-हो.html"
+      },
+      {
+        "title": "मार्दव--मानी थारा मान",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/मार्दव--मानी-थारा-मान.html"
+      },
+      {
+        "title": "मार्दव--मानी मनुआ मद",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/मार्दव--मानी-मनुआ-मद.html"
+      },
+      {
+        "title": "रे भाई मोह महा दुखदाता",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/रे-भाई-मोह-महा-दुखदाता.html"
+      },
+      {
+        "title": "शौच--जियको लोभ महा",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/शौच--जियको-लोभ-महा.html"
+      },
+      {
+        "title": "शौच--जैनी धारियोजी",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/शौच--जैनी-धारियोजी.html"
+      },
+      {
+        "title": "शौच--मूंजी धरी रहेली",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/शौच--मूंजी-धरी-रहेली.html"
+      },
+      {
+        "title": "सत्य--आओ सत्य धरम",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/सत्य--आओ-सत्य-धरम.html"
+      },
+      {
+        "title": "सत्य--इस जग में थोड़े दिन",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/सत्य--इस-जग-में-थोड़े-दिन.html"
+      },
+      {
+        "title": "सत्य--ओ जी थे झूठ",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/सत्य--ओ-जी-थे-झूठ.html"
+      },
+      {
+        "title": "सत्य--जिया तोहे बार बार",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/सत्य--जिया-तोहे-बार-बार.html"
+      },
+      {
+        "title": "सत्य--लागे सत्य सुमन",
+        "href": "./jainDataBase/bhajans/32_दस-धर्म/html/सत्य--लागे-सत्य-सुमन.html"
+      }
+    ]
+  },
+  {
+    "title": "बच्चों-के-भजन",
+    "children": [
+      {
+        "title": "उठे सब के कदम",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/उठे-सब-के-कदम.html"
+      },
+      {
+        "title": "चाहे अंधियारा हो या",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/चाहे-अंधियारा-हो-या.html"
+      },
+      {
+        "title": "चौबीस तीर्थंकर नाम चिह्न",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/चौबीस-तीर्थंकर-नाम-चिह्न.html"
+      },
+      {
+        "title": "छोटा सा मंदिर",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/छोटा-सा-मंदिर.html"
+      },
+      {
+        "title": "जगमग आरती कीजे आदीश्वर",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/जगमग-आरती-कीजे-आदीश्वर.html"
+      },
+      {
+        "title": "जिनमंदिर आना सभी",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/जिनमंदिर-आना-सभी.html"
+      },
+      {
+        "title": "ज्ञाता दृष्टा राही हूं",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/ज्ञाता-दृष्टा-राही-हूं.html"
+      },
+      {
+        "title": "ज्ञानी का ध्‍यानी का सबका",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/ज्ञानी-का-ध्‍यानी-का-सबका.html"
+      },
+      {
+        "title": "ठंडे ठंडे पानी से नहाना",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/ठंडे-ठंडे-पानी-से-नहाना.html"
+      },
+      {
+        "title": "तुझे बेटा कहूँ कि वीरा",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/तुझे-बेटा-कहूँ-कि-वीरा.html"
+      },
+      {
+        "title": "नन्हे मुन्ने बच्चे तेरी",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/नन्हे-मुन्ने-बच्चे-तेरी.html"
+      },
+      {
+        "title": "पाठशाला जाना पढ़कर",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/पाठशाला-जाना-पढ़कर.html"
+      },
+      {
+        "title": "माँ मुझे सुना गुरुवर",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/माँ-मुझे-सुना-गुरुवर.html"
+      },
+      {
+        "title": "माँ सुनाओ मुझे वो कहानी",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/माँ-सुनाओ-मुझे-वो-कहानी.html"
+      },
+      {
+        "title": "ये जैन होने का परिचय",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/ये-जैन-होने-का-परिचय.html"
+      },
+      {
+        "title": "रेल चली भई रेल चली",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/रेल-चली-भई-रेल-चली.html"
+      },
+      {
+        "title": "वंदे शासन",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/वंदे-शासन.html"
+      },
+      {
+        "title": "वर्धमान बोलो भैया बोलो",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/वर्धमान-बोलो-भैया-बोलो.html"
+      },
+      {
+        "title": "सारे जहां में अनुपम",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/सारे-जहां-में-अनुपम.html"
+      },
+      {
+        "title": "सुबह उठे मम्मी से बोले",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/सुबह-उठे-मम्मी-से-बोले.html"
+      },
+      {
+        "title": "सूरत प्‍यारी प्‍यारी है",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/सूरत-प्‍यारी-प्‍यारी-है.html"
+      },
+      {
+        "title": "हम होंगे ज्ञानवान एक दिन",
+        "href": "./jainDataBase/bhajans/36_बच्चों-के-भजन/html/हम-होंगे-ज्ञानवान-एक-दिन.html"
+      }
+    ]
+  },
+  {
+    "title": "मारवाड़ी",
+    "children": [
+      {
+        "title": "आर्जव--चार दिनां को जीवन मेलो",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/आर्जव--चार-दिनां-को-जीवन-मेलो.html"
+      },
+      {
+        "title": "कठिन नर तन है पायो",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/कठिन-नर-तन-है-पायो.html"
+      },
+      {
+        "title": "क्षमा--थाँकी उत्तम क्षमा पै",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/क्षमा--थाँकी-उत्तम-क्षमा-पै.html"
+      },
+      {
+        "title": "गलती आपाँ री न जाणी",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/गलती-आपाँ-री-न-जाणी.html"
+      },
+      {
+        "title": "चन्द्रगुप्त राजा के सोलह स्वप्न",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/चन्द्रगुप्त-राजा-के-सोलह-स्वप्न.html"
+      },
+      {
+        "title": "चाँदनी फीकी पड़ जाए",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/चाँदनी-फीकी-पड़-जाए.html"
+      },
+      {
+        "title": "चेतन नरभव ने तू पाकर",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/चेतन-नरभव-ने-तू-पाकर.html"
+      },
+      {
+        "title": "छवि नयन पियारी जी",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/छवि-नयन-पियारी-जी.html"
+      },
+      {
+        "title": "जीवड़ा सुनत सुणावत इतरा",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/जीवड़ा-सुनत-सुणावत-इतरा.html"
+      },
+      {
+        "title": "धोली हो गई रे काली कामली",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/धोली-हो-गई-रे-काली-कामली.html"
+      },
+      {
+        "title": "नेमिनाथ--निर्मोही नेमी जाओ ना",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/नेमिनाथ--निर्मोही-नेमी-जाओ-ना.html"
+      },
+      {
+        "title": "पारस प्यारा लागो",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/पारस-प्यारा-लागो.html"
+      },
+      {
+        "title": "प्राणां सूं भी प्यारी लागे",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/प्राणां-सूं-भी-प्यारी-लागे.html"
+      },
+      {
+        "title": "महाराजा स्वामी",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/महाराजा-स्वामी.html"
+      },
+      {
+        "title": "म्हानै पतो बताद्यो थाँसू",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/म्हानै-पतो-बताद्यो-थाँसू.html"
+      },
+      {
+        "title": "म्हारा चेतन ज्ञानी घणो",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/म्हारा-चेतन-ज्ञानी-घणो.html"
+      },
+      {
+        "title": "लगी म्हारा नैना री डोरी",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/लगी-म्हारा-नैना-री-डोरी.html"
+      },
+      {
+        "title": "शौच--मूंजी धरी रहेली",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/शौच--मूंजी-धरी-रहेली.html"
+      },
+      {
+        "title": "हजूरिया ठाडो",
+        "href": "./jainDataBase/bhajans/41_मारवाड़ी/html/हजूरिया-ठाडो.html"
+      }
+    ]
+  },
+  {
+    "title": "selected",
+    "children": [
+      {
+        "title": "आतम अनुभव आवै",
+        "href": "./jainDataBase/bhajans/50_selected/html/आतम-अनुभव-आवै.html"
+      },
+      {
+        "title": "आतम जानो र भाई",
+        "href": "./jainDataBase/bhajans/50_selected/html/आतम-जानो-र-भाई.html"
+      },
+      {
+        "title": "आवै न भोगन में तोहि",
+        "href": "./jainDataBase/bhajans/50_selected/html/आवै-न-भोगन-में-तोहि.html"
+      },
+      {
+        "title": "इक योगी असन बनावे",
+        "href": "./jainDataBase/bhajans/50_selected/html/इक-योगी-असन-बनावे.html"
+      },
+      {
+        "title": "कर कर आतमहित रे",
+        "href": "./jainDataBase/bhajans/50_selected/html/कर-कर-आतमहित-रे.html"
+      },
+      {
+        "title": "काहे को सोचत अति भारी",
+        "href": "./jainDataBase/bhajans/50_selected/html/काहे-को-सोचत-अति-भारी.html"
+      },
+      {
+        "title": "घटमें परमातम ध्याइये",
+        "href": "./jainDataBase/bhajans/50_selected/html/घटमें-परमातम-ध्याइये.html"
+      },
+      {
+        "title": "जपि माला जिनवर",
+        "href": "./jainDataBase/bhajans/50_selected/html/जपि-माला-जिनवर.html"
+      },
+      {
+        "title": "जिनशासन बड़ा निराला",
+        "href": "./jainDataBase/bhajans/50_selected/html/जिनशासन-बड़ा-निराला.html"
+      },
+      {
+        "title": "जे दिन तुम विवेक बिन",
+        "href": "./jainDataBase/bhajans/50_selected/html/जे-दिन-तुम-विवेक-बिन.html"
+      },
+      {
+        "title": "तुझे बेटा कहूँ कि वीरा",
+        "href": "./jainDataBase/bhajans/50_selected/html/तुझे-बेटा-कहूँ-कि-वीरा.html"
+      },
+      {
+        "title": "तू तो समझ समझ रे",
+        "href": "./jainDataBase/bhajans/50_selected/html/तू-तो-समझ-समझ-रे.html"
+      },
+      {
+        "title": "नेमिनाथ--जूनागढ़ में सज",
+        "href": "./jainDataBase/bhajans/50_selected/html/नेमिनाथ--जूनागढ़-में-सज.html"
+      },
+      {
+        "title": "नेमिनाथ--निर्मोही नेमी जाओ ना",
+        "href": "./jainDataBase/bhajans/50_selected/html/नेमिनाथ--निर्मोही-नेमी-जाओ-ना.html"
+      },
+      {
+        "title": "परम गुरु बरसत ज्ञान झरी",
+        "href": "./jainDataBase/bhajans/50_selected/html/परम-गुरु-बरसत-ज्ञान-झरी.html"
+      },
+      {
+        "title": "पुद्गल का क्या विश्वासा",
+        "href": "./jainDataBase/bhajans/50_selected/html/पुद्गल-का-क्या-विश्वासा.html"
+      },
+      {
+        "title": "भगवंत भजन क्यों",
+        "href": "./jainDataBase/bhajans/50_selected/html/भगवंत-भजन-क्यों.html"
+      },
+      {
+        "title": "मेरो मनवा अति हर्षाय",
+        "href": "./jainDataBase/bhajans/50_selected/html/मेरो-मनवा-अति-हर्षाय.html"
+      },
+      {
+        "title": "मोक्ष के प्रेमी हमने",
+        "href": "./jainDataBase/bhajans/50_selected/html/मोक्ष-के-प्रेमी-हमने.html"
+      },
+      {
+        "title": "रंग दो जी रंग जिनराज",
+        "href": "./jainDataBase/bhajans/50_selected/html/रंग-दो-जी-रंग-जिनराज.html"
+      },
+      {
+        "title": "रे भाई मोह महा दुखदाता",
+        "href": "./jainDataBase/bhajans/50_selected/html/रे-भाई-मोह-महा-दुखदाता.html"
+      },
+      {
+        "title": "रे मन भज भज दीन दयाल",
+        "href": "./jainDataBase/bhajans/50_selected/html/रे-मन-भज-भज-दीन-दयाल.html"
+      },
+      {
+        "title": "साधो छांडो विषय विकारी",
+        "href": "./jainDataBase/bhajans/50_selected/html/साधो-छांडो-विषय-विकारी.html"
+      },
+      {
+        "title": "सिद्धों की श्रेणी में आने वाला",
+        "href": "./jainDataBase/bhajans/50_selected/html/सिद्धों-की-श्रेणी-में-आने-वाला.html"
+      },
+      {
+        "title": "हमकौ कछू भय ना",
+        "href": "./jainDataBase/bhajans/50_selected/html/हमकौ-कछू-भय-ना.html"
+      },
+      {
+        "title": "हे भविजन ध्याओ आतमराम",
+        "href": "./jainDataBase/bhajans/50_selected/html/हे-भविजन-ध्याओ-आतमराम.html"
+      },
+      {
+        "title": "होली--जे सहज होरी के",
+        "href": "./jainDataBase/bhajans/50_selected/html/होली--जे-सहज-होरी-के.html"
+      }
+    ]
+  },
+  ],
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  type: "header",
+  title: `
+PPPPPPPPPPPP    UUUU   UUUU     JJJJJJJJJJJJJ      AAAAAAAAAA
+PPPP    PPPP    UUUU   UUUU          JJJJ         AAAA  AAAA
+PPPPPPPPPPPP    UUUU   UUUU          JJJJ         AAAAAAAAAA
+PPPP            UUUU   UUUU    JJJJ  JJJJ         AAAA  AAAA
+PPPP             UUUUUUUUU      JJJJJJJJ          AAAA  AAAA
+
+
+PPPPPPPPPPPP      AAAAAAAAAA    TTTTTTTTTTTTTT   HHHH    HHHH
+PPPP    PPPP      AAAA  AAAA         TTTT        HHHH    HHHH
+PPPPPPPPPPPP      AAAAAAAAAA         TTTT        HHHHHHHHHHHH
+PPPP              AAAA  AAAA         TTTT        HHHH    HHHH
+PPPP              AAAA  AAAA         TTTT        HHHH    HHHH
+  `
+},
+
+  {
+    type: "category",
+    title: "पूजा-पाठ",
+    children: [
+      {
+    "title": "प्रारम्भ",
+    "children": [
+      {
+        "title": "श्री मंगलाष्टक स्तोत्र",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/001_श्री-मंगलाष्टक-स्तोत्र/html/index.html"
+      },
+      {
+        "title": "दर्शनं देव देवस्य",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/002_दर्शनं-देव-देवस्य/html/index.html"
+      },
+      {
+        "title": "दर्शन-पाठ--पण्डित-बुधजन",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/003_दर्शन-पाठ--पण्डित-बुधजन/html/index.html"
+      },
+      {
+        "title": "दर्शन-पाठ",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/004_दर्शन-पाठ/html/index.html"
+      },
+      {
+        "title": "प्रतिमा-प्रक्षाल-विधि-पाठ",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/006_प्रतिमा-प्रक्षाल-विधि-पाठ/html/index.html"
+      },
+      {
+        "title": "अभिषेक-पाठ-भाषा--पण्डित-हरजसराय",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/007_अभिषेक-पाठ-भाषा--पण्डित-हरजसराय/html/index.html"
+      },
+      {
+        "title": "अभिषेक-पाठ-लघु",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/008_अभिषेक-पाठ-लघु/html/index.html"
+      },
+      {
+        "title": "मैंने-प्रभुजी-के-चरण",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/009_मैंने-प्रभुजी-के-चरण/html/index.html"
+      },
+      {
+        "title": "अमृत-से-गगरी-भरो",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/010_अमृत-से-गगरी-भरो/html/index.html"
+      },
+      {
+        "title": "महावीर-की-मूंगावरणी",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/011_महावीर-की-मूंगावरणी/html/index.html"
+      },
+      {
+        "title": "विनय-पाठ-दोहावली",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/012_विनय-पाठ-दोहावली/html/index.html"
+      },
+      {
+        "title": "विनय-पाठ-लघु",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/012_विनय-पाठ-लघु/html/index.html"
+      },
+      {
+        "title": "मंगलपाठ",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/013_मंगलपाठ/html/index.html"
+      },
+      {
+        "title": "भजन-मैं-थाने-पूजन-आयो",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/014_भजन-मैं-थाने-पूजन-आयो/html/index.html"
+      },
+      {
+        "title": "पूजा-विधि-प्रारंभ",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/016_पूजा-विधि-प्रारंभ/html/index.html"
+      },
+      {
+        "title": "अर्घ",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/018_अर्घ/html/index.html"
+      },
+      {
+        "title": "स्वस्ति-मंगल-विधान",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/020_स्वस्ति-मंगल-विधान/html/index.html"
+      },
+      {
+        "title": "स्वस्ति-मंगल-विधान-हिंदी",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/021_स्वस्ति-मंगल-विधान-हिंदी/html/index.html"
+      },
+      {
+        "title": "चतुर्विंशति-तीर्थंकर-स्वस्ति-विधान",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/023_चतुर्विंशति-तीर्थंकर-स्वस्ति-विधान/html/index.html"
+      },
+      {
+        "title": "अथ-परमर्षि-स्वस्ति-मंगल-विधान",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/026_अथ-परमर्षि-स्वस्ति-मंगल-विधान/html/index.html"
+      },
+      {
+        "title": "स्तुति--पण्डित-बुधजन",
+        "href": "./jainDataBase/poojas/01_प्रारम्भ/030_स्तुति--पण्डित-बुधजन/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "नित्य-पूजा",
+    "children": [
+      {
+        "title": "देव-शास्त्र-गुरु--पण्डित-जुगल-किशोर",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/01_देव-शास्त्र-गुरु--पण्डित-जुगल-किशोर/html/index.html"
+      },
+      {
+        "title": "देव-शास्त्र-गुरु--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/02_देव-शास्त्र-गुरु--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "देव-शास्त्र-गुरु--पण्डित-हुकमचन्द-भारिल्ल",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/03_देव-शास्त्र-गुरु--पण्डित-हुकमचन्द-भारिल्ल/html/index.html"
+      },
+      {
+        "title": "देव-शास्त्र-गुरु--पण्डित-रवीन्द्रजी",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/04_देव-शास्त्र-गुरु--पण्डित-रवीन्द्रजी/html/index.html"
+      },
+      {
+        "title": "देव-शास्त्र-गुरु--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/05_देव-शास्त्र-गुरु--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "समुच्च-पूजा--ब्रह्मचारी-सरदारमल",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/08_समुच्च-पूजा--ब्रह्मचारी-सरदारमल/html/index.html"
+      },
+      {
+        "title": "पंचपरमेष्ठी--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/10_पंचपरमेष्ठी--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "नवदेवता-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/11_नवदेवता-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "नवदेवता-पूजन--आर्यिका-ज्ञानमती",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/12_नवदेवता-पूजन--आर्यिका-ज्ञानमती/html/index.html"
+      },
+      {
+        "title": "सिद्धपूजा--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/13_सिद्धपूजा--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "सिद्धपूजा--पण्डित-हुकमचन्द-भारिल्ल",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/13_सिद्धपूजा--पण्डित-हुकमचन्द-भारिल्ल/html/index.html"
+      },
+      {
+        "title": "सिद्धपूजा--पण्डित-जुगल-किशोर",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/14_सिद्धपूजा--पण्डित-जुगल-किशोर/html/index.html"
+      },
+      {
+        "title": "सिद्धपूजा--पण्डित-हीराचंद",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/15_सिद्धपूजा--पण्डित-हीराचंद/html/index.html"
+      },
+      {
+        "title": "त्रिकाल-चौबीसी-पूजन--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/16_त्रिकाल-चौबीसी-पूजन--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "चौबीस-तीर्थंकर--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/17_चौबीस-तीर्थंकर--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "चौबीस-तीर्थंकर--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/18_चौबीस-तीर्थंकर--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "अनन्त-तीर्थंकर-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/19_अनन्त-तीर्थंकर-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्री-वीतराग-पूजन--पण्डित-रवीन्द्रजी",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/20_श्री-वीतराग-पूजन--पण्डित-रवीन्द्रजी/html/index.html"
+      },
+      {
+        "title": "रत्नत्रय-पूजन--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/21_रत्नत्रय-पूजन--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "सम्यकदर्शन--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/22_सम्यकदर्शन--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "सम्यकज्ञान--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/23_सम्यकज्ञान--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "सम्यकचारित्र--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/24_सम्यकचारित्र--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "दशलक्षण-धर्म--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/25_दशलक्षण-धर्म--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "सोलहकारण-भावना--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/26_सोलहकारण-भावना--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "सरस्वती-पूजन--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/27_सरस्वती-पूजन--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "सीमन्धर-भगवान--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/30_सीमन्धर-भगवान--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "सीमन्धर-भगवान--पण्डित-हुकमचन्द-भारिल्ल",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/30_सीमन्धर-भगवान--पण्डित-हुकमचन्द-भारिल्ल/html/index.html"
+      },
+      {
+        "title": "विद्यमान-बीस-तीर्थंकर--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/31_विद्यमान-बीस-तीर्थंकर--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "विद्यमान-बीस-तीर्थंकर--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/32_विद्यमान-बीस-तीर्थंकर--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "बाहुबली-भगवान--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/33_बाहुबली-भगवान--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "बाहुबली-भगवान--ब्रह्मचारी-रवीन्द्र",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/34_बाहुबली-भगवान--ब्रह्मचारी-रवीन्द्र/html/index.html"
+      },
+      {
+        "title": "पंचमेरु-पूजन--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/41_पंचमेरु-पूजन--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "नंदीश्वर-द्वीप-पूजन--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/42_नंदीश्वर-द्वीप-पूजन--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "निर्वाणक्षेत्र--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/43_निर्वाणक्षेत्र--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "कृत्रिमाकृत्रिम-चैत्यालय-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/44_कृत्रिमाकृत्रिम-चैत्यालय-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "अष्टापद-कैलाश-पूजन",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/45_अष्टापद-कैलाश-पूजन/html/index.html"
+      },
+      {
+        "title": "आ-कुंदकुंद-पूजन",
+        "href": "./jainDataBase/poojas/02_नित्य-पूजा/51_आ-कुंदकुंद-पूजन/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "तीर्थंकर",
+    "children": [
+      {
+        "title": "श्रीआदिनाथ--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/49_श्रीआदिनाथ--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "आदिनाथ-भगवान--पण्डित-जिनेश्वरदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/50_आदिनाथ-भगवान--पण्डित-जिनेश्वरदास/html/index.html"
+      },
+      {
+        "title": "श्रीआदिनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/51_श्रीआदिनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीअजितनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/52_श्रीअजितनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीसंभवनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/53_श्रीसंभवनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीअभिनन्दननाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/54_श्रीअभिनन्दननाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीसुमतिनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/55_श्रीसुमतिनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीपद्मप्रभ-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/56_श्रीपद्मप्रभ-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीपद्मप्रभ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/56_श्रीपद्मप्रभ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीसुपार्श्वनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/57_श्रीसुपार्श्वनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीचन्द्रप्रभनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/58_श्रीचन्द्रप्रभनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीपुष्पदन्त-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/59_श्रीपुष्पदन्त-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीशीतलनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/60_श्रीशीतलनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीश्रेयांसनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/61_श्रीश्रेयांसनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीवासुपूज्य-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/62_श्रीवासुपूज्य-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीवासुपूज्य-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/62_श्रीवासुपूज्य-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीविमलनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/63_श्रीविमलनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीअनन्तनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/64_श्रीअनन्तनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीधर्मनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/65_श्रीधर्मनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीशांतिनाथ-पूजन--पण्डित-बख्तावर",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/66_श्रीशांतिनाथ-पूजन--पण्डित-बख्तावर/html/index.html"
+      },
+      {
+        "title": "श्रीशांतिनाथ-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/66_श्रीशांतिनाथ-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीशांतिनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/66_श्रीशांतिनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीकुंथुनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/67_श्रीकुंथुनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीअरहनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/68_श्रीअरहनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीमल्लिनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/69_श्रीमल्लिनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीमुनिसुव्रतनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/70_श्रीमुनिसुव्रतनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीनमिनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/71_श्रीनमिनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीनेमिनाथ-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/72_श्रीनेमिनाथ-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीनेमिनाथ-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/72_श्रीनेमिनाथ-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीपार्श्वनाथ-पूजन--पण्डित-बख्तावर",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/73_श्रीपार्श्वनाथ-पूजन--पण्डित-बख्तावर/html/index.html"
+      },
+      {
+        "title": "श्रीपार्श्वनाथ-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/73_श्रीपार्श्वनाथ-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीपार्श्वनाथ-पूजन-पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/73_श्रीपार्श्वनाथ-पूजन-पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीमहावीर-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/74_श्रीमहावीर-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीमहावीर-पूजन--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/74_श्रीमहावीर-पूजन--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "श्रीमहावीर-पूजन--पण्डित-हुकमचंद-भारिल्ल",
+        "href": "./jainDataBase/poojas/03_तीर्थंकर/74_श्रीमहावीर-पूजन--पण्डित-हुकमचंद-भारिल्ल/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "पर्व-पूजन",
+    "children": [
+      {
+        "title": "श्रीक्षमावणी-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/04_पर्व-पूजन/01_क्षमावणी/html/index.html"
+      },
+      {
+        "title": "श्रीअक्षय-तृतीया--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/04_पर्व-पूजन/31_अक्षय-तृतीया--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीदीपावली-पूजन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/04_पर्व-पूजन/32_दीपावली-पूजन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीरक्षाबंधन--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/04_पर्व-पूजन/33_रक्षाबंधन--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीवीरशासन-जयन्ती--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/04_पर्व-पूजन/34_वीरशासन-जयन्ती--पण्डित-राजमल-पवैया/html/index.html"
+      },
+      {
+        "title": "श्रीश्रुतपंचमी--पण्डित-राजमल-पवैया",
+        "href": "./jainDataBase/poojas/04_पर्व-पूजन/35_श्रुतपंचमी--पण्डित-राजमल-पवैया/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "विसर्जन",
+    "children": [
+      {
+        "title": "अर्घ्य",
+        "href": "./jainDataBase/poojas/05_विसर्जन/001_अर्घ्य/html/index.html"
+      },
+      {
+        "title": "महाअर्घ्य",
+        "href": "./jainDataBase/poojas/05_विसर्जन/01_महाअर्घ्य/html/index.html"
+      },
+      {
+        "title": "समुच्चय-महाअर्घ्य",
+        "href": "./jainDataBase/poojas/05_विसर्जन/01_समुच्चय-महाअर्घ्य/html/index.html"
+      },
+      {
+        "title": "शांति-पाठ",
+        "href": "./jainDataBase/poojas/05_विसर्जन/02_शांति-पाठ/html/index.html"
+      },
+      {
+        "title": "शांति-पाठ-भाषा",
+        "href": "./jainDataBase/poojas/05_विसर्जन/03_शांति-पाठ-भाषा/html/index.html"
+      },
+      {
+        "title": "विसर्जन-पाठ",
+        "href": "./jainDataBase/poojas/05_विसर्जन/04_विसर्जन-पाठ/html/index.html"
+      },
+      {
+        "title": "भगवान-आदिनाथ-चालीसा",
+        "href": "./jainDataBase/poojas/05_विसर्जन/07_भगवान-आदिनाथ-चालीसा/html/index.html"
+      },
+      {
+        "title": "भगवान-महावीर-चालीसा",
+        "href": "./jainDataBase/poojas/05_विसर्जन/08_भगवान-महावीर-चालीसा/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "पाठ",
+    "children": [
+      {
+        "title": "देव-स्तुति--पण्डित-भूधरदास",
+        "href": "./jainDataBase/poojas/06_पाठ/01_देव-स्तुति--पण्डित-भूधरदास/html/index.html"
+      },
+      {
+        "title": "मेरी-भावना--पण्डित-जुगलकिशोर",
+        "href": "./jainDataBase/poojas/06_पाठ/02_मेरी-भावना--पण्डित-जुगलकिशोर/html/index.html"
+      },
+      {
+        "title": "बारह-भावना--पण्डित-जयचंद-छाबडा",
+        "href": "./jainDataBase/poojas/06_पाठ/03_बारह-भावना--पण्डित-जयचंद-छाबडा/html/index.html"
+      },
+      {
+        "title": "बारह-भावना--पण्डित-भूधरदास",
+        "href": "./jainDataBase/poojas/06_पाठ/04_बारह-भावना--पण्डित-भूधरदास/html/index.html"
+      },
+      {
+        "title": "बारह-भावना--पण्डित.-मंगतराय",
+        "href": "./jainDataBase/poojas/06_पाठ/05_बारह-भावना--पण्डित.-मंगतराय/html/index.html"
+      },
+      {
+        "title": "महावीर-वंदना--पण्डित-हुकमचंद-भारिल्ल",
+        "href": "./jainDataBase/poojas/06_पाठ/06_महावीर-वंदना--पण्डित-हुकमचंद-भारिल्ल/html/index.html"
+      },
+      {
+        "title": "समाधिमरण--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/06_पाठ/06_समाधिमरण--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "समाधि-भावना--पण्डित-शिवराम",
+        "href": "./jainDataBase/poojas/06_पाठ/07_समाधि-भावना--पण्डित-शिवराम/html/index.html"
+      },
+      {
+        "title": "समाधिमरण-भाषा--पण्डित-सूरचंद",
+        "href": "./jainDataBase/poojas/06_पाठ/08_समाधिमरण-भाषा--पण्डित-सूरचंद/html/index.html"
+      },
+      {
+        "title": "दर्शन-स्तुति--पण्डित-दौलतराम",
+        "href": "./jainDataBase/poojas/06_पाठ/09_दर्शन-स्तुति--पण्डित-दौलतराम/html/index.html"
+      },
+      {
+        "title": "जिनवाणी-स्तुति",
+        "href": "./jainDataBase/poojas/06_पाठ/10_जिनवाणी-स्तुति/html/index.html"
+      },
+      {
+        "title": "आराधना-पाठ--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/06_पाठ/11_आराधना-पाठ--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "आर्हत-वंदना--पण्डित-जुगल-किशोर",
+        "href": "./jainDataBase/poojas/06_पाठ/12_आर्हत-वंदना--पण्डित-जुगल-किशोर/html/index.html"
+      },
+      {
+        "title": "आलोचना-पाठ--पण्डित-जौहरिलाल",
+        "href": "./jainDataBase/poojas/06_पाठ/13_आलोचना-पाठ--पण्डित-जौहरिलाल/html/index.html"
+      },
+      {
+        "title": "दुखहरन-विनती--पण्डित-वृन्दावनदास",
+        "href": "./jainDataBase/poojas/06_पाठ/14_दुखहरन-विनती--पण्डित-वृन्दावनदास/html/index.html"
+      },
+      {
+        "title": "अमूल्य-तत्त्व-विचार--श्रीमद-राजचन्द्र",
+        "href": "./jainDataBase/poojas/06_पाठ/15_अमूल्य-तत्त्व-विचार--श्रीमद-राजचन्द्र/html/index.html"
+      },
+      {
+        "title": "बाईस-परीषह--आर्यिका-ज्ञानमती",
+        "href": "./jainDataBase/poojas/06_पाठ/16_बाईस-परीषह--आर्यिका-ज्ञानमती/html/index.html"
+      },
+      {
+        "title": "सामायिक-पाठ--आचार्य-अमितगति",
+        "href": "./jainDataBase/poojas/06_पाठ/17_सामायिक-पाठ--आचार्य-अमितगति/html/index.html"
+      },
+      {
+        "title": "सामायिक-पाठ--पण्डित-महाचंद्र",
+        "href": "./jainDataBase/poojas/06_पाठ/21_सामायिक-पाठ--पण्डित-महाचंद्र/html/index.html"
+      },
+      {
+        "title": "सामायिक-पाठ--पण्डित-जुगल-किशोर",
+        "href": "./jainDataBase/poojas/06_पाठ/22_सामायिक-पाठ--पण्डित-जुगल-किशोर/html/index.html"
+      },
+      {
+        "title": "निर्वाण-कांड--पण्डित-भगवतीदास",
+        "href": "./jainDataBase/poojas/06_पाठ/23_निर्वाण-कांड--पण्डित-भगवतीदास/html/index.html"
+      },
+      {
+        "title": "देव-शास्त्र-गुरु-वंदना",
+        "href": "./jainDataBase/poojas/06_पाठ/24_देव-शास्त्र-गुरु-वंदना/html/index.html"
+      },
+      {
+        "title": "वैराग्य-भावना--पण्डित-भूधरदास",
+        "href": "./jainDataBase/poojas/06_पाठ/25_वैराग्य-भावना--पण्डित-भूधरदास/html/index.html"
+      },
+      {
+        "title": "भूधर-शतक--पण्डित-भूधरदास",
+        "href": "./jainDataBase/poojas/06_पाठ/29_भूधर-शतक--पण्डित-भूधरदास/html/index.html"
+      },
+      {
+        "title": "आत्मबोध-शतक--आर्यिका-पूर्णमति",
+        "href": "./jainDataBase/poojas/06_पाठ/30_आत्मबोध-शतक--आर्यिका-पूर्णमति/html/index.html"
+      },
+      {
+        "title": "चौबीस-तीर्थंकर-स्तवन--पण्डित-अभयकुमार",
+        "href": "./jainDataBase/poojas/06_पाठ/31_चौबीस-तीर्थंकर-स्तवन--पण्डित-अभयकुमार/html/index.html"
+      },
+      {
+        "title": "लघु-प्रतिक्रमण",
+        "href": "./jainDataBase/poojas/06_पाठ/36_लघु-प्रतिक्रमण/html/index.html"
+      },
+      {
+        "title": "मृत्युमहोत्सव",
+        "href": "./jainDataBase/poojas/06_पाठ/52_मृत्युमहोत्सव/html/index.html"
+      },
+      {
+        "title": "अपूर्व-अवसर--श्रीमद-राजचंद्र",
+        "href": "./jainDataBase/poojas/06_पाठ/53_अपूर्व-अवसर--श्रीमद-राजचंद्र/html/index.html"
+      },
+      {
+        "title": "कुंदकुंद-शतक--पण्डित-हुकमचंद-भारिल्ल",
+        "href": "./jainDataBase/poojas/06_पाठ/55_कुंदकुंद-शतक--पण्डित-हुकमचंद-भारिल्ल/html/index.html"
+      },
+      {
+        "title": "सिद्ध-श्रुत-आचार्य-भक्ति",
+        "href": "./jainDataBase/poojas/06_पाठ/56_सिद्ध-श्रुत-आचार्य-भक्ति/html/index.html"
+      },
+      {
+        "title": "ध्यान-सूत्र-शतक--आचार्य-माघनंदी",
+        "href": "./jainDataBase/poojas/06_पाठ/59_ध्यान-सूत्र-शतक--आचार्य-माघनंदी/html/index.html"
+      },
+      {
+        "title": "पखवाड़ा--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/06_पाठ/64_पखवाड़ा--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "श्री-गोम्टेश्वर-स्तुति",
+        "href": "./jainDataBase/poojas/06_पाठ/65_श्री-गोम्टेश्वर-स्तुति/html/index.html"
+      },
+      {
+        "title": "श्रीजिनेन्द्रगुणसंस्तुति--श्रीपात्रकेसरिस्वामि",
+        "href": "./jainDataBase/poojas/06_पाठ/67_श्रीजिनेन्द्रगुणसंस्तुति--श्रीपात्रकेसरिस्वामि/html/index.html"
+      },
+      {
+        "title": "रत्नाकर-पंचविंशतिका--पण्डित-रामचरित",
+        "href": "./jainDataBase/poojas/06_पाठ/69_रत्नाकर-पंचविंशतिका--पण्डित-रामचरित/html/index.html"
+      },
+      {
+        "title": "भूपाल-पंचविंशतिका--पण्डित-भूधरदास",
+        "href": "./jainDataBase/poojas/06_पाठ/70_भूपाल-पंचविंशतिका--पण्डित-भूधरदास/html/index.html"
+      },
+      {
+        "title": "सच्चा-जैन--रवीन्द्र-जी-आत्मन",
+        "href": "./jainDataBase/poojas/06_पाठ/72_सच्चा-जैन--रवीन्द्र-जी-आत्मन/html/index.html"
+      },
+      {
+        "title": "सरस्वती-वंदना",
+        "href": "./jainDataBase/poojas/06_पाठ/73_सरस्वती-वंदना/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "छहढाला",
+    "children": [
+      {
+        "title": "छहढाला--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/07_छहढाला/01_छहढाला--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "छहढाला--पं-दौलतराम",
+        "href": "./jainDataBase/poojas/07_छहढाला/02_छहढाला--पं-दौलतराम/html/index.html"
+      },
+      {
+        "title": "छहढाला--पं-बुधजन",
+        "href": "./jainDataBase/poojas/07_छहढाला/03_छहढाला--पं-बुधजन/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "स्तोत्र",
+    "children": [
+      {
+        "title": "स्वयंभू-स्तोत्र-भाषा--आचार्य-समंतभद्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/01_स्वयंभू-स्तोत्र-भाषा--आचार्य-समंतभद्र/html/index.html"
+      },
+      {
+        "title": "स्वयंभू-स्तोत्र-भाषा--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/02_स्वयंभू-स्तोत्र-भाषा--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "स्वयंभू-स्तोत्र--आचार्य-विद्यासागर",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/03_स्वयंभू-स्तोत्र--आचार्य-विद्यासागर/html/index.html"
+      },
+      {
+        "title": "पार्श्वनाथ-स्त्रोत्र--पण्डित-द्यनतराय",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/05_पार्श्वनाथ-स्त्रोत्र--पण्डित-द्यनतराय/html/index.html"
+      },
+      {
+        "title": "महावीराष्टक-स्तोत्र--पण्डित-भागचन्द्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/06_महावीराष्टक-स्तोत्र--पण्डित-भागचन्द्र/html/index.html"
+      },
+      {
+        "title": "वीतराग-स्तोत्र--मुनि-क्षमासागर",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/07_वीतराग-स्तोत्र--मुनि-क्षमासागर/html/index.html"
+      },
+      {
+        "title": "कल्याणमन्दिरस्तोत्रम--आचार्य-कुमुदचंद्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/10_कल्याणमन्दिरस्तोत्रम--आचार्य-कुमुदचंद्र/html/index.html"
+      },
+      {
+        "title": "कल्याणमन्दिर-स्तोत्र-हिंदी--आर्यिका-चंदानामती",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/11_कल्याणमन्दिर-स्तोत्र-हिंदी--आर्यिका-चंदानामती/html/index.html"
+      },
+      {
+        "title": "भक्तामर--आचार्य-मानतुंग",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/15_भक्तामर--आचार्य-मानतुंग/html/index.html"
+      },
+      {
+        "title": "भक्तामर--पण्डित-हेमराज",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/16_भक्तामर--पण्डित-हेमराज/html/index.html"
+      },
+      {
+        "title": "भक्तामर--मुनि-श्रीरसागर",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/17_भक्तामर--मुनि-श्रीरसागर/html/index.html"
+      },
+      {
+        "title": "एकीभाव-स्तोत्र--आचार्य-वादीराज",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/20_एकीभाव-स्तोत्र--आचार्य-वादीराज/html/index.html"
+      },
+      {
+        "title": "विषापहारस्तोत्रम्--कवि-धनञ्जय",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/25_विषापहारस्तोत्रम्--कवि-धनञ्जय/html/index.html"
+      },
+      {
+        "title": "विषापहारस्तोत्र--पण्डित-शांतिदास",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/26_विषापहारस्तोत्र--पण्डित-शांतिदास/html/index.html"
+      },
+      {
+        "title": "अकलंक-स्तोत्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/27_अकलंक-स्तोत्र/html/index.html"
+      },
+      {
+        "title": "गणधरवलय-स्तोत्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/30_गणधरवलय-स्तोत्र/html/index.html"
+      },
+      {
+        "title": "मंदालसा-स्तोत्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/31_मंदालसा-स्तोत्र/html/index.html"
+      },
+      {
+        "title": "श्रीमज्जिनसहस्रनाम-स्तोत्र",
+        "href": "./jainDataBase/poojas/08_स्तोत्र/40_श्रीमज्जिनसहस्रनाम-स्तोत्र/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "आरती",
+    "children": [
+      {
+        "title": "पंच-परमेष्ठी-आरती--पण्डित-द्यानतराय",
+        "href": "./jainDataBase/poojas/11_आरती/01_पंच-परमेष्ठी-आरती--पण्डित-द्यानतराय/html/index.html"
+      },
+      {
+        "title": "भगवान-चंदाप्रभु-आरती",
+        "href": "./jainDataBase/poojas/11_आरती/03_भगवान-चंदाप्रभु-आरती/html/index.html"
+      },
+      {
+        "title": "भगवान-पार्श्वनाथ-आरती",
+        "href": "./jainDataBase/poojas/11_आरती/04_भगवान-पार्श्वनाथ-आरती/html/index.html"
+      },
+      {
+        "title": "भगवान-महावीर-आरती",
+        "href": "./jainDataBase/poojas/11_आरती/05_भगवान-महावीर-आरती/html/index.html"
+      },
+      {
+        "title": "भगवान-बाहुबली-आरती",
+        "href": "./jainDataBase/poojas/11_आरती/06_भगवान-बाहुबली-आरती/html/index.html"
+      }
+    ]
+  }
+    ],
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+{
+  type: "header",
+  title: `
+FFFFFFFFFFFFFFFFF  UUUU    UUUU  LLLL            LLLL
+FFFF               UUUU    UUUU  LLLL            LLLL
+FFFF               UUUU    UUUU  LLLL            LLLL
+FFFFFFFFFFFF       UUUU    UUUU  LLLL            LLLL
+FFFF               UUUU    UUUU  LLLL            LLLL
+FFFF               UUUU    UUUU  LLLL            LLLL
+FFFF                UUUUUUUUUU   LLLLLLLLLLLLLL  LLLLLLLLLLLLLL
+
+ GGGGGGGGGGGG   RRRRRRRRRRRR    AAAAAAAAAAA   NNNN      NNNN  TTTTTTTTTTTTTT  HHHH    HHHH
+GGGG            RRRR     RRRR  AAAA   AAAA   NNNNN     NNNN       TTTT       HHHH    HHHH
+GGGG            RRRR     RRRR  AAAA   AAAA   NNNNNN    NNNN       TTTT       HHHH    HHHH
+GGGG   GGGGGG   RRRRRRRRRRRR   AAAAAAAAAAAA  NNNN NNNN NNNN       TTTT       HHHHHHHHHHHH
+GGGG      GGG   RRRR  RRRR     AAAA   AAAA   NNNN  NNNNNNNN       TTTT       HHHH    HHHH
+GGGG      GGG   RRRR   RRRR    AAAA   AAAA   NNNN   NNNNNNN       TTTT       HHHH    HHHH
+ GGGGGGGGGGG    RRRR    RRRR   AAAA   AAAA   NNNN     NNNNN       TTTT       HHHH    HHHH
+
+ OOOOOOOOOOO   NNNN      NNNN  LLLL      YYYYYY    YYYYYY
+OOOO     OOOO  NNNNN     NNNN  LLLL       YYYYYY  YYYYYY
+OOOO     OOOO  NNNNNN    NNNN  LLLL        YYYYYYYYYYYY
+OOOO     OOOO  NNNN NNNN NNNN  LLLL          YYYYYYYY
+OOOO     OOOO  NNNN  NNNNNNNN  LLLL            YYYY
+OOOO     OOOO  NNNN   NNNNNNN  LLLL            YYYY
+ OOOOOOOOOOO   NNNN     NNNNN  LLLLLLLLLLLL    YYYY
+
+  GGGGGGGGGGG    AAAAAAAAAAA   TTTTTTTTTTTTTT  HHHH    HHHH   AAAAAAAAAAA
+ GGGG            AAAA   AAAA        TTTT       HHHH    HHHH   AAAA   AAAA
+ GGGG  GGGGGG    AAAAAAAAAAAA       TTTT       HHHHHHHHHHHH   AAAAAAAAAAAA
+ GGGG     GGG    AAAA   AAAA        TTTT       HHHH    HHHH   AAAA   AAAA
+  GGGGGGGGGGG    AAAA   AAAA        TTTT       HHHH    HHHH   AAAA   AAAA
+  `
+},
+
+  {
+    type: "category",
+    title: "Full Granth Only Gatha",
+    children: [
+      {
+    "title": "द्रव्यानुयोग",
+    "children": [
+      {
+        "title": "समयसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/01_समयसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "प्रवचनसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "पञ्चास्तिकाय--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/05_पञ्चास्तिकाय--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html"
+      },
+      {
+        "title": "समाधितन्त्र--आचार्य&zwnj;-पूज्यपाद",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य&zwnj;-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "स्वरूप-संबोधन--अकलंक-देव",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/08_स्वरूप-संबोधन--अकलंक-देव/html/index.html"
+      },
+      {
+        "title": "इष्टोपदेश--आचार्य&zwnj;-पूज्यपाद",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य&zwnj;-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "परमात्मप्रकाश--योगींदुदेव",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "योगसार-प्राभृत--अमितगति-आचार्य",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/12_योगसार-प्राभृत--अमितगति-आचार्य/html/index.html"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र--आचार्य-उमास्वामी",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html"
+      },
+      {
+        "title": "योगसार--योगींदुदेव",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/14_योगसार--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "पंचाध्यायी",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/15_पंचाध्यायी/html/index.html"
+      },
+      {
+        "title": "पाहुड-दोहा--राम-सिंह-मुनि",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/16_पाहुड-दोहा--राम-सिंह-मुनि/html/index.html"
+      },
+      {
+        "title": "परम-अध्यात्म-तरंगिणी--अमृतचंद्राचार्य",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/17_परम-अध्यात्म-तरंगिणी--अमृतचंद्राचार्य/html/index.html"
+      },
+      {
+        "title": "तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/18_तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण/html/index.html"
+      },
+      {
+        "title": "सिद्धान्त-सार--भट्टारक-सकलकीर्ति",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/19_सिद्धान्त-सार--भट्टारक-सकलकीर्ति/html/index.html"
+      },
+      {
+        "title": "अमृताशीति--योगींदुदेव",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/20_अमृताशीति--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "तत्त्वसार--देवसेनाचार्य",
+        "href": "./jainDataBase/gatha/01_द्रव्यानुयोग/21_तत्त्वसार--देवसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "चरणानुयोग",
+    "children": [
+      {
+        "title": "नियमसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "श्रीअष्टपाहुड--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/02_श्रीअष्टपाहुड--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "मूलाचार--वट्टकेराचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/03_मूलाचार--वट्टकेराचार्य/html/index.html"
+      },
+      {
+        "title": "वारासाणुवेक्खा--स्वामि-कार्तिकेय",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/04_वारासाणुवेक्खा--स्वामि-कार्तिकेय/html/index.html"
+      },
+      {
+        "title": "पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/05_पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र/html/index.html"
+      },
+      {
+        "title": "बारसणुपेक्खा--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/06_बारसणुपेक्खा--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/09_रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "आराधनासार--देवसेनाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/10_आराधनासार--देवसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "ज्ञानार्णव--शुभचंद्राचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/12_ज्ञानार्णव--शुभचंद्राचार्य/html/index.html"
+      },
+      {
+        "title": "भगवती-आराधना--शिवाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/17_भगवती-आराधना--शिवाचार्य/html/index.html"
+      },
+      {
+        "title": "पद्मनंदी-पंचविन्शतिका--आ-पद्मनंदी",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/18_पद्मनंदी-पंचविन्शतिका--आ-पद्मनंदी/html/index.html"
+      },
+      {
+        "title": "आत्मानुशासन--आ-गुणभद्र",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/19_आत्मानुशासन--आ-गुणभद्र/html/index.html"
+      },
+      {
+        "title": "रयणसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/20_रयणसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "उपासकाध्ययन--सोमदेवाचार्य",
+        "href": "./jainDataBase/gatha/02_चरणानुयोग/21_उपासकाध्ययन--सोमदेवाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "करणानुयोग",
+    "children": [
+      {
+        "title": "लब्धिसार--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/gatha/03_करणानुयोग/01_लब्धिसार--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/gatha/03_करणानुयोग/03_गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "गोम्मटसार-कर्मकांड--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/gatha/03_करणानुयोग/04_गोम्मटसार-कर्मकांड--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "आस्रव-त्रिभंगी--श्रुतमुनी",
+        "href": "./jainDataBase/gatha/03_करणानुयोग/05_आस्रव-त्रिभंगी--श्रुतमुनी/html/index.html"
+      },
+      {
+        "title": "भाव-संग्रह--वामदेव-आचार्य",
+        "href": "./jainDataBase/gatha/03_करणानुयोग/06_भाव-संग्रह--वामदेव-आचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "प्रथमानुयोग",
+    "children": [
+      {
+        "title": "आराधना-कथा-कोश--ब्र-नेमिदत्त",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/01_आराधना-कथा-कोश--ब्र-नेमिदत्त/html/index.html"
+      },
+      {
+        "title": "उत्तरपुराण--गुणभद्राचार्य",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/02_उत्तरपुराण--गुणभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "उत्तरपुराण-संस्कृत--गुणभद्राचार्य",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/03_उत्तरपुराण-संस्कृत--गुणभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "पद्मपुराण--रविषेणाचार्य",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/04_पद्मपुराण--रविषेणाचार्य/html/index.html"
+      },
+      {
+        "title": "आदिपुराण--जिनसेनाचार्य",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/05_आदिपुराण--जिनसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "महावीर-पुराण--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/10_महावीर-पुराण--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "जम्बूस्वामी-चारित्र",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/11_जम्बूस्वामी-चारित्र/html/index.html"
+      },
+      {
+        "title": "सुकुमाल-चरित्र--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/12_सुकुमाल-चरित्र--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "सुदर्शन-चरित्र--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/13_सुदर्शन-चरित्र--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "सम्यक्त्व-कौमुदि",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/20_सम्यक्त्व-कौमुदि/html/index.html"
+      },
+      {
+        "title": "धर्मामृत--नयसेनाचार्य",
+        "href": "./jainDataBase/gatha/05_प्रथमानुयोग/21_धर्मामृत--नयसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "न्याय",
+    "children": [
+      {
+        "title": "आप्त-मीमांसा",
+        "href": "./jainDataBase/gatha/06_न्याय/01_आप्त-मीमांसा/html/index.html"
+      },
+      {
+        "title": "लघीयस्त्रय--भट्टाकलंकदेव",
+        "href": "./jainDataBase/gatha/06_न्याय/02_लघीयस्त्रय--भट्टाकलंकदेव/html/index.html"
+      },
+      {
+        "title": "परीक्षामुख",
+        "href": "./jainDataBase/gatha/06_न्याय/03_परीक्षामुख/html/index.html"
+      },
+      {
+        "title": "आलापपद्धति--देवसेनाचार्य",
+        "href": "./jainDataBase/gatha/06_न्याय/04_आलापपद्धति--देवसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "युक्त्यनुशासन--समंतभद्राचार्य",
+        "href": "./jainDataBase/gatha/06_न्याय/05_युक्त्यनुशासन--समंतभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "सन्मतितर्क--सिद्धसेनाचार्य",
+        "href": "./jainDataBase/gatha/06_न्याय/06_सन्मतितर्क--सिद्धसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "इतिहास",
+    "children": [
+      {
+        "title": "श्रुतावतार--इंद्रनंदी-आचार्य",
+        "href": "./jainDataBase/gatha/07_इतिहास/01_श्रुतावतार--इंद्रनंदी-आचार्य/html/index.html"
+      },
+      {
+        "title": "दर्शनसार--देवसेनाचार्य",
+        "href": "./jainDataBase/gatha/07_इतिहास/02_दर्शनसार--देवसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "children": [
+      {
+        "title": "Notes",
+        "href": "./jainDataBase/gatha/08_Notes/01_Notes/html/index.html"
+      },
+      {
+        "title": "Stories",
+        "href": "./jainDataBase/gatha/08_Notes/02_Stories/html/index.html"
+      },
+      {
+        "title": "लोकप्रिय-कथाएँ",
+        "href": "./jainDataBase/gatha/08_Notes/03_लोकप्रिय-कथाएँ/html/index.html"
+      },
+      {
+        "title": "Remember",
+        "href": "./jainDataBase/gatha/08_Notes/04_Remember/html/index.html"
+      },
+      {
+        "title": "समयसार-नाटक",
+        "href": "./jainDataBase/gatha/08_Notes/05_समयसार-नाटक/html/index.html"
+      },
+      {
+        "title": "अर्धकथानक--बनारसीदास",
+        "href": "./jainDataBase/gatha/08_Notes/06_अर्धकथानक--बनारसीदास/html/index.html"
+      }
+    ]
+  }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    type: "header",
+    title: `
+EEEEEEEEEEEEEE   NNNN    NNNN    GGGGGGGGGGGG   LLLL    IIIIIIIIII   SSSSSSSSSSSS   HHHH    HHHH
+EEEE             NNNNN   NNNN    GGGG           LLLL       IIII       SSSS            HHHH    HHHH
+EEEEEEEEEEEE     NNN NNN NNNN    GGGG  GGGGG    LLLL       IIII       SSSSSSSSSSSS    HHHHHHHHHHHH
+EEEE             NNN  NNNNNNN    GGGG     GGG   LLLL       IIII               SSSS    HHHH    HHHH
+EEEEEEEEEEEEEE   NNNN    NNNN     GGGGGGGGGGG   LLLLLLLLL IIIIIIIIII SSSSSSSSSSSS     HHHH    HHHH
+
+
+ GGGGGGGGGGGG   RRRRRRRRRRRR      AAAAAAAAAA   NNNN    NNNN   TTTTTTTTTTTTTT   HHHH    HHHH
+GGGG            RRRR     RRRR     AAAA  AAAA   NNNNN   NNNN        TTTT         HHHH    HHHH
+GGGG  GGGGG     RRRRRRRRRRRR      AAAAAAAAAA   NNN NNN NNNN        TTTT         HHHHHHHHHHHH
+GGGG     GGG    RRRR   RRRR       AAAA  AAAA   NNN  NNNNNNN        TTTT         HHHH    HHHH
+ GGGGGGGGGGG    RRRR    RRRR      AAAA  AAAA   NNNN    NNNN        TTTT         HHHH    HHHH
+`
+  },
+
+
+  {
+    type: "category",
+    title: "English Granth",
+    children: [
+      {
+    "title": "द्रव्यानुयोग",
+    "children": [
+      {
+        "title": "समयसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/01_समयसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "प्रवचनसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html"
+      },
+      {
+        "title": "समाधितन्त्र--आचार्य&zwnj;-पूज्यपाद",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य&zwnj;-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "इष्टोपदेश--आचार्य&zwnj;-पूज्यपाद",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य&zwnj;-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "परमात्मप्रकाश--योगींदुदेव",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र--आचार्य-उमास्वामी",
+        "href": "./jainDataBase/egranth/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "चरणानुयोग",
+    "children": [
+      {
+        "title": "नियमसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/egranth/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र",
+        "href": "./jainDataBase/egranth/02_चरणानुयोग/05_पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र/html/index.html"
+      },
+      {
+        "title": "आत्मानुशासन--आ-गुणभद्र",
+        "href": "./jainDataBase/egranth/02_चरणानुयोग/19_आत्मानुशासन--आ-गुणभद्र/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "न्याय",
+    "children": [
+      {
+        "title": "परीक्षामुख",
+        "href": "./jainDataBase/egranth/06_न्याय/03_परीक्षामुख/html/index.html"
+      },
+      {
+        "title": "सन्मतितर्क--सिद्धसेनाचार्य",
+        "href": "./jainDataBase/egranth/06_न्याय/06_सन्मतितर्क--सिद्धसेनाचार्य/html/index.html"
+      }
+    ]
+  }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  type: "header",
+  title: `
+FFFFFFFFFFFFFFFFF   UUUU     UUUU   LLLL            LLLL
+FFFF                UUUU     UUUU   LLLL            LLLL
+FFFF                UUUU     UUUU   LLLL            LLLL
+FFFFFFFFFFFF        UUUU     UUUU   LLLL            LLLL
+FFFF                UUUU     UUUU   LLLL            LLLL
+FFFF                UUUU     UUUU   LLLL            LLLL
+FFFF                 UUUUUUUUUUU    LLLLLLLLLLLLLL  LLLLLLLLLLLLLL
+
+
+ GGGGGGGGGGGGG      RRRRRRRRRRRR      AAAAAAAAAAAA    NNNN      NNNN   TTTTTTTTTTTTTTTT  HHHH    HHHH
+GGGGGGGGGGGGGGG     RRRR      RRRR    AAAA    AAAA    NNNNN     NNNN         TTTT         HHHH    HHHH
+GGGG                RRRR      RRRR    AAAA    AAAA    NNNNNN    NNNN         TTTT         HHHH    HHHH
+GGGG   GGGGGGGG     RRRRRRRRRRRRR     AAAAAAAAAAAA    NNNN NNNN NNNN         TTTT         HHHHHHHHHHHH
+GGGG       GGGG     RRRR   RRRR       AAAA    AAAA    NNNN  NNNNNNNN         TTTT         HHHH    HHHH
+GGGG       GGGG     RRRR    RRRR      AAAA    AAAA    NNNN   NNNNNNN         TTTT         HHHH    HHHH
+ GGGGGGGGGGGGG      RRRR     RRRR     AAAA    AAAA    NNNN     NNNNN         TTTT         HHHH    HHHH
+   GGGGGGGGGG
+
+
+WWWW              WWWW   IIIIIIIIIIII   TTTTTTTTTTTTTTTT   HHHH    HHHH
+WWWW              WWWW       IIII              TTTT         HHHH    HHHH
+WWWW      WW      WWWW       IIII              TTTT         HHHHHHHHHHHH
+ WWWW    WWWW    WWWW        IIII              TTTT         HHHH    HHHH
+  WWWW  WWWWWW  WWWW         IIII              TTTT         HHHH    HHHH
+   WWWWWW  WWWWWW      IIIIIIIIIIII            TTTT         HHHH    HHHH
+
+
+TTTTTTTTTTTTTTTT   EEEEEEEEEEEEEE   EEEEEEEEEEEEEE   KKKK      KKKK    AAAAAAAAAAAA
+      TTTT         EEEE             EEEE            KKKK    KKKK      AAAA    AAAA
+      TTTT         EEEEEEEEEEEE     EEEEEEEEEEEE    KKKKKKKKKK        AAAAAAAAAAAA
+      TTTT         EEEE             EEEE            KKKK    KKKK      AAAA    AAAA
+      TTTT         EEEEEEEEEEEEEE   EEEEEEEEEEEEEE  KKKK      KKKK    AAAA    AAAA
+  `
+},
+
+
+{
+  type: "category",
+  title: "Full Granth With Teeka",
+  children: [
+    {
+    "title": "द्रव्यानुयोग",
+    "children": [
+      {
+        "title": "समयसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/01_समयसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "प्रवचनसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "पञ्चास्तिकाय--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/05_पञ्चास्तिकाय--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html"
+      },
+      {
+        "title": "समाधितन्त्र--आचार्य-पूज्यपाद",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "स्वरूप-संबोधन--अकलंक-देव",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/08_स्वरूप-संबोधन--अकलंक-देव/html/index.html"
+      },
+      {
+        "title": "इष्टोपदेश--आचार्य&zwnj;-पूज्यपाद",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य&zwnj;-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "परमात्मप्रकाश--योगींदुदेव",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "योगसार-प्राभृत--अमितगति-आचार्य",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/12_योगसार-प्राभृत--अमितगति-आचार्य/html/index.html"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र--आचार्य-उमास्वामी",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html"
+      },
+      {
+        "title": "योगसार--योगींदुदेव",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/14_योगसार--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "पंचाध्यायी",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/15_पंचाध्यायी/html/index.html"
+      },
+      {
+        "title": "पाहुड-दोहा--राम-सिंह-मुनि",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/16_पाहुड-दोहा--राम-सिंह-मुनि/html/index.html"
+      },
+      {
+        "title": "परम-अध्यात्म-तरंगिणी--अमृतचंद्राचार्य",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/17_परम-अध्यात्म-तरंगिणी--अमृतचंद्राचार्य/html/index.html"
+      },
+      {
+        "title": "तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/18_तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण/html/index.html"
+      },
+      {
+        "title": "सिद्धान्त-सार--भट्टारक-सकलकीर्ति",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/19_सिद्धान्त-सार--भट्टारक-सकलकीर्ति/html/index.html"
+      },
+      {
+        "title": "अमृताशीति--योगींदुदेव",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/20_अमृताशीति--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "तत्त्वसार--देवसेनाचार्य",
+        "href": "./jainDataBase/teeka/01_द्रव्यानुयोग/21_तत्त्वसार--देवसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "चरणानुयोग",
+    "children": [
+      {
+        "title": "नियमसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "श्रीअष्टपाहुड--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/02_श्रीअष्टपाहुड--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "मूलाचार--वट्टकेराचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/03_मूलाचार--वट्टकेराचार्य/html/index.html"
+      },
+      {
+        "title": "वारासाणुवेक्खा--स्वामि-कार्तिकेय",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/04_वारासाणुवेक्खा--स्वामि-कार्तिकेय/html/index.html"
+      },
+      {
+        "title": "पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/05_पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र/html/index.html"
+      },
+      {
+        "title": "बारसणुपेक्&zwj;खा--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/06_बारसणुपेक्&zwj;खा--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/09_रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "आराधनासार--देवसेनाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/10_आराधनासार--देवसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "ज्ञानार्णव--शुभचंद्राचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/12_ज्ञानार्णव--शुभचंद्राचार्य/html/index.html"
+      },
+      {
+        "title": "भगवती-आराधना--शिवाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/17_भगवती-आराधना--शिवाचार्य/html/index.html"
+      },
+      {
+        "title": "पद्मनंदी-पंचविन्शतिका--आ-पद्मनंदी",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/18_पद्मनंदी-पंचविन्शतिका--आ-पद्मनंदी/html/index.html"
+      },
+      {
+        "title": "आत्मानुशासन--आ-गुणभद्र",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/19_आत्मानुशासन--आ-गुणभद्र/html/index.html"
+      },
+      {
+        "title": "रयणसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/20_रयणसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "उपासकाध्ययन--सोमदेवाचार्य",
+        "href": "./jainDataBase/teeka/02_चरणानुयोग/21_उपासकाध्ययन--सोमदेवाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "करणानुयोग",
+    "children": [
+      {
+        "title": "लब्धिसार--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/teeka/03_करणानुयोग/01_लब्धिसार--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/teeka/03_करणानुयोग/03_गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "गोम्मटसार-कर्मकांड--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/teeka/03_करणानुयोग/04_गोम्मटसार-कर्मकांड--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "आस्रव-त्रिभंगी--श्रुतमुनी",
+        "href": "./jainDataBase/teeka/03_करणानुयोग/05_आस्रव-त्रिभंगी--श्रुतमुनी/html/index.html"
+      },
+      {
+        "title": "भाव-संग्रह--वामदेव-आचार्य",
+        "href": "./jainDataBase/teeka/03_करणानुयोग/06_भाव-संग्रह--वामदेव-आचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "प्रथमानुयोग",
+    "children": [
+      {
+        "title": "आराधना-कथा-कोश--ब्र-नेमिदत्त",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/01_आराधना-कथा-कोश--ब्र-नेमिदत्त/html/index.html"
+      },
+      {
+        "title": "उत्तरपुराण--गुणभद्राचार्य",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/02_उत्तरपुराण--गुणभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "उत्तरपुराण-संस्कृत--गुणभद्राचार्य",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/03_उत्तरपुराण-संस्कृत--गुणभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "पद्मपुराण--रविषेणाचार्य",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/04_पद्मपुराण--रविषेणाचार्य/html/index.html"
+      },
+      {
+        "title": "आदिपुराण--जिनसेनाचार्य",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/05_आदिपुराण--जिनसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "महावीर-पुराण--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/10_महावीर-पुराण--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "जम्बूस्वामी-चारित्र",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/11_जम्बूस्वामी-चारित्र/html/index.html"
+      },
+      {
+        "title": "सुकुमाल-चरित्र--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/12_सुकुमाल-चरित्र--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "सुदर्शन-चरित्र--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/13_सुदर्शन-चरित्र--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "सम्यक्त्व-कौमुदि",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/20_सम्यक्त्व-कौमुदि/html/index.html"
+      },
+      {
+        "title": "धर्मामृत--नयसेनाचार्य",
+        "href": "./jainDataBase/teeka/05_प्रथमानुयोग/21_धर्मामृत--नयसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "न्याय",
+    "children": [
+      {
+        "title": "आप्त-मीमांसा",
+        "href": "./jainDataBase/teeka/06_न्याय/01_आप्त-मीमांसा/html/index.html"
+      },
+      {
+        "title": "लघीयस्त्रय--भट्टाकलंकदेव",
+        "href": "./jainDataBase/teeka/06_न्याय/02_लघीयस्त्रय--भट्टाकलंकदेव/html/index.html"
+      },
+      {
+        "title": "परीक्षामुख",
+        "href": "./jainDataBase/teeka/06_न्याय/03_परीक्षामुख/html/index.html"
+      },
+      {
+        "title": "आलापपद्धति--देवसेनाचार्य",
+        "href": "./jainDataBase/teeka/06_न्याय/04_आलापपद्धति--देवसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "युक्त्यनुशासन--समंतभद्राचार्य",
+        "href": "./jainDataBase/teeka/06_न्याय/05_युक्त्यनुशासन--समंतभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "सन्मतितर्क--सिद्धसेनाचार्य",
+        "href": "./jainDataBase/teeka/06_न्याय/06_सन्मतितर्क--सिद्धसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "इतिहास",
+    "children": [
+      {
+        "title": "श्रुतावतार--इंद्रनंदी-आचार्य",
+        "href": "./jainDataBase/teeka/07_इतिहास/01_श्रुतावतार--इंद्रनंदी-आचार्य/html/index.html"
+      },
+      {
+        "title": "दर्शनसार--देवसेनाचार्य",
+        "href": "./jainDataBase/teeka/07_इतिहास/02_दर्शनसार--देवसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "children": [
+      {
+        "title": "Notes",
+        "href": "./jainDataBase/teeka/08_Notes/01_Notes/html/index.html"
+      },
+      {
+        "title": "Stories",
+        "href": "./jainDataBase/teeka/08_Notes/02_Stories/html/index.html"
+      },
+      {
+        "title": "लोकप्रिय-कथाएँ",
+        "href": "./jainDataBase/teeka/08_Notes/03_लोकप्रिय-कथाएँ/html/index.html"
+      },
+      {
+        "title": "Remember",
+        "href": "./jainDataBase/teeka/08_Notes/04_Remember/html/index.html"
+      },
+      {
+        "title": "समयसार-नाटक",
+        "href": "./jainDataBase/teeka/08_Notes/05_समयसार-नाटक/html/index.html"
+      },
+      {
+        "title": "अर्धकथानक--बनारसीदास",
+        "href": "./jainDataBase/teeka/08_Notes/06_अर्धकथानक--बनारसीदास/html/index.html"
+      }
+    ]
+  }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  type: "header",
+  title: `
+GGGGGGGGGGGGGGG    RRRRRRRRRRRR       AAAAAAAAAAA     NNNN       NNNN    TTTTTTTTTTTTTTTT    HHHH      HHHH
+GGGGGGGGGGGGGGG    RRR      RRRR     AAAA     AAAA    NNNNN      NNNN    TTTTTTTTTTTTTTTT    HHHH      HHHH
+GGGG               RRRR      RRRR    AAAA     AAAA    NNNNNN     NNNN          TTTT          HHHH      HHHH
+GGGG               RRRR      RRRR    AAAA     AAAA    NNNN NNN    NNN          TTTT          HHHH      HHHH
+GGGG     GGGGGG    RRRRRRRRRRRRRR    AAAAAAAAAAAAA    NNNN  NNN   NNN          TTTT          HHHHHHHHHHHHHH
+GGGG        GGG    RRRRRRRRRRRR      AAAAAAAAAAAAA    NNNN   NNN  NNN          TTTT          HHHHHHHHHHHHHH
+GGGG        GGG    RRRR   RRRR       AAAA     AAAA    NNNN    NNN NNN          TTTT          HHHH      HHHH
+GGGGGGGGGGGGGGG    RRRR    RRRR      AAAA     AAAA    NNNN     NNNNNN          TTTT          HHHH      HHHH
+GGGGGGGGGGGGGGG    RRRR     RRRR     AAAA     AAAA    NNNN      NNNNN          TTTT          HHHH      HHHH
+
+
+GGGGGGGGGGGGGGG      AAAAAAAAAA         AAAAAAAAAA      TTTTTTTTTTTTTTTT    HHHH       HHHH     AAAAAAAAAAA
+GGGGGGGGGGGGGGG     AAAA   AAAA        AAAA   AAAA      TTTTTTTTTTTTTTTT    HHHH       HHHH     AAAA   AAAA
+GGGG                AAAA   AAAA        AAAA   AAAA            TTTT          HHHH       HHHH     AAAA   AAAA
+GGGG               AAAA     AAAA      AAAA     AAAA           TTTT          HHHH       HHHH    AAAA     AAAA
+GGGG     GGGGGG    AAAAAAAAAAAAA      AAAAAAAAAAAAA           TTTT          HHHHHHHHHHHHHHH    AAAAAAAAAAAAA
+GGGG        GGG    AAAAAAAAAAAAA      AAAAAAAAAAAAA           TTTT          HHHHHHHHHHHHHHH    AAAAAAAAAAAAA
+GGGG        GGG    AAAA     AAAA      AAAA     AAAA           TTTT          HHHH       HHHH    AAAA     AAAA
+GGGGGGGGGGGGGGG    AAAA     AAAA      AAAA     AAAA           TTTT          HHHH       HHHH    AAAA     AAAA
+GGGGGGGGGGGGGGG    AAAA     AAAA      AAAA     AAAA           TTTT          HHHH       HHHH    AAAA     AAAA
+
+
+BBBBBBBBBBBBBBB    YYYY       YYYY
+BBBB       BBBB     YYYY     YYYY
+BBBB       BBBB      YYYY   YYYY
+BBBBBBBBBBBBBBB       YYYYYYYYY
+BBBBBBBBBBBBBBB         YYYYY
+BBBB       BBBB         YYYYY
+BBBB       BBBB         YYYYY
+BBBBBBBBBBBBBBB         YYYYY
+
+
+GGGGGGGGGGGGGGG      AAAAAAAAA       TTTTTTTTTTTTTTTT    HHHH      HHHH      AAAAAAAAAAA
+GGGGGGGGGGGGGGG     AAAA   AAAA      TTTTTTTTTTTTTTTT    HHHH      HHHH      AAAA   AAAA
+GGGG                AAAA   AAAA             TTTT         HHHH      HHHH      AAAA   AAAA
+GGGG               AAAA     AAAA            TTTT         HHHH      HHHH     AAAA     AAAA
+GGGG     GGGGGG    AAAAAAAAAAAAA            TTTT         HHHHHHHHHHHHHH     AAAAAAAAAAAAA
+GGGG        GGG    AAAAAAAAAAAAA            TTTT         HHHHHHHHHHHHHH     AAAAAAAAAAAAA
+GGGG        GGG    AAAA     AAAA            TTTT         HHHH      HHHH     AAAA     AAAA
+GGGGGGGGGGGGGGG    AAAA     AAAA            TTTT         HHHH      HHHH     AAAA     AAAA
+GGGGGGGGGGGGGGG    AAAA     AAAA            TTTT         HHHH      HHHH     AAAA     AAAA  
+  `
+},
+
+
+{
+  type: "category",
+  title: "Granth Gaatha By Gatha",
+  children: [
+    {
+    "title": "द्रव्यानुयोग",
+    "children": [
+      {
+        "title": "समयसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/01_समयसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "प्रवचनसार--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "पञ्चास्तिकाय--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/05_पञ्चास्तिकाय--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html"
+      },
+      {
+        "title": "समाधितन्त्र--आचार्य-पूज्यपाद",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "स्वरूप-संबोधन--अकलंक-देव",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/08_स्वरूप-संबोधन--अकलंक-देव/html/index.html"
+      },
+      {
+        "title": "इष्टोपदेश--आचार्य-पूज्यपाद",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य-पूज्यपाद/html/index.html"
+      },
+      {
+        "title": "परमात्मप्रकाश--योगींदुदेव",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "योगसार-प्राभृत--अमितगति-आचार्य",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/12_योगसार-प्राभृत--अमितगति-आचार्य/html/index.html"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र--आचार्य-उमास्वामी",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html"
+      },
+      {
+        "title": "योगसार--योगींदुदेव",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/14_योगसार--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "पंचाध्यायी",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/15_पंचाध्यायी/html/index.html"
+      },
+      {
+        "title": "पाहुड-दोहा--राम-सिंह-मुनि",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/16_पाहुड-दोहा--राम-सिंह-मुनि/html/index.html"
+      },
+      {
+        "title": "परम-अध्यात्म-तरंगिणी--अमृतचंद्राचार्य",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/17_परम-अध्यात्म-तरंगिणी--अमृतचंद्राचार्य/html/index.html"
+      },
+      {
+        "title": "तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/18_तत्त्वज्ञान-तरंगिणी--भट्टारक-ज्ञानभूषण/html/index.html"
+      },
+      {
+        "title": "सिद्धान्त-सार--भट्टारक-सकलकीर्ति",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/19_सिद्धान्त-सार--भट्टारक-सकलकीर्ति/html/index.html"
+      },
+      {
+        "title": "अमृताशीति--योगींदुदेव",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/20_अमृताशीति--योगींदुदेव/html/index.html"
+      },
+      {
+        "title": "तत्त्वसार--देवसेनाचार्य",
+        "href": "./jainDataBase/shastra/01_द्रव्यानुयोग/21_तत्त्वसार--देवसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "चरणानुयोग",
+    "children": [
+      {
+        "title": "नियमसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "श्रीअष्टपाहुड--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/02_श्रीअष्टपाहुड--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "मूलाचार--वट्टकेराचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/03_मूलाचार--वट्टकेराचार्य/html/index.html"
+      },
+      {
+        "title": "वारासाणुवेक्खा--स्वामि-कार्तिकेय",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/04_वारासाणुवेक्खा--स्वामि-कार्तिकेय/html/index.html"
+      },
+      {
+        "title": "पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/05_पुरुषार्थसिद्ध्युपाय--आ-अमृतचन्द्र/html/index.html"
+      },
+      {
+        "title": "बारसणुपेक्खा--कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/06_बारसणुपेक्खा--कुन्दकुन्दाचार्य/html/index.html"
+      },
+      {
+        "title": "रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/09_रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "आराधनासार--देवसेनाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/10_आराधनासार--देवसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "ज्ञानार्णव--शुभचंद्राचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/12_ज्ञानार्णव--शुभचंद्राचार्य/html/index.html"
+      },
+      {
+        "title": "भगवती-आराधना--शिवाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/17_भगवती-आराधना--शिवाचार्य/html/index.html"
+      },
+      {
+        "title": "पद्मनंदी-पंचविन्शतिका--आ-पद्मनंदी",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/18_पद्मनंदी-पंचविन्शतिका--आ-पद्मनंदी/html/index.html"
+      },
+      {
+        "title": "आत्मानुशासन--आ-गुणभद्र",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/19_आत्मानुशासन--आ-गुणभद्र/html/index.html"
+      },
+      {
+        "title": "रयणसार--कुन्दकुंदाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/20_रयणसार--कुन्दकुंदाचार्य/html/index.html"
+      },
+      {
+        "title": "उपासकाध्ययन--सोमदेवाचार्य",
+        "href": "./jainDataBase/shastra/02_चरणानुयोग/21_उपासकाध्ययन--सोमदेवाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "करणानुयोग",
+    "children": [
+      {
+        "title": "लब्धिसार--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/shastra/03_करणानुयोग/01_लब्धिसार--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/shastra/03_करणानुयोग/03_गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "गोम्मटसार-कर्मकांड--नेमिचंद्र-आचार्य",
+        "href": "./jainDataBase/shastra/03_करणानुयोग/04_गोम्मटसार-कर्मकांड--नेमिचंद्र-आचार्य/html/index.html"
+      },
+      {
+        "title": "आस्रव-त्रिभंगी--श्रुतमुनी",
+        "href": "./jainDataBase/shastra/03_करणानुयोग/05_आस्रव-त्रिभंगी--श्रुतमुनी/html/index.html"
+      },
+      {
+        "title": "भाव-संग्रह--वामदेव-आचार्य",
+        "href": "./jainDataBase/shastra/03_करणानुयोग/06_भाव-संग्रह--वामदेव-आचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "प्रथमानुयोग",
+    "children": [
+      {
+        "title": "आराधना-कथा-कोश--ब्र-नेमिदत्त",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/01_आराधना-कथा-कोश--ब्र-नेमिदत्त/html/index.html"
+      },
+      {
+        "title": "उत्तरपुराण--गुणभद्राचार्य",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/02_उत्तरपुराण--गुणभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "उत्तरपुराण-संस्कृत--गुणभद्राचार्य",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/03_उत्तरपुराण-संस्कृत--गुणभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "पद्मपुराण--रविषेणाचार्य",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/04_पद्मपुराण--रविषेणाचार्य/html/index.html"
+      },
+      {
+        "title": "आदिपुराण--जिनसेनाचार्य",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/05_आदिपुराण--जिनसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "महावीर-पुराण--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/10_महावीर-पुराण--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "जम्बूस्वामी-चारित्र",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/11_जम्बूस्वामी-चारित्र/html/index.html"
+      },
+      {
+        "title": "सुकुमाल-चरित्र--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/12_सुकुमाल-चरित्र--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "सुदर्शन-चरित्र--सकलकीर्ति-भट्टारक",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/13_सुदर्शन-चरित्र--सकलकीर्ति-भट्टारक/html/index.html"
+      },
+      {
+        "title": "सम्यक्त्व-कौमुदि",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/20_सम्यक्त्व-कौमुदि/html/index.html"
+      },
+      {
+        "title": "धर्मामृत--नयसेनाचार्य",
+        "href": "./jainDataBase/shastra/05_प्रथमानुयोग/21_धर्मामृत--नयसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "न्याय",
+    "children": [
+      {
+        "title": "आप्त-मीमांसा",
+        "href": "./jainDataBase/shastra/06_न्याय/01_आप्त-मीमांसा/html/index.html"
+      },
+      {
+        "title": "लघीयस्त्रय--भट्टाकलंकदेव",
+        "href": "./jainDataBase/shastra/06_न्याय/02_लघीयस्त्रय--भट्टाकलंकदेव/html/index.html"
+      },
+      {
+        "title": "परीक्षामुख",
+        "href": "./jainDataBase/shastra/06_न्याय/03_परीक्षामुख/html/index.html"
+      },
+      {
+        "title": "आलापपद्धति--देवसेनाचार्य",
+        "href": "./jainDataBase/shastra/06_न्याय/04_आलापपद्धति--देवसेनाचार्य/html/index.html"
+      },
+      {
+        "title": "युक्त्यनुशासन--समंतभद्राचार्य",
+        "href": "./jainDataBase/shastra/06_न्याय/05_युक्त्यनुशासन--समंतभद्राचार्य/html/index.html"
+      },
+      {
+        "title": "सन्मतितर्क--सिद्धसेनाचार्य",
+        "href": "./jainDataBase/shastra/06_न्याय/06_सन्मतितर्क--सिद्धसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "इतिहास",
+    "children": [
+      {
+        "title": "श्रुतावतार--इंद्रनंदी-आचार्य",
+        "href": "./jainDataBase/shastra/07_इतिहास/01_श्रुतावतार--इंद्रनंदी-आचार्य/html/index.html"
+      },
+      {
+        "title": "दर्शनसार--देवसेनाचार्य",
+        "href": "./jainDataBase/shastra/07_इतिहास/02_दर्शनसार--देवसेनाचार्य/html/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "children": [
+      {
+        "title": "Notes",
+        "href": "./jainDataBase/shastra/08_Notes/01_Notes/html/index.html"
+      },
+      {
+        "title": "Stories",
+        "href": "./jainDataBase/shastra/08_Notes/02_Stories/html/index.html"
+      },
+      {
+        "title": "लोकप्रिय-कथाएँ",
+        "href": "./jainDataBase/shastra/08_Notes/03_लोकप्रिय-कथाएँ/html/index.html"
+      },
+      {
+        "title": "Remember",
+        "href": "./jainDataBase/shastra/08_Notes/04_Remember/html/index.html"
+      },
+      {
+        "title": "समयसार-नाटक",
+        "href": "./jainDataBase/shastra/08_Notes/05_समयसार-नाटक/html/index.html"
+      },
+      {
+        "title": "अर्धकथानक--बनारसीदास",
+        "href": "./jainDataBase/shastra/08_Notes/06_अर्धकथानक--बनारसीदास/html/index.html"
+      }
+    ]
+  }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  type: "header",
+  title: `
+PPPPPPPPPPPPPPP      LLLL                  AAAAAAAAA      YYYY       YYYY                    //////
+PPPP        PPPP     LLLL                 AAAA   AAAA      YYYY     YYYY                    //////
+PPPP        PPPP     LLLL                 AAAA   AAAA       YYYY   YYYY                    //////
+PPPPPPPPPPPPPPPP     LLLL                AAAA     AAAA       YYYYYYYYY                    //////
+PPPPPPPPPPPPPPP      LLLL                AAAAAAAAAAAAA         YYYYY                     //////
+PPPP                 LLLL                AAAAAAAAAAAAA         YYYYY                    //////
+PPPP                 LLLL                AAAA     AAAA         YYYYY                   //////
+PPPP                 LLLL                AAAA     AAAA         YYYYY                  //////
+PPPP                 LLLLLLLLLLLLLLLL    AAAA     AAAA         YYYYY                 //////
+
+
+
+TTTTTTTTTTTTTTTT   EEEEEEEEEEEEEEEE    SSSSSSSSSSSSSSS    TTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTT   EEEEEEEEEEEEEEEE   SSSSSSSSSSSSSSSS   TTTTTTTTTTTTTTTT
+      TTTT         EEEE              SSSS                     TTTT
+      TTTT         EEEE              SSSS                     TTTT
+      TTTT         EEEEEEEEEEE        SSSSSSSSSSSSS           TTTT
+      TTTT         EEEEEEEEEEE         SSSSSSSSSSSSS          TTTT
+      TTTT         EEEE                         SSSS          TTTT
+      TTTT         EEEE                         SSSS          TTTT
+      TTTT         EEEEEEEEEEEEEEEE   SSSSSSSSSSSSSSS         TTTT
+      TTTT         EEEEEEEEEEEEEEEE    SSSSSSSSSSSSSS         TTTT  
+  `
+},
+
+
+
+{
+  type: "category",
+  title: "Play / Test",
+  children: [
+    {
+      "title": "Kids Games",
+      "children": [
+        {
+          "title": "Arrange Names",
+          "href": "./jainDataBase/Kids-Games/Arrange-Names/html/index.html"
+        },
+      ]
+    },
+    {
+      "title": "Crossword Puzzle",
+      "children": [
+        {
+          "title": "Puzzle-1",
+          "href": "./jainDataBase/Crossword-Puzzle/Puzzle-1/html/index.html"
+        },
+        {
+          "title": "Puzzle-2",
+          "href": "./jainDataBase/Crossword-Puzzle/Puzzle-2/html/index.html"
+        },
+        {
+          "title": "Puzzle-3",
+          "href": "./jainDataBase/Crossword-Puzzle/Puzzle-3/html/index.html"
+        }
+      ]
+    },
+    {
+      "title": "Word Search",
+      "children": [
+        {
+          "title": "Puzzle-1",
+          "href": "./jainDataBase/Word-Search/Puzzle-1/html/index.html"
+        },
+        {
+          "title": "Puzzle-2",
+          "href": "./jainDataBase/Word-Search/Puzzle-2/html/index.html"
+        },
+        {
+          "title": "Puzzle-3",
+          "href": "./jainDataBase/Word-Search/Puzzle-3/html/index.html"
+        }
+      ]
+    },
+    {
+      "title": "Exam",
+      "children": [
+        {
+          "title": "गुणस्थान विवेचन",
+          "href": "./jainDataBase/Exam/गुणस्थान-विवेचन/html/index.html"
+        },
+        {
+          "title": "तत्वार्थ मंजुषा - अध्याय 1",
+          "href": "./jainDataBase/Exam/तत्वार्थ-मंजुषा-अध्याय-1/html/index.html"
+        },
+        {
+          "title": "तत्वार्थ मंजुषा - अध्याय 3",
+          "href": "./jainDataBase/Exam/तत्वार्थ-मंजुषा-अध्याय-3/html/index.html"
+        },
+        {
+          "title": "JeevSamas",
+          "href": "./jainDataBase/Exam/JeevSamas/html/index.html"
+        },
+        {
+          "title": "Karm Uday Bandh",
+          "href": "./jainDataBase/Exam/Karm-Uday-Bandh/html/index.html"
+        },
+        {
+          "title": "Karm Uday Bandh Satta",
+          "href": "./jainDataBase/Exam/Karm-Uday-Bandh-Satta/html/index.html"
+        },
+        {
+          "title": "Karm All",
+          "href": "./jainDataBase/Exam/Karm-All/html/index.html"
+        },
+        {
+          "title": "Margna Me Bandh",
+          "href": "./jainDataBase/Exam/Margna-Me-Bandh/html/index.html"
+        },
+        {
+          "title": "Margna me Uday",
+          "href": "./jainDataBase/Exam/Margna-me-Uday/html/index.html"
+        },
+        {
+          "title": "Paryushan",
+          "href": "./jainDataBase/Exam/Paryushan/html/index.html"
+        }
+      ]
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  type: "header",
+  title: `
+MMMM       MMMM   IIIIIIIIIIIIIIII    SSSSSSSSSSSSSSS     CCCCCCCCCCCCCCCC
+MMMMM     MMMMM   IIIIIIIIIIIIIIII   SSSSSSSSSSSSSSSS   CCCCCCCCCCCCCCCCCC
+MMMMMM   MMMMMM         IIII         SSSS               CCCC
+MMMMMMM MMMMMMM         IIII         SSSS               CCCC
+MMMMMMMMMMMMMMM         IIII          SSSSSSSSSSSSS     CCCC
+MMMMMMMMMMMMMMM         IIII           SSSSSSSSSSSSS    CCCC
+MMMM MM MM MMMM         IIII                    SSSS    CCCC
+MMMM   M    MMM         IIII                    SSSS    CCCC
+MMMM        MMM   IIIIIIIIIIIIIIII   SSSSSSSSSSSSSSS    CCCCCCCCCCCCCCCCCC
+MMMM        MMM   IIIIIIIIIIIIIIII   SSSSSSSSSSSSSS       CCCCCCCCCCCCCCCC
+  `
+},
+
+
+
+
+
+{
+  type: "category",
+  title: "Misc",
+  children: [
+    {
+    "title": "Youtube -- शास्त्र गाथा",
+    "children": [
+      {
+        "title": "समयसार",
+        "href": "./jainDataBase/youtube/samaysaar.html"
+      },
+      {
+        "title": "रत्नकरंड श्रावकाचार",
+        "href": "./jainDataBase/youtube/rks.html"
+      },
+      {
+        "title": "तत्त्वार्थ-सूत्र - पूर्णमति माताजी",
+        "href": "./jainDataBase/youtube/tsutra-1.html"
+      },
+      {
+        "title": "इष्टोपदेश",
+        "href": "./jainDataBase/youtube/ishtopadesh.html"
+      },
+      {
+        "title": "स्वरूप संबोधन",
+        "href": "./jainDataBase/youtube/swaroopsambodhan.html"
+      },
+      {
+        "title": "समाधितंत्र",
+        "href": "./jainDataBase/youtube/samadhitantra.html"
+      },
+      {
+        "title": "गणधर-वलय स्तोत्र",
+        "href": "./jainDataBase/youtube/gandharValay.html"
+      },
+      {
+        "title": "भक्तामर",
+        "href": "./jainDataBase/youtube/bhaktamar.html"
+      },
+      {
+        "title": "स्वयंभू-स्तोत्र",
+        "href": "./jainDataBase/youtube/svayambhu.html"
+      },
+      {
+        "title": "महावीराष्टक-स्तोत्र",
+        "href": "./jainDataBase/youtube/mahavirashtak.html"
+      },
+      {
+        "title": "विषापहार-स्तोत्र",
+        "href": "./jainDataBase/youtube/vishapahaar.html"
+      },
+      {
+        "title": "योगी-भक्ति",
+        "href": "./jainDataBase/youtube/yogibhakti.html"
+      },
+      {
+        "title": "विद्यमान-विंशति",
+        "href": "./jainDataBase/youtube/vvinshati.html"
+      },
+      {
+        "title": "एकीभाव-स्तोत्र",
+        "href": "./jainDataBase/youtube/ekibhav.html"
+      },
+      {
+        "title": "छहढाला",
+        "href": "./jainDataBase/youtube/chhahdhala.html"
+      }
+    ]
+  },
+  {
+    "title": "Youtube -- Animations",
+    "children": [
+      {
+        "title": "भगवान नमिनाथ",
+        "href": "./jainDataBase/youtube-animation/Neminath.html"
+      },
+      {
+        "title": "भगवान बाहुबली",
+        "href": "./jainDataBase/youtube-animation/Baahubali.html"
+      },
+      {
+        "title": "सुकुमाल मुनि",
+        "href": "./jainDataBase/youtube-animation/Sukumal.html"
+      },
+      {
+        "title": "कुन्दकुन्द आचार्य",
+        "href": "./jainDataBase/youtube-animation/Kundkund.html"
+      },
+      {
+        "title": "रक्षाबंधन की कथा",
+        "href": "./jainDataBase/youtube-animation/Rakshabandhan.html"
+      },
+      {
+        "title": "समवसरण",
+        "href": "./jainDataBase/youtube-animation/Samavsaran.html"
+      },
+      {
+        "title": "चार-गति",
+        "href": "./jainDataBase/youtube-animation/ChaarGati.html"
+      },
+      {
+        "title": "श्रुत-पंचमी",
+        "href": "./jainDataBase/youtube-animation/ShrutPanchami.html"
+      },
+      {
+        "title": "अक्षय-तृतीया",
+        "href": "./jainDataBase/youtube-animation/AkshayTritiya.html"
+      },
+      {
+        "title": "उद्दायन राजा",
+        "href": "./jainDataBase/youtube-animation/Uddayan.html"
+      },
+      {
+        "title": "राजा श्रेणिक और मेंढक",
+        "href": "./jainDataBase/youtube-animation/ShrenikFrog.html"
+      },
+      {
+        "title": "अंजन-चोर की कथा",
+        "href": "./jainDataBase/youtube-animation/AnjanChor.html"
+      },
+      {
+        "title": "पांच-पाप",
+        "href": "./jainDataBase/youtube-animation/FiveSins.html"
+      },
+      {
+        "title": "जीव-दया",
+        "href": "./jainDataBase/youtube-animation/JeevDayaa.html"
+      },
+      {
+        "title": "गर्भ-कल्याणक",
+        "href": "./jainDataBase/youtube-animation/GarbhaKalyaanak.html"
+      },
+      {
+        "title": "जन्म-कल्याणक",
+        "href": "./jainDataBase/youtube-animation/JanmKalyaanak.html"
+      },
+      {
+        "title": "तप-कल्याणक",
+        "href": "./jainDataBase/youtube-animation/TapKalyaanak.html"
+      },
+      {
+        "title": "णमोकार-मंत्र",
+        "href": "./jainDataBase/youtube-animation/Namokaar.html"
+      },
+      {
+        "title": "कुलाचार",
+        "href": "./jainDataBase/youtube-animation/Kulaachaar.html"
+      },
+      {
+        "title": "स्थावर-जीव",
+        "href": "./jainDataBase/youtube-animation/Sthaavar.html"
+      },
+      {
+        "title": "तीर्थंकर",
+        "href": "./jainDataBase/youtube-animation/Teerthankar.html"
+      },
+      {
+        "title": "जीव-अजीव",
+        "href": "./jainDataBase/youtube-animation/JeevAjeev.html"
+      },
+      {
+        "title": "चतुर्विध-संघ",
+        "href": "./jainDataBase/youtube-animation/ChaturvidhSangh.html"
+      },
+      {
+        "title": "प्रात:कालीन वन्दना",
+        "href": "./jainDataBase/youtube-animation/MorningPrayer.html"
+      }
+    ]
+  },
+  {
+    "title": "गुणस्थान",
+    "children": [
+      {
+        "title": "गुणस्थान-विभाजन",
+        "href": "./jainDataBase/misc/GunsthanTable.html"
+      },
+      {
+        "title": "गुणस्थान में उदय",
+        "href": "./jainDataBase/misc/GunsthanKarmUdayTable.html"
+      },
+      {
+        "title": "गुणस्थान-गमनागमन",
+        "href": "./jainDataBase/misc/GunsthanToAndFrom.html"
+      },
+      {
+        "title": "गुणस्थान-काल-संख्या",
+        "href": "./jainDataBase/misc/GunsthanKaalTable.html"
+      }
+    ]
+  },
+  {
+    "title": "कर्म",
+    "children": [
+      {
+        "title": "कर्म-उदय",
+        "href": "./jainDataBase/misc/karmUdayTable.html"
+      },
+      {
+        "title": "कर्म-बन्ध",
+        "href": "./jainDataBase/misc/karmBandhTable.html"
+      },
+      {
+        "title": "कर्म-सत्ता",
+        "href": "./jainDataBase/misc/karmSattaTable.html"
+      },
+      {
+        "title": "निषेक-रचना",
+        "href": "./jainDataBase/misc/nishekRachna.html"
+      }
+    ]
+  },
+  {
+    "title": "बंध",
+    "children": [
+      {
+        "title": "प्रकृति-बंध",
+        "href": "./jainDataBase/misc/prakratiBandhPrarupana.html"
+      },
+      {
+        "title": "स्थिति-बंध",
+        "href": "./jainDataBase/misc/stithiSaarani.html"
+      },
+      {
+        "title": "अनुभाग-बंध",
+        "href": "./jainDataBase/misc/anubhagBandhPrarupana.html"
+      }
+    ]
+  },
+  {
+    "title": "प्रमाण",
+    "children": [
+      {
+        "title": "क्षेत्र-प्रमाण",
+        "href": "./jainDataBase/misc/kshetraPramaan.html"
+      },
+      {
+        "title": "संख्याप्रमाण",
+        "href": "./jainDataBase/misc/sankhyaPramaan.html"
+      }
+    ]
+  },
+  {
+    "title": "Other",
+    "children": [
+      {
+        "title": "अल्प बहुत्व",
+        "href": "./jainDataBase/misc/alpBahutva.html"
+      },
+      {
+        "title": "गति-आगति",
+        "href": "./jainDataBase/misc/GatiAgati.html"
+      },
+      {
+        "title": "न्याय",
+        "href": "./jainDataBase/misc/nyaay.html"
+      },
+      {
+        "title": "मूल संघ पट्टावली",
+        "href": "./jainDataBase/misc/moolSanghPattavali.html"
+      }
+    ]
+  },
+  {
+    "title": "Download",
+    "children": [
+      {
+        "title": "जैन भजन",
+        "href": "./jainDataBase/downloads/JainBhajan.pdf"
+      },
+      {
+        "title": "जैन पूजा-पाठ",
+        "href": "./jainDataBase/downloads/JainPooja.pdf"
+      },
+      {
+        "title": "जीव समास",
+        "href": "./jainDataBase/downloads/JeevSamas.pdf"
+      },
+      {
+        "title": "BookMark",
+        "href": "./jainDataBase/downloads/BookMark.pdf"
+      },
+      {
+        "title": "Calendar-2019",
+        "href": "./jainDataBase/downloads/Cal-2019.pdf"
+      },
+      {
+        "title": "Jaipur Calendar-2019",
+        "href": "./jainDataBase/downloads/calendar-2019.pdf"
+      }
+    ]
+  },
+  {
+    "title": "PDF शास्त्र",
+    "children": [
+      {
+        "title": "गोम्मटसार-जीवकांड",
+        "href": "./jainDataBase/downloads/GomatsarJeevkand_InChartsTables.pdf"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र-चार्ट",
+        "href": "./jainDataBase/downloads/Tatvarthsutra_in_Charts_&amp;_Table.pdf"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र-English",
+        "href": "./jainDataBase/downloads/TattvarthaSutra-English.pdf"
+      },
+      {
+        "title": "पाहुड-दोहा",
+        "href": "./jainDataBase/downloads/RamSinghMuni-PahudDoha.pdf"
+      },
+      {
+        "title": "तत्त्वानुशासन",
+        "href": "./jainDataBase/downloads/Nagsen-TatvanuShasan.pdf"
+      },
+      {
+        "title": "लघुतत्त्व-स्फोट",
+        "href": "./jainDataBase/downloads/AmrutChandraAacharya--LaghuTattvaSfot.pdf"
+      },
+      {
+        "title": "परम-अध्यात्म-तरंगिनी",
+        "href": "./jainDataBase/downloads/AmrutChandraAacharya-ParamAadhyatmTarngini-Subhchandraacharya.pdf"
+      },
+      {
+        "title": "ज्ञानार्णव",
+        "href": "./jainDataBase/downloads/ShubChandrAacharya--Gyaanarnav.pdf"
+      },
+      {
+        "title": "भगवती-आराधना",
+        "href": "./jainDataBase/downloads/ShivaAcharya--BhagwatiAaradhana--PtSadasukhDasJi.pdf"
+      },
+      {
+        "title": "आराधानासार",
+        "href": "./jainDataBase/downloads/आराधनासार--Gatha.pdf"
+      },
+      {
+        "title": "जैन-सिद्धांत-प्रवेशिका",
+        "href": "./jainDataBase/downloads/Jain_Siddhant_Praveshika.pdf"
+      },
+      {
+        "title": "समयसार",
+        "href": "./jainDataBase/downloads/समयसार.pdf"
+      },
+      {
+        "title": "योगसार",
+        "href": "./jainDataBase/downloads/योगसार--Gatha.pdf"
+      },
+      {
+        "title": "प्रवचनसार",
+        "href": "./jainDataBase/downloads/प्रवचनसार.pdf"
+      },
+      {
+        "title": "पन्चास्तिकाय",
+        "href": "./jainDataBase/downloads/पन्चास्तिकाय.pdf"
+      },
+      {
+        "title": "द्रव्यसंग्रह",
+        "href": "./jainDataBase/downloads/द्रव्यसंग्रह.pdf"
+      },
+      {
+        "title": "दर्शनसार",
+        "href": "./jainDataBase/downloads/दर्शनसार--Gatha.pdf"
+      },
+      {
+        "title": "तत्त्वार्थसूत्र",
+        "href": "./jainDataBase/downloads/तत्त्वार्थसूत्र.pdf"
+      },
+      {
+        "title": "आलापपद्धति",
+        "href": "./jainDataBase/downloads/आलापपद्धति--Gatha.pdf"
+      },
+      {
+        "title": "इष्टोपदेश",
+        "href": "./jainDataBase/downloads/इष्टोपदेश--Gatha.pdf"
+      },
+      {
+        "title": "परमात्मप्रकाश",
+        "href": "./jainDataBase/downloads/परमात्मप्रकाश--Gatha.pdf"
+      },
+      {
+        "title": "पुरुषार्थसिद्ध्युपाय",
+        "href": "./jainDataBase/downloads/पुरुषार्थसिद्ध्युपाय--Gatha.pdf"
+      },
+      {
+        "title": "बारसणुपेक्_खा",
+        "href": "./jainDataBase/downloads/बारसणुपेक्_खा--Gatha.pdf"
+      },
+      {
+        "title": "रत्नकरण्ड-श्रावकाचार",
+        "href": "./jainDataBase/downloads/रत्नकरण्ड-श्रावकाचार.pdf"
+      },
+      {
+        "title": "श्रीअष्टपाहुड",
+        "href": "./jainDataBase/downloads/श्रीअष्टपाहुड.pdf"
+      },
+      {
+        "title": "समाधितन्त्र",
+        "href": "./jainDataBase/downloads/समाधितन्त्र.pdf"
+      },
+      {
+        "title": "स्वरूप-संबोधन",
+        "href": "./jainDataBase/downloads/स्वरूप-संबोधन--Gatha.pdf"
+      },
+      {
+        "title": "उत्तर-पुराण",
+        "href": "./jainDataBase/downloads/उत्तरपुराण.pdf"
+      },
+      {
+        "title": "आदि-पुराण",
+        "href": "./jainDataBase/downloads/आदिपुराण.pdf"
+      },
+      {
+        "title": "आराधना-कथा-कोश",
+        "href": "./jainDataBase/downloads/आराधना-कथा-कोश--Gatha.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Jain Comics",
+    "children": [
+      {
+        "title": "FruitsOfAuspiciousActs",
+        "href": "./jainDataBase/jainComics/FruitsOfAuspiciousActs.pdf"
+      },
+      {
+        "title": "JeevandharSwami",
+        "href": "./jainDataBase/jainComics/JeevandharSwami.pdf"
+      },
+      {
+        "title": "अज्ञात-प्रतिमा-की-खोज",
+        "href": "./jainDataBase/jainComics/अज्ञात-प्रतिमा-की-खोज.pdf"
+      },
+      {
+        "title": "आटे-का-मुर्गा",
+        "href": "./jainDataBase/jainComics/आटे-का-मुर्गा.pdf"
+      },
+      {
+        "title": "ऋषभदेव",
+        "href": "./jainDataBase/jainComics/ऋषभदेव.pdf"
+      },
+      {
+        "title": "कविवर-बनारसीदास",
+        "href": "./jainDataBase/jainComics/कविवर-बनारसीदास.pdf"
+      },
+      {
+        "title": "कुन्दकुन्दाचार्य",
+        "href": "./jainDataBase/jainComics/कुन्दकुन्दाचार्य.pdf"
+      },
+      {
+        "title": "गए-जा-गीत-अपन-के",
+        "href": "./jainDataBase/jainComics/गए-जा-गीत-अपन-के.pdf"
+      },
+      {
+        "title": "गोमटेश्वर-बाहुबली",
+        "href": "./jainDataBase/jainComics/गोमटेश्वर-बाहुबली.pdf"
+      },
+      {
+        "title": "चंदनबाला",
+        "href": "./jainDataBase/jainComics/चंदनबाला.pdf"
+      },
+      {
+        "title": "चौबीस-तीर्थंकर-१",
+        "href": "./jainDataBase/jainComics/चौबीस-तीर्थंकर-१.pdf"
+      },
+      {
+        "title": "चौबीस-तीर्थंकर-२",
+        "href": "./jainDataBase/jainComics/चौबीस-तीर्थंकर-२.pdf"
+      },
+      {
+        "title": "जनक-नन्दिनी-सीता",
+        "href": "./jainDataBase/jainComics/जनक-नन्दिनी-सीता.pdf"
+      },
+      {
+        "title": "जीवंधर-स्वामी",
+        "href": "./jainDataBase/jainComics/जीवंधर-स्वामी.pdf"
+      },
+      {
+        "title": "जो-करे-सो-भरे",
+        "href": "./jainDataBase/jainComics/जो-करे-सो-भरे.pdf"
+      },
+      {
+        "title": "टीले-वाले-बाबा",
+        "href": "./jainDataBase/jainComics/टीले-वाले-बाबा.pdf"
+      },
+      {
+        "title": "ताली-एक-हाथ-से-बजती-रही",
+        "href": "./jainDataBase/jainComics/ताली-एक-हाथ-से-बजती-रही.pdf"
+      },
+      {
+        "title": "तीन-दिन-में",
+        "href": "./jainDataBase/jainComics/तीन-दिन-में.pdf"
+      },
+      {
+        "title": "धर्म-के-दश-लक्षण",
+        "href": "./jainDataBase/jainComics/धर्म-के-दश-लक्षण.pdf"
+      },
+      {
+        "title": "पुण्य-का-फल",
+        "href": "./jainDataBase/jainComics/पुण्य-का-फल.pdf"
+      },
+      {
+        "title": "प्रद्युम्न-हरण",
+        "href": "./jainDataBase/jainComics/प्रद्युम्न-हरण.pdf"
+      },
+      {
+        "title": "प्रेय-की-भभूत",
+        "href": "./jainDataBase/jainComics/प्रेय-की-भभूत.pdf"
+      },
+      {
+        "title": "महादानी-भामाशाह",
+        "href": "./jainDataBase/jainComics/महादानी-भामाशाह.pdf"
+      },
+      {
+        "title": "महाबली-हनूमान",
+        "href": "./jainDataBase/jainComics/महाबली-हनूमान.pdf"
+      },
+      {
+        "title": "महारानी-चेलना-की-विजय",
+        "href": "./jainDataBase/jainComics/महारानी-चेलना-की-विजय.pdf"
+      },
+      {
+        "title": "मुनि-रक्षा",
+        "href": "./jainDataBase/jainComics/मुनि-रक्षा.pdf"
+      },
+      {
+        "title": "राजुल",
+        "href": "./jainDataBase/jainComics/राजुल.pdf"
+      },
+      {
+        "title": "रूप-जो-बदला-नहीं-जाता",
+        "href": "./jainDataBase/jainComics/रूप-जो-बदला-नहीं-जाता.pdf"
+      },
+      {
+        "title": "सिकन्दर-और-कल्याण-मुनि",
+        "href": "./jainDataBase/jainComics/सिकन्दर-और-कल्याण-मुनि.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Print Granth",
+    "children": [
+      {
+        "title": "jainBhajans.html",
+        "href": "./jainDataBase/genBooks/jainBhajans.html"
+      },
+      {
+        "title": "jainPoojas.html",
+        "href": "./jainDataBase/genBooks/jainPoojas.html"
+      }
+    ]
+  }
+  ]
+},
+
+
+];
