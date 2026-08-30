@@ -127,8 +127,6 @@ You can contribute code, report issues, suggest improvements, or share the proje
 [![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suvratjain2025@gmail.com)
 ## Github Stats
 
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=SuvratJainX&theme=midnight_sakura&metric=hours&label=Online)
-
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=SuvratJainX&theme=midnight_sakura&label=Github+Stars)
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=SuvratJainX&theme=midnight_sakura)
